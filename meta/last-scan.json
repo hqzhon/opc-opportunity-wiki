@@ -1,0 +1,11 @@
+{
+  "timezone": "Asia/Shanghai",
+  "markets": [
+    "跨境电商/独立站",
+    "SaaS/订阅"
+  ],
+  "last_scan_at": "2026-10-26T06:59:24+0800",
+  "entry_count": 12,
+  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md.",
+  "seeded_at": "2026-10-26T06:59:24+0800"
+}
