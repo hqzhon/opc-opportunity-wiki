@@ -18,3 +18,4 @@
 | 购买意向线索预警（单行业） | SaaS | 运营 | | [s6-intent-leads](entries/s6-intent-leads.md) |
 | 数字商品独立站（模板/微课/Prompt） | 跨境/独立站 | 运营 | 是 | [e7-digital-dtc](entries/e7-digital-dtc.md) |
 | Shopify Agentic Catalog 就绪体检 | SaaS | 技术 | 是 | [s7-agentic-catalog](entries/s7-agentic-catalog.md) |
+| 退货原因 → 详情页修复闭环（服装） | SaaS | 技术 | 是 | [s8-returns-listing](entries/s8-returns-listing.md) |
