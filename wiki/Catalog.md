@@ -19,3 +19,4 @@
 | 数字商品独立站（模板/微课/Prompt） | 跨境/独立站 | 运营 | 是 | [e7-digital-dtc](entries/e7-digital-dtc.md) |
 | Shopify Agentic Catalog 就绪体检 | SaaS | 技术 | 是 | [s7-agentic-catalog](entries/s7-agentic-catalog.md) |
 | 退货原因 → 详情页修复闭环（服装） | SaaS | 技术 | 是 | [s8-returns-listing](entries/s8-returns-listing.md) |
+| AI 购物代理政策 / 履约就绪体检 | SaaS | 技术 | 是 | [s9-agent-policy](entries/s9-agent-policy.md) |
