@@ -16,3 +16,5 @@
 | 自由职业者轻量客户中枢 | SaaS | 技术 | | [s4-freelancer-hub](entries/s4-freelancer-hub.md) |
 | 长视频 → 短视频垂直切片 | SaaS | 皆可 | | [s5-video-clips](entries/s5-video-clips.md) |
 | 购买意向线索预警（单行业） | SaaS | 运营 | | [s6-intent-leads](entries/s6-intent-leads.md) |
+| 数字商品独立站（模板/微课/Prompt） | 跨境/独立站 | 运营 | 是 | [e7-digital-dtc](entries/e7-digital-dtc.md) |
+| Shopify Agentic Catalog 就绪体检 | SaaS | 技术 | 是 | [s7-agentic-catalog](entries/s7-agentic-catalog.md) |
