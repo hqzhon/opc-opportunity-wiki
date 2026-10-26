@@ -7,6 +7,7 @@
 - [Wiki home](wiki/Home.md)
 - [Catalog](wiki/Catalog.md)
 - [Hourly digests](wiki/digests/)
+- [Agent Skills Wiki](https://github.com/hqzhon/agent-skills-wiki) — 可复用 agent skills 目录
 
 ## 收录标准
 
