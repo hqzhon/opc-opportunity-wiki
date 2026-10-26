@@ -1,12 +1,12 @@
 # 一人公司机会 Wiki
 
-面向一人公司（OPC）的可公开机会清单：聚焦 **跨境电商 / 独立站** 与 **SaaS / 订阅**，按小时扫描公开趋势与信号，沉淀成可复用的 wiki 条目。
+面向一人公司（OPC）的可公开机会清单：聚焦 **跨境电商 / 独立站** 与 **SaaS / 订阅**，持续整理公开趋势与信号，沉淀成可复用的 wiki 条目，**每日更新**。
 
 ## Browse
 
 - [Wiki home](wiki/Home.md)
 - [Catalog](wiki/Catalog.md)
-- [Hourly digests](wiki/digests/)
+- [更新日志](wiki/digests/)
 - [Agent Skills Wiki](https://github.com/hqzhon/agent-skills-wiki) — 可复用 agent skills 目录
 
 ## 收录标准
@@ -27,7 +27,7 @@ wiki/
   Home.md          # 总览与用法
   Catalog.md       # 全部机会索引
   entries/         # 每条机会一个 markdown
-  digests/         # 每小时扫描摘要
+  digests/         # 更新日志
 meta/
   last-scan.json   # 扫描游标 / 去重状态
 ```
@@ -38,4 +38,4 @@ meta/
 
 ## Maintenance
 
-扫描约每小时一次（Asia/Shanghai 白天）。新信号写入 digests，过质量关后晋升到 `wiki/entries/`。
+工作日持续扫描公开信号（Asia/Shanghai），过质量关后写入 `wiki/entries/`；对外按每日更新维护目录。
