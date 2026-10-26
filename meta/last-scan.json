@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-26T11:05:00+0800",
-  "entry_count": 16,
-  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-26-11: added s9-agent-policy (agent policy/fulfillment readiness; distinct from s7 catalog).",
+  "last_scan_at": "2026-10-26T14:00:00+0800",
+  "entry_count": 17,
+  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-26-14: promoted s10-com-inbound (COM customer-supplied material inbound tracking). Skipped occupied GapMine siblings, ShipCheck/ProfitShield, ChatGPT Ads companions, EU AI Act label apps, B2B net-terms chase, catalog-undo, Omnibus/DPP/size-chart/fake-return repeats.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

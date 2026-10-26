@@ -20,3 +20,4 @@
 | Shopify Agentic Catalog 就绪体检 | SaaS | 技术 | 是 | [s7-agentic-catalog](entries/s7-agentic-catalog.md) |
 | 退货原因 → 详情页修复闭环（服装） | SaaS | 技术 | 是 | [s8-returns-listing](entries/s8-returns-listing.md) |
 | AI 购物代理政策 / 履约就绪体检 | SaaS | 技术 | 是 | [s9-agent-policy](entries/s9-agent-policy.md) |
+| COM 客户自带物料入站追踪 | SaaS | 技术 | 是 | [s10-com-inbound](entries/s10-com-inbound.md) |
