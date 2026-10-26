@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-26T15:00:00+0800",
-  "entry_count": 18,
-  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-26-15: promoted s11-google-direct-checkout (Google AI Mode/Gemini direct-checkout readiness: SKU exclusion matrix + GMC sync + attribution gap). Skipped occupied GapMine/IdeaRadar siblings, photo-resale, proof-approval cluster, checkout monitors, Stripe MRR/MoR tools, RepairRight/Countermade, and prior Omnibus/DPP/net-terms/ChatGPT-Ads repeats.",
+  "last_scan_at": "2026-10-26T21:00:00+0800",
+  "entry_count": 19,
+  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-26-21: promoted s12-ucp-location (UCP location.search/lookup readiness vs Physical storefront / Available / pickup). Skipped AgentReady/UCPtools/Driftwatch/SAAS store-finder (adjacent), GapMine top cluster, script-tag deprecation scanners, India GST/COD-prepaid apps, Rollouts analytics companions, buyer order-edit apps, and prior EU/cancel/AppPulse clusters.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
