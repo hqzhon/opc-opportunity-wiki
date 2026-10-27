@@ -33,6 +33,7 @@
 - [★ Agentic Knowledge base 发布就绪体检](wiki/entries/s13-knowledge-base-publish.md)
 - [★ 退货窗覆盖规则就绪体检](wiki/entries/s14-return-window-overrides.md)
 - [★ Compare-at / list_price 代理可见就绪](wiki/entries/s15-compare-at-list-price.md)
+- [★ EU 低货值包裹三件套商品标识符就绪](wiki/entries/s16-eu-product-identifiers.md)
 
 ### 其他导航
 
