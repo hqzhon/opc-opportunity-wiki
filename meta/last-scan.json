@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-27T15:18:00+0800",
+  "last_scan_at": "2026-10-27T20:45:00+0800",
   "entry_count": 22,
-  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-27-15: promoted s14-return-window-overrides (Admin override × shortest-wins × policy/portal/KB) and s15-compare-at-list-price (Catalog list_price gates × variant hygiene). Skipped EU PID, Managed Markets flat-rate, return-shipping-tax-as-standalone, EU Withdrawal/DPP, Warranty/Preorder/Events/CAA clusters, agentic-general, UK VAT/Sidekick/Translate native, and third-party launch posts as non-wedges.",
+  "notes": "Dedupe by opportunity slug. 2026-10-27-20: backlog quality audit — rewrote hollow e1–e6 and s1–s6 with verifiable sources and two-week paths; thickened e7 and s7; left s8–s15 intact. No deletions. Catalog/README titles unchanged.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

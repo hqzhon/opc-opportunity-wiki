@@ -5,15 +5,15 @@
 | 市场 | 跨境电商 / 独立站 |
 | 适配 | 偏运营 |
 | 优先 | 是 |
-| 更新 | 2026-10-26 |
+| 更新 | 2026-10-27 |
 
 ## 一句话
 
-在 Shopify 卖高毛利数字下载品（模板、2 小时内微课、AI prompt pack），零库存、自动履约，用 Pinterest / TikTok 内容测款。
+在 Shopify 卖高毛利数字下载品（模板、2 小时内微课、AI prompt pack），零库存、自动履约，用 Pinterest / TikTok 内容测款后做邮箱与会员。
 
 ## 为什么现在
 
-2026 年 Shopify 生态把数字交付做成默认能力；业内反馈 AI prompt pack 与短微课是增速最快类目，毛利常见 85%–95%，比实体货更适合一人冷启动。
+Shopify 已把 Digital Products（原 Digital Downloads）做成官方免费能力：文件/链接自动发信、可限次访问、数字品免运费。第三方指南与卖家反馈里，AI prompt pack、Notion/Canva 模板、短微课仍是一人冷启动里毛利常见 85%–95% 的类目——没有采购与物流，两周就能测「预览→付费」转化。风险在同质化与盗版，不在履约；切口必须是**你懂的垂直痛点**，而不是又一个泛模板店。
 
 ## 目标客户
 
@@ -21,7 +21,7 @@
 
 ## 一人怎么起步
 
-选一个你懂的细分 → 做出 1 个可预览的 MVP（Canva 模板包或单技能微课）→ Shopify + 官方 Digital Downloads → 免费小样换邮箱 → 两周内用 Pinterest / Reels 测转化；有付费再扩套装与会员订阅。
+两周验证：选一个你懂的细分 → 做出 1 个可预览的 MVP（Canva 模板包或单技能微课）→ Shopify + 官方 Digital Products App → 免费小样换邮箱 → 用 Pinterest / Reels 测转化；有付费再扩套装与月度素材会员。全程用测试单确认下载链路。
 
 ## 难度
 
@@ -33,9 +33,11 @@
 
 ## 注意的坑
 
-过低定价损害感知价值；无预览难转化；盗版难绝——用下载次数限制与清晰许可，把精力放在获客而非追责；勿做成「又一个泛模板店」。
+过低定价损害感知价值；无预览难转化；盗版难绝——用下载次数限制与清晰许可，把精力放在获客而非追责；勿做成「又一个泛模板店」；退款政策要写清（数字品争议高）。
 
 ## 来源线索
 
-- [How to Sell Digital Products on Shopify (2026 Guide) | Talk Shop](https://www.letstalkshop.com/blog/how-to-sell-digital-products-on-shopify)（类目、毛利、交付与渠道）
-- 一线论坛对「内容能力 / 供应链至少占一样」的独立站反馈（如 CocoLoop 讨论串）
+- [Shopify Help: Digital Products / Digital Downloads](https://help.shopify.com/en/manual/products/digital-service-product/digital-downloads)（官方交付与限次）
+- [Shopify: Sell digital products](https://www.shopify.com/digital-products)（品类与场景）
+- [Talk Shop: How to Sell Digital Products on Shopify (2026)](https://www.letstalkshop.com/blog/how-to-sell-digital-products-on-shopify)（类目、毛利、渠道）
+- [Shopify App Store: Digital Products](https://apps.shopify.com/Digital-Downloads)（官方 App 入口）
