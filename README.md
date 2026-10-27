@@ -30,6 +30,7 @@
 - [★ COM 客户自带物料入站追踪](wiki/entries/s10-com-inbound.md)
 - [★ Google AI Mode / Gemini 直购结账就绪](wiki/entries/s11-google-direct-checkout.md)
 - [★ UCP 零售门店发现就绪体检](wiki/entries/s12-ucp-location.md)
+- [★ Agentic Knowledge base 发布就绪体检](wiki/entries/s13-knowledge-base-publish.md)
 
 ### 其他导航
 

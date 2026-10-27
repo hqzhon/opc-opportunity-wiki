@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-26T21:00:00+0800",
-  "entry_count": 19,
-  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-26-21: promoted s12-ucp-location (UCP location.search/lookup readiness vs Physical storefront / Available / pickup). Skipped AgentReady/UCPtools/Driftwatch/SAAS store-finder (adjacent), GapMine top cluster, script-tag deprecation scanners, India GST/COD-prepaid apps, Rollouts analytics companions, buyer order-edit apps, and prior EU/cancel/AppPulse clusters.",
+  "last_scan_at": "2026-10-27T09:00:00+0800",
+  "entry_count": 20,
+  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-27-09: promoted s13-knowledge-base-publish (Agentic Knowledge base draft→publish / conflict / >1000 migration before 2027-01-15). Skipped EU PID (PIDReady/Citebeam/SafeShelf), WarrantyBridge cluster, Managed Markets flat-rate margin tools, Pre-orders/Order-limits category-space, Next Gen Events & subscription CAA BFS (dev-facing), and prior agentic/GST/COD/Rollouts clusters.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

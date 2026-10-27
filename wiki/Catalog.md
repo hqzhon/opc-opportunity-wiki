@@ -23,3 +23,4 @@
 | COM 客户自带物料入站追踪 | SaaS | 技术 | 是 | [s10-com-inbound](entries/s10-com-inbound.md) |
 | Google AI Mode / Gemini 直购结账就绪 | SaaS | 技术 | 是 | [s11-google-direct-checkout](entries/s11-google-direct-checkout.md) |
 | UCP 零售门店发现就绪体检 | SaaS | 技术 | 是 | [s12-ucp-location](entries/s12-ucp-location.md) |
+| Agentic Knowledge base 发布就绪体检 | SaaS | 技术 | 是 | [s13-knowledge-base-publish](entries/s13-knowledge-base-publish.md) |
