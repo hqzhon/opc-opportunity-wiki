@@ -31,6 +31,8 @@
 - [★ Google AI Mode / Gemini 直购结账就绪](wiki/entries/s11-google-direct-checkout.md)
 - [★ UCP 零售门店发现就绪体检](wiki/entries/s12-ucp-location.md)
 - [★ Agentic Knowledge base 发布就绪体检](wiki/entries/s13-knowledge-base-publish.md)
+- [★ 退货窗覆盖规则就绪体检](wiki/entries/s14-return-window-overrides.md)
+- [★ Compare-at / list_price 代理可见就绪](wiki/entries/s15-compare-at-list-price.md)
 
 ### 其他导航
 

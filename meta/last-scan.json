@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-27T09:00:00+0800",
-  "entry_count": 20,
-  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-27-09: promoted s13-knowledge-base-publish (Agentic Knowledge base draft→publish / conflict / >1000 migration before 2027-01-15). Skipped EU PID (PIDReady/Citebeam/SafeShelf), WarrantyBridge cluster, Managed Markets flat-rate margin tools, Pre-orders/Order-limits category-space, Next Gen Events & subscription CAA BFS (dev-facing), and prior agentic/GST/COD/Rollouts clusters.",
+  "last_scan_at": "2026-10-27T15:18:00+0800",
+  "entry_count": 22,
+  "notes": "Dedupe by opportunity slug. Promote only finds that clear the quality bar in wiki/Home.md. 2026-10-27-15: promoted s14-return-window-overrides (Admin override × shortest-wins × policy/portal/KB) and s15-compare-at-list-price (Catalog list_price gates × variant hygiene). Skipped EU PID, Managed Markets flat-rate, return-shipping-tax-as-standalone, EU Withdrawal/DPP, Warranty/Preorder/Events/CAA clusters, agentic-general, UK VAT/Sidekick/Translate native, and third-party launch posts as non-wedges.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

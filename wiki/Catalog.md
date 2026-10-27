@@ -24,3 +24,5 @@
 | Google AI Mode / Gemini 直购结账就绪 | SaaS | 技术 | 是 | [s11-google-direct-checkout](entries/s11-google-direct-checkout.md) |
 | UCP 零售门店发现就绪体检 | SaaS | 技术 | 是 | [s12-ucp-location](entries/s12-ucp-location.md) |
 | Agentic Knowledge base 发布就绪体检 | SaaS | 技术 | 是 | [s13-knowledge-base-publish](entries/s13-knowledge-base-publish.md) |
+| 退货窗覆盖规则就绪体检 | SaaS | 技术 | 是 | [s14-return-window-overrides](entries/s14-return-window-overrides.md) |
+| Compare-at / list_price 代理可见就绪 | SaaS | 技术 | 是 | [s15-compare-at-list-price](entries/s15-compare-at-list-price.md) |
