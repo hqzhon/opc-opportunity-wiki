@@ -34,6 +34,7 @@
 - [★ 退货窗覆盖规则就绪体检](wiki/entries/s14-return-window-overrides.md)
 - [★ Compare-at / list_price 代理可见就绪](wiki/entries/s15-compare-at-list-price.md)
 - [★ EU 低货值包裹三件套商品标识符就绪](wiki/entries/s16-eu-product-identifiers.md)
+- [★ EU €2 处理费 + €3 关税结账回收就绪](wiki/entries/s17-eu-uhf-duty-recovery.md)
 
 ### 其他导航
 

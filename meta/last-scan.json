@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-27T21:24:00+0800",
-  "entry_count": 23,
-  "notes": "2026-10-27-21: added s16-eu-product-identifiers (EU €150 DTC parcel M/S/NS-PID readiness; Shopify Shipping & Managed Markets label block from 2026-11-01).",
+  "last_scan_at": "2026-10-28T09:30:00+0800",
+  "entry_count": 24,
+  "notes": "2026-10-28-09: added s17-eu-uhf-duty-recovery (EU €2 UHF + €3 duty checkout recovery readiness; deadline 2026-11-01; distinct from s16 PID).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
