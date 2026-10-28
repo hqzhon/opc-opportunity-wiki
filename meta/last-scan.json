@@ -1,11 +1,8 @@
 {
   "timezone": "Asia/Shanghai",
-  "markets": [
-    "跨境电商/独立站",
-    "SaaS/订阅"
-  ],
-  "last_scan_at": "2026-10-28T15:30:00+0800",
-  "entry_count": 25,
-  "notes": "2026-10-28-15: added s18-mm-flat-rate-shipping (Managed Markets guaranteed flat-rate shipping readiness; Changelog 2026-10-24; distinct from s16 PID / s17 UHF).",
+  "markets": ["跨境电商/独立站", "SaaS/订阅"],
+  "last_scan_at": "2026-10-28T21:30:00+0800",
+  "entry_count": 26,
+  "notes": "2026-10-28-21: added s19-uk-vat-fulfillment-routing (UK VAT by fulfillment location / order routing for >£135 GB; Changelog 2026-10-23; distinct from s16/s17/s18 EU/MM lines).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
