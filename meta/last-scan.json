@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-28T09:30:00+0800",
-  "entry_count": 24,
-  "notes": "2026-10-28-09: added s17-eu-uhf-duty-recovery (EU €2 UHF + €3 duty checkout recovery readiness; deadline 2026-11-01; distinct from s16 PID).",
+  "last_scan_at": "2026-10-28T15:30:00+0800",
+  "entry_count": 25,
+  "notes": "2026-10-28-15: added s18-mm-flat-rate-shipping (Managed Markets guaranteed flat-rate shipping readiness; Changelog 2026-10-24; distinct from s16 PID / s17 UHF).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

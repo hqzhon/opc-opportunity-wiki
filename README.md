@@ -35,6 +35,7 @@
 - [★ Compare-at / list_price 代理可见就绪](wiki/entries/s15-compare-at-list-price.md)
 - [★ EU 低货值包裹三件套商品标识符就绪](wiki/entries/s16-eu-product-identifiers.md)
 - [★ EU €2 处理费 + €3 关税结账回收就绪](wiki/entries/s17-eu-uhf-duty-recovery.md)
+- [★ Managed Markets 保价一口价运费就绪](wiki/entries/s18-mm-flat-rate-shipping.md)
 
 ### 其他导航
 
