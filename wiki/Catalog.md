@@ -32,3 +32,4 @@
 | UK VAT 履约仓路由就绪（>£135 GB） | SaaS | 技术 | 是 | [s19-uk-vat-fulfillment-routing](entries/s19-uk-vat-fulfillment-routing.md) |
 | 渠道商品数据映射就绪（Google/Meta/TikTok/Catalog） | SaaS | 技术 | 是 | [s20-channel-mapping-readiness](entries/s20-channel-mapping-readiness.md) |
 | Shop Promise 就绪（US 履约徽章 × Catalog 排序） | SaaS | 技术 | 是 | [s21-shop-promise-readiness](entries/s21-shop-promise-readiness.md) |
+| Amazon Seller Central 多渠道就绪（eBay/Shopify/TikTok/Walmart） | SaaS | 皆可 | 是 | [s22-amazon-multichannel-readiness](entries/s22-amazon-multichannel-readiness.md) |

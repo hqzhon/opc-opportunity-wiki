@@ -39,6 +39,7 @@
 - [★ UK VAT 履约仓路由就绪（>£135 GB）](wiki/entries/s19-uk-vat-fulfillment-routing.md)
 - [★ 渠道商品数据映射就绪（Google/Meta/TikTok/Catalog）](wiki/entries/s20-channel-mapping-readiness.md)
 - [★ Shop Promise 就绪（US 履约徽章 × Catalog 排序）](wiki/entries/s21-shop-promise-readiness.md)
+- [★ Amazon Seller Central 多渠道就绪（eBay/Shopify/TikTok/Walmart）](wiki/entries/s22-amazon-multichannel-readiness.md)
 
 ### 其他导航
 

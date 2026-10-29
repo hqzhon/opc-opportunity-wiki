@@ -1,8 +1,8 @@
 {
   "timezone": "Asia/Shanghai",
   "markets": ["跨境电商/独立站", "SaaS/订阅"],
-  "last_scan_at": "2026-10-29T15:30:00+0800",
-  "entry_count": 28,
-  "notes": "2026-10-29-15: added s21-shop-promise-readiness (US Shop Promise store/product badge readiness + Catalog/Shop ranking signal; Fall '26 Edition 2026-10-28; distinct from s7 Catalog eligibility, s9 agent policy, s14 return-window overrides).",
+  "last_scan_at": "2026-10-29T21:30:00+0800",
+  "entry_count": 29,
+  "notes": "2026-10-29-21: added s22-amazon-multichannel-readiness (Amazon Seller Central multichannel tools for eBay/Shopify/TikTok/Walmart; US gradual rollout; Seller News ~2026-10-20 + trade analysis 2026-10-21/24; distinct from s20 Shopify outbound channel mapping and e6 dual-channel strategy).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
