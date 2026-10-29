@@ -37,6 +37,7 @@
 - [★ EU €2 处理费 + €3 关税结账回收就绪](wiki/entries/s17-eu-uhf-duty-recovery.md)
 - [★ Managed Markets 保价一口价运费就绪](wiki/entries/s18-mm-flat-rate-shipping.md)
 - [★ UK VAT 履约仓路由就绪（>£135 GB）](wiki/entries/s19-uk-vat-fulfillment-routing.md)
+- [★ 渠道商品数据映射就绪（Google/Meta/TikTok/Catalog）](wiki/entries/s20-channel-mapping-readiness.md)
 
 ### 其他导航
 

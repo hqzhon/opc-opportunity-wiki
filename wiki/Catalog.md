@@ -30,3 +30,4 @@
 | EU €2 处理费 + €3 关税结账回收就绪 | SaaS | 技术 | 是 | [s17-eu-uhf-duty-recovery](entries/s17-eu-uhf-duty-recovery.md) |
 | Managed Markets 保价一口价运费就绪 | SaaS | 技术 | 是 | [s18-mm-flat-rate-shipping](entries/s18-mm-flat-rate-shipping.md) |
 | UK VAT 履约仓路由就绪（>£135 GB） | SaaS | 技术 | 是 | [s19-uk-vat-fulfillment-routing](entries/s19-uk-vat-fulfillment-routing.md) |
+| 渠道商品数据映射就绪（Google/Meta/TikTok/Catalog） | SaaS | 技术 | 是 | [s20-channel-mapping-readiness](entries/s20-channel-mapping-readiness.md) |

@@ -1,8 +1,8 @@
 {
   "timezone": "Asia/Shanghai",
   "markets": ["跨境电商/独立站", "SaaS/订阅"],
-  "last_scan_at": "2026-10-28T21:30:00+0800",
-  "entry_count": 26,
-  "notes": "2026-10-28-21: added s19-uk-vat-fulfillment-routing (UK VAT by fulfillment location / order routing for >£135 GB; Changelog 2026-10-23; distinct from s16/s17/s18 EU/MM lines).",
+  "last_scan_at": "2026-10-29T09:30:00+0800",
+  "entry_count": 27,
+  "notes": "2026-10-29-09: added s20-channel-mapping-readiness (per-channel product data mapping / coverage audit; Changelog 2026-10-28; distinct from s7 Catalog eligibility and s15 list_price).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
