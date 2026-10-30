@@ -33,3 +33,4 @@
 | 渠道商品数据映射就绪体检（Google / Meta / TikTok / Catalog） | SaaS | 技术 | 是 | [s20-channel-mapping-readiness](entries/s20-channel-mapping-readiness.md) |
 | Shop Promise 就绪体检（US 履约徽章 × Catalog 排序信号） | SaaS | 技术 | 是 | [s21-shop-promise-readiness](entries/s21-shop-promise-readiness.md) |
 | Amazon Seller Central 多渠道就绪体检（eBay / Shopify / TikTok / Walmart） | SaaS | 皆可 | 是 | [s22-amazon-multichannel-readiness](entries/s22-amazon-multichannel-readiness.md) |
+| FBA 退货定制分级就绪体检（Customized grading × Grade and Resell） | SaaS | 运营 | 是 | [s23-fba-customized-grading-readiness](entries/s23-fba-customized-grading-readiness.md) |

@@ -24,6 +24,7 @@
 - [★ UK VAT 履约仓路由就绪体检（>£135 GB）](wiki/entries/s19-uk-vat-fulfillment-routing.md) — 高客单发英是否因路由到非英国仓而在结账跳过 VAT
 - [★ Shop Promise 就绪体检（US 履约徽章 × Catalog 排序信号）](wiki/entries/s21-shop-promise-readiness.md) — Fall '26 扩大资格，美仓店的可信送达/退货徽章与 Catalog 信号
 - [★ Amazon Seller Central 多渠道就绪体检（eBay / Shopify / TikTok / Walmart）](wiki/entries/s22-amazon-multichannel-readiness.md) — Amazon 作多渠枢纽刚 rollout，先判「可连 / 慎同步 / 暂缓」
+- [★ FBA 退货定制分级就绪体检（Customized grading × Grade and Resell）](wiki/entries/s23-fba-customized-grading-readiness.md) — 假日退货浪前配好「全新再售」标准，高退货 ASIN 先覆盖
 
 完整优先表见 [Catalog](wiki/Catalog.md)。
 
@@ -65,6 +66,7 @@
 - [★ 渠道商品数据映射就绪体检（Google / Meta / TikTok / Catalog）](wiki/entries/s20-channel-mapping-readiness.md)
 - [★ Shop Promise 就绪体检（US 履约徽章 × Catalog 排序信号）](wiki/entries/s21-shop-promise-readiness.md)
 - [★ Amazon Seller Central 多渠道就绪体检（eBay / Shopify / TikTok / Walmart）](wiki/entries/s22-amazon-multichannel-readiness.md)
+- [★ FBA 退货定制分级就绪体检（Customized grading × Grade and Resell）](wiki/entries/s23-fba-customized-grading-readiness.md)
 
 ### 其他导航
 
