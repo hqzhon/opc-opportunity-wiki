@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-30T09:30:00+0800",
-  "entry_count": 30,
-  "notes": "2026-10-30-09: added s23-fba-customized-grading-readiness (Amazon FBA Customized grading for returns; Seller Forums ~2026-10-14; holiday return wave timing; distinct from s8/s14 Shopify returns and s22 multichannel).",
+  "last_scan_at": "2026-10-30T15:30:00+0800",
+  "entry_count": 31,
+  "notes": "2026-10-30-15: added s24-fba-partial-refund-readiness (Amazon FBA Partial Refunds by return reason; Seller Forums US/~3w UK~2026-10-09; distinct from s23 grading and s8/s14 Shopify returns).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

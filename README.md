@@ -25,6 +25,7 @@
 - [★ Shop Promise 就绪体检（US 履约徽章 × Catalog 排序信号）](wiki/entries/s21-shop-promise-readiness.md) — Fall '26 扩大资格，美仓店的可信送达/退货徽章与 Catalog 信号
 - [★ Amazon Seller Central 多渠道就绪体检（eBay / Shopify / TikTok / Walmart）](wiki/entries/s22-amazon-multichannel-readiness.md) — Amazon 作多渠枢纽刚 rollout，先判「可连 / 慎同步 / 暂缓」
 - [★ FBA 退货定制分级就绪体检（Customized grading × Grade and Resell）](wiki/entries/s23-fba-customized-grading-readiness.md) — 假日退货浪前配好「全新再售」标准，高退货 ASIN 先覆盖
+- [★ FBA 部分退款按原因就绪体检（Partial Refunds × return reason）](wiki/entries/s24-fba-partial-refund-readiness.md) — 退货原因级「留货+部分退款」开关与百分比，假日浪前先收窄
 
 完整优先表见 [Catalog](wiki/Catalog.md)。
 
@@ -67,6 +68,7 @@
 - [★ Shop Promise 就绪体检（US 履约徽章 × Catalog 排序信号）](wiki/entries/s21-shop-promise-readiness.md)
 - [★ Amazon Seller Central 多渠道就绪体检（eBay / Shopify / TikTok / Walmart）](wiki/entries/s22-amazon-multichannel-readiness.md)
 - [★ FBA 退货定制分级就绪体检（Customized grading × Grade and Resell）](wiki/entries/s23-fba-customized-grading-readiness.md)
+- [★ FBA 部分退款按原因就绪体检（Partial Refunds × return reason）](wiki/entries/s24-fba-partial-refund-readiness.md)
 
 ### 其他导航
 

@@ -34,3 +34,4 @@
 | Shop Promise 就绪体检（US 履约徽章 × Catalog 排序信号） | SaaS | 技术 | 是 | [s21-shop-promise-readiness](entries/s21-shop-promise-readiness.md) |
 | Amazon Seller Central 多渠道就绪体检（eBay / Shopify / TikTok / Walmart） | SaaS | 皆可 | 是 | [s22-amazon-multichannel-readiness](entries/s22-amazon-multichannel-readiness.md) |
 | FBA 退货定制分级就绪体检（Customized grading × Grade and Resell） | SaaS | 运营 | 是 | [s23-fba-customized-grading-readiness](entries/s23-fba-customized-grading-readiness.md) |
+| FBA 部分退款按原因就绪体检（Partial Refunds × return reason） | SaaS | 运营 | 是 | [s24-fba-partial-refund-readiness](entries/s24-fba-partial-refund-readiness.md) |
