@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-10-30T15:30:00+0800",
-  "entry_count": 31,
-  "notes": "2026-10-30-15: added s24-fba-partial-refund-readiness (Amazon FBA Partial Refunds by return reason; Seller Forums US/~3w UK~2026-10-09; distinct from s23 grading and s8/s14 Shopify returns).",
+  "last_scan_at": "2026-10-30T21:30:00+0800",
+  "entry_count": 32,
+  "notes": "2026-10-30-21: added s25-stripe-pause-retention-readiness (Stripe Endive portal pause 2026-10-28 + on-demand/auto-pause 2026-09-30; flexible billing gate; distinct from s2 dunning).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

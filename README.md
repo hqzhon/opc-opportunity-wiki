@@ -26,6 +26,7 @@
 - [★ Amazon Seller Central 多渠道就绪体检（eBay / Shopify / TikTok / Walmart）](wiki/entries/s22-amazon-multichannel-readiness.md) — Amazon 作多渠枢纽刚 rollout，先判「可连 / 慎同步 / 暂缓」
 - [★ FBA 退货定制分级就绪体检（Customized grading × Grade and Resell）](wiki/entries/s23-fba-customized-grading-readiness.md) — 假日退货浪前配好「全新再售」标准，高退货 ASIN 先覆盖
 - [★ FBA 部分退款按原因就绪体检（Partial Refunds × return reason）](wiki/entries/s24-fba-partial-refund-readiness.md) — 退货原因级「留货+部分退款」开关与百分比，假日浪前先收窄
+- [★ Stripe 订阅暂停留存就绪体检（Portal pause × flexible billing × auto-pause）](wiki/entries/s25-stripe-pause-retention-readiness.md) — Endive 原生 pause + 门户自助暂停；classic→flexible 单向门槛先审再开
 
 完整优先表见 [Catalog](wiki/Catalog.md)。
 
@@ -69,6 +70,7 @@
 - [★ Amazon Seller Central 多渠道就绪体检（eBay / Shopify / TikTok / Walmart）](wiki/entries/s22-amazon-multichannel-readiness.md)
 - [★ FBA 退货定制分级就绪体检（Customized grading × Grade and Resell）](wiki/entries/s23-fba-customized-grading-readiness.md)
 - [★ FBA 部分退款按原因就绪体检（Partial Refunds × return reason）](wiki/entries/s24-fba-partial-refund-readiness.md)
+- [★ Stripe 订阅暂停留存就绪体检（Portal pause × flexible billing × auto-pause）](wiki/entries/s25-stripe-pause-retention-readiness.md)
 
 ### 其他导航
 
