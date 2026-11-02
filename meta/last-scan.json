@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-02T09:20:00+0800",
-  "entry_count": 33,
-  "notes": "2026-11-02-09: added s26-amazon-virtual-multipack-readiness (Amazon VMP wave created by 10-28, review/delete by 11-10, live 11-11; per-unit FBA fees, irreversible delete). Skipped: Amazon $1M liability insurance (broker/AIA territory), TikTok Shop NBFR/pre-order, Shopify GTIN suggestions (overlaps s16/s20).",
+  "last_scan_at": "2026-11-02T15:25:00+0800",
+  "entry_count": 34,
+  "notes": "2026-11-02-15: added s27-amazon-fbm-prepaid-return-label-readiness (US FBM prepaid return labels required from 12-18; 7-day clock; auto returnless refund deducted; messaging labels invalid). README: s16/s17 marked as in effect since 11-01.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

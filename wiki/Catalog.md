@@ -37,3 +37,4 @@
 | FBA 部分退款按原因就绪体检（Partial Refunds × return reason） | SaaS | 运营 | 是 | [s24-fba-partial-refund-readiness](entries/s24-fba-partial-refund-readiness.md) |
 | Stripe 订阅暂停留存就绪体检（Portal pause × flexible billing × auto-pause） | SaaS | 技术 | 是 | [s25-stripe-pause-retention-readiness](entries/s25-stripe-pause-retention-readiness.md) |
 | Amazon 虚拟多件装就绪体检（Virtual Multipacks × 单件费率 × 不可恢复删除） | SaaS | 运营 | 是 | [s26-amazon-virtual-multipack-readiness](entries/s26-amazon-virtual-multipack-readiness.md) |
+| Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款） | SaaS | 运营 | 是 | [s27-amazon-fbm-prepaid-return-label-readiness](entries/s27-amazon-fbm-prepaid-return-label-readiness.md) |
