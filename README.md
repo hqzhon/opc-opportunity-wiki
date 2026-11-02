@@ -16,8 +16,9 @@
 
 ## 先看这些（优先 ★）
 
-近期截止日与假日旺季相关（Amazon 卖家先看前两条），建议优先打开：
+近期截止日与假日旺季相关（TikTok Shop 卖家先看第一条，Amazon 卖家看第二、三条），建议优先打开：
 
+- [★ TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归）](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) — **2026-11-04** 起更多违规扣分，BFCM 保护期只停处罚不停扣分，12-08 低分店的下一张违规单就触发禁上新
 - [★ Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款）](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) — **2026-12-18** 起 US 自发货退货须预付面单，7 天内不上传/不退款就被自动免退扣款
 - [★ Amazon 虚拟多件装就绪体检（Virtual Multipacks × 单件费率 × 不可恢复删除）](wiki/entries/s26-amazon-virtual-multipack-readiness.md) — **2026-11-10** 前审核 Amazon 代建的 `VMP_` 多件装，11-11 自动开售；删了不能恢复
 - [★ EU 低货值包裹三件套商品标识符就绪体检](wiki/entries/s16-eu-product-identifiers.md) — **11-01 已生效**：€150 以下发欧盟须齐三件套，缺项可能买不了面单，现在查漏
@@ -75,6 +76,7 @@
 - [★ Stripe 订阅暂停留存就绪体检（Portal pause × flexible billing × auto-pause）](wiki/entries/s25-stripe-pause-retention-readiness.md)
 - [★ Amazon 虚拟多件装就绪体检（Virtual Multipacks × 单件费率 × 不可恢复删除）](wiki/entries/s26-amazon-virtual-multipack-readiness.md)
 - [★ Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款）](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md)
+- [★ TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归）](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md)
 
 ### 其他导航
 
