@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-03T09:30:00+0800",
-  "entry_count": 36,
-  "notes": "2026-11-03-09: added s29-etsy-listing-image-ai-readiness (Etsy 10-22 rules: one unedited photo per listing, AI-generated functional guides banned, refund risk on not-as-described cases; ToS AI training from 12-16). Skipped: eBay Balance mandatory 11-04 (trivial), eBay privacy notice 11-26 (informational).",
+  "last_scan_at": "2026-11-03T21:30:00+0800",
+  "entry_count": 37,
+  "notes": "2026-11-03-21: added s30-stripe-radar-renewal-cost-readiness (Stripe paid Radar bills renewals and declined/blocked attempts since 10-21; US trial accounts auto-billed Standard $0.05/screen after 2027-01-22 unless switched to Lite). 15:00 round skipped (Mac unreachable). Skipped: Amazon $1M liability insurance + AIA for China sellers (11-02, insurance broker play, low one-person fit); Shopify Nov changelog (UX).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
