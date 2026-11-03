@@ -39,3 +39,4 @@
 | Amazon 虚拟多件装就绪体检（Virtual Multipacks × 单件费率 × 不可恢复删除） | SaaS | 运营 | 是 | [s26-amazon-virtual-multipack-readiness](entries/s26-amazon-virtual-multipack-readiness.md) |
 | Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款） | SaaS | 运营 | 是 | [s27-amazon-fbm-prepaid-return-label-readiness](entries/s27-amazon-fbm-prepaid-return-label-readiness.md) |
 | TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归） | SaaS | 运营 | 是 | [s28-tiktok-shop-ahr-bfcm-readiness](entries/s28-tiktok-shop-ahr-bfcm-readiness.md) |
+| Etsy 商品图与 AI 新规就绪体检（一张未修图 × AI 教程禁售 × 不符被判退款） | SaaS | 运营 | 是 | [s29-etsy-listing-image-ai-readiness](entries/s29-etsy-listing-image-ai-readiness.md) |

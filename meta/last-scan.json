@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-02T21:30:00+0800",
-  "entry_count": 35,
-  "notes": "2026-11-02-21: added s28-tiktok-shop-ahr-bfcm-readiness (TikTok Shop AHR: more violations deduct from 11-04; BFCM protection 11-04~12-07 pauses milestone actions not deductions; enforcement returns 12-08). Skipped: Amazon liability insurance/AIA (11-02, not a one-person service), Shopify Global Catalog REST sunset (11-02, already past).",
+  "last_scan_at": "2026-11-03T09:30:00+0800",
+  "entry_count": 36,
+  "notes": "2026-11-03-09: added s29-etsy-listing-image-ai-readiness (Etsy 10-22 rules: one unedited photo per listing, AI-generated functional guides banned, refund risk on not-as-described cases; ToS AI training from 12-16). Skipped: eBay Balance mandatory 11-04 (trivial), eBay privacy notice 11-26 (informational).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
