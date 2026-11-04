@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-03T21:30:00+0800",
-  "entry_count": 37,
-  "notes": "2026-11-03-21: added s30-stripe-radar-renewal-cost-readiness (Stripe paid Radar bills renewals and declined/blocked attempts since 10-21; US trial accounts auto-billed Standard $0.05/screen after 2027-01-22 unless switched to Lite). 15:00 round skipped (Mac unreachable). Skipped: Amazon $1M liability insurance + AIA for China sellers (11-02, insurance broker play, low one-person fit); Shopify Nov changelog (UX).",
+  "last_scan_at": "2026-11-04T09:30:00+0800",
+  "entry_count": 38,
+  "notes": "2026-11-04-09: added s31-apple-multiseat-subscription-readiness (Apple multiseat subscription purchasing via Apple Business / School Manager live 10-22, on by default; removing org storefront cancels existing org subscribers at next renewal; group purchases sandbox Nov 2026, App Store this winter). Skipped: Walmart price incentives auto-enroll reports; Walmart 455-day inactive suspension; Lemon Squeezy -> Stripe Managed Payments (no deadline).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

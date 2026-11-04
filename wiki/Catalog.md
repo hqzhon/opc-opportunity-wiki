@@ -41,3 +41,4 @@
 | TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归） | SaaS | 运营 | 是 | [s28-tiktok-shop-ahr-bfcm-readiness](entries/s28-tiktok-shop-ahr-bfcm-readiness.md) |
 | Etsy 商品图与 AI 新规就绪体检（一张未修图 × AI 教程禁售 × 不符被判退款） | SaaS | 运营 | 是 | [s29-etsy-listing-image-ai-readiness](entries/s29-etsy-listing-image-ai-readiness.md) |
 | Stripe Radar 续费筛查计费就绪体检（10-21 续费计费 × 01-22 试用结束 × Lite 还是 Standard） | SaaS | 技术 | 是 | [s30-stripe-radar-renewal-cost-readiness](entries/s30-stripe-radar-renewal-cost-readiness.md) |
+| Apple 订阅多席位就绪体检（10-22 默认开启 × 关错开关会停续费 × 冬季群组购买） | SaaS | 技术 | 是 | [s31-apple-multiseat-subscription-readiness](entries/s31-apple-multiseat-subscription-readiness.md) |

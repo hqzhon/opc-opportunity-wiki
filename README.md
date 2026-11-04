@@ -2,7 +2,7 @@
 
 **一人公司机会清单：跨境电商 / 独立站与 SaaS，每日更新。**
 
-面向正在做（或准备做）**一人公司（OPC）** 的运营者与独立开发者：把近期可公开验证的趋势与平台变更，整理成可执行的 wiki 条目——说清给谁、为什么现在、两周怎么起步、怎么变现，以及要注意的坑。适合跨境电商 / 独立站卖家，以及做 SaaS / 订阅产品的技术与运营一人团队。
+面向正在做（或准备做）**一人公司（OPC）** 的运营者与独立开发者：把近期可公开验证的趋势与平台变更，整理成可执行的 wiki 条目——说清给谁、为什么现在、两周怎么起步、怎么变现，以及要注意的坑。适合跨境电商 / 独立站卖家，以及做 SaaS / 订阅产品（含 App Store 订阅 App）的技术与运营一人团队。
 
 公开仓库：[github.com/hqzhon/opc-opportunity-wiki](https://github.com/hqzhon/opc-opportunity-wiki)
 
@@ -16,13 +16,14 @@
 
 ## 先看这些（优先 ★）
 
-近期截止日与假日旺季相关（TikTok Shop 卖家先看第一条，Etsy 卖家看第二条，Amazon 卖家看第三、四条，用 Stripe 收订阅的 SaaS 看第五条），建议优先打开：
+近期截止日与假日旺季相关（TikTok Shop 卖家先看第一条，Etsy 卖家看第二条，Amazon 卖家看第三、四条，用 Stripe 收订阅的 SaaS 看第五条，在 App Store 卖订阅的独立开发者看第六条），建议优先打开：
 
 - [★ TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归）](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) — **2026-11-04** 起更多违规扣分，BFCM 保护期只停处罚不停扣分，12-08 低分店的下一张违规单就触发禁上新
 - [★ Etsy 商品图与 AI 新规就绪体检（一张未修图 × AI 教程禁售 × 不符被判退款）](wiki/entries/s29-etsy-listing-image-ai-readiness.md) — 10-22 起多数 listing 须有一张**未修图**，AI 生成的图纸/食谱禁售；图不合规又遇「与描述不符」纠纷可能被判退款，旺季前先过全店
 - [★ Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款）](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) — **2026-12-18** 起 US 自发货退货须预付面单，7 天内不上传/不退款就被自动免退扣款
 - [★ Amazon 虚拟多件装就绪体检（Virtual Multipacks × 单件费率 × 不可恢复删除）](wiki/entries/s26-amazon-virtual-multipack-readiness.md) — **2026-11-10** 前审核 Amazon 代建的 `VMP_` 多件装，11-11 自动开售；删了不能恢复
 - [★ Stripe Radar 续费筛查计费就绪体检（10-21 续费计费 × 01-22 试用结束 × Lite 还是 Standard）](wiki/entries/s30-stripe-radar-renewal-cost-readiness.md) — 10-21 起付费 Radar 连续费和被拒尝试都按次计费；受影响的美国账户 **2027-01-22** 免费试用结束后自动按 $0.05/次扣，先算账再决定限轮还是切 Lite
+- [★ Apple 订阅多席位就绪体检（10-22 默认开启 × 关错开关会停续费 × 冬季群组购买）](wiki/entries/s31-apple-multiseat-subscription-readiness.md) — 10-22 起你的 App 订阅可能已被**默认**挂上 Apple Business / School Manager 卖给机构；关错开关会让机构客户下次续费后取消，冬季群组购买前先审一遍
 - [★ EU 低货值包裹三件套商品标识符就绪体检](wiki/entries/s16-eu-product-identifiers.md) — **11-01 已生效**：€150 以下发欧盟须齐三件套，缺项可能买不了面单，现在查漏
 - [★ EU €2 处理费 + €3 关税结账回收就绪体检](wiki/entries/s17-eu-uhf-duty-recovery.md) — 11-01 已生效的 UHF + 关税，结账侧是否已回收、文案是否覆盖「UHF 不退」
 - [★ Managed Markets 保价一口价运费就绪体检](wiki/entries/s18-mm-flat-rate-shipping.md) — 假日前锁国际运费成本：一口价该不该开、担保面单有没有买对
@@ -81,6 +82,7 @@
 - [★ TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归）](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md)
 - [★ Etsy 商品图与 AI 新规就绪体检（一张未修图 × AI 教程禁售 × 不符被判退款）](wiki/entries/s29-etsy-listing-image-ai-readiness.md)
 - [★ Stripe Radar 续费筛查计费就绪体检（10-21 续费计费 × 01-22 试用结束 × Lite 还是 Standard）](wiki/entries/s30-stripe-radar-renewal-cost-readiness.md)
+- [★ Apple 订阅多席位就绪体检（10-22 默认开启 × 关错开关会停续费 × 冬季群组购买）](wiki/entries/s31-apple-multiseat-subscription-readiness.md)
 
 ### 其他导航
 
