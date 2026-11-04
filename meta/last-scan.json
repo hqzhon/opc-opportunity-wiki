@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-04T15:15:00+0800",
-  "entry_count": 39,
-  "notes": "2026-11-04-15: added s32-google-play-chargeback-review-readiness (Google Play chargeback cost shared with developers for orders after 2026-08-03; optional orders.reviewrefund API, 24h window after PendingRefundReviewNotification, first call only). Skipped: Amazon $1M liability insurance for enhanced-safety categories (insurance-led, weak solo angle); Amazon holiday return window through 2027-01-31 (no action needed); Paddle Oct changelog items (incremental).",
+  "last_scan_at": "2026-11-04T21:25:00+0800",
+  "entry_count": 40,
+  "notes": "2026-11-04-21: added s33-shopify-expiring-offline-token-readiness (public apps must use expiring offline tokens by 2027-01-01 or get delisted; 01-15 merchant warnings; 04-01 HTTP 403; direct migration invalidates old token, 7-day recovery). Skipped: Amazon manufacturer-packaged bundles 2027-01-11 (verify official source next round); Shopify Global Catalog REST shutdown 11-02 (past, narrow); Intercom Fin billing connectors (product news).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
