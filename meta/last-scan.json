@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-04T21:25:00+0800",
-  "entry_count": 40,
-  "notes": "2026-11-04-21: added s33-shopify-expiring-offline-token-readiness (public apps must use expiring offline tokens by 2027-01-01 or get delisted; 01-15 merchant warnings; 04-01 HTTP 403; direct migration invalidates old token, 7-day recovery). Skipped: Amazon manufacturer-packaged bundles 2027-01-11 (verify official source next round); Shopify Global Catalog REST shutdown 11-02 (past, narrow); Intercom Fin billing connectors (product news).",
+  "last_scan_at": "2026-11-05T09:25:00+0800",
+  "entry_count": 41,
+  "notes": "2026-11-05-09: added s34-amazon-bundle-manufacturer-packaging-readiness (Amazon US single-ASIN bundles must be manufacturer/brand packaged from 2027-01-11; exceptions LOA, gifting/camera, Virtual Bundles; noncompliant deactivated + Account Health violation). Skipped: Built for Shopify Customer Account API requirement for returns/subscription apps 12-01 (BFS status only, narrow); eBay currency conversion fee increases 12-01 (fee news).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

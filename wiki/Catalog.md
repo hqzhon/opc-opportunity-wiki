@@ -44,3 +44,4 @@
 | Apple 订阅多席位就绪体检（10-22 默认开启 × 关错开关会停续费 × 冬季群组购买） | SaaS | 技术 | 是 | [s31-apple-multiseat-subscription-readiness](entries/s31-apple-multiseat-subscription-readiness.md) |
 | Google Play 拒付成本就绪体检（8-03 后订单由开发者承担 × 24 小时 ReviewRefund × 只认第一次回应） | SaaS | 技术 | 是 | [s32-google-play-chargeback-review-readiness](entries/s32-google-play-chargeback-review-readiness.md) |
 | Shopify 公开 App 过期离线令牌迁移体检（01-01 下架 × 01-15 商家警告 × 04-01 返回 403） | SaaS | 技术 | 是 | [s33-shopify-expiring-offline-token-readiness](entries/s33-shopify-expiring-offline-token-readiness.md) |
+| Amazon 捆绑商品原厂包装新规体检（01-11 起 × 授权信 × 不合规下架记违规） | SaaS | 运营 | 是 | [s34-amazon-bundle-manufacturer-packaging-readiness](entries/s34-amazon-bundle-manufacturer-packaging-readiness.md) |
