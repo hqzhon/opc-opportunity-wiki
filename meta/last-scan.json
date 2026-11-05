@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-05T15:30:00+0800",
-  "entry_count": 42,
-  "notes": "2026-11-05-15: added s35-us-postal-entry-type13-readiness (CBP: from 2027-01-20 international postal shipments subject to Section 201/232/301 duty or PGA jurisdiction need Entry Type 13 in ACE or formal entry; Etsy warned international sellers, packages may be held/returned). Skipped: Shopify network access testing preview (dev tooling, narrow); eBay privacy notice 11-26 AI review (no clear one-person wedge); eBay currency conversion fee increases (fee news).",
+  "last_scan_at": "2026-11-05T21:30:00+0800",
+  "entry_count": 43,
+  "notes": "2026-11-05-21: added s36-amazon-liability-insurance-readiness (Amazon US: from 2026-11-02 enhanced-safety categories need $1M commercial liability regardless of $10k/mo threshold; Mainland China sellers must use AIA for new policies). Skipped: Shopify Global Catalog REST already stopped 11-02; Gift Card line_item_id read-only 2027-01 (narrow); Shopify network access / dev store testing (dev tooling); PayPal 01-11 fees/crypto terms (weak wedge); no fresh hard deadline from eBay/Walmart this round.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

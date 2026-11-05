@@ -16,13 +16,14 @@
 
 ## 先看这些（优先 ★）
 
-近期截止日与假日旺季相关（TikTok Shop 卖家先看第一条，Etsy 卖家看第二条，Amazon 卖家看第三到五条，用 Stripe 收订阅的 SaaS 看第六条，在 App Store 卖订阅的独立开发者看第七条，在 Google Play 卖订阅或内购的看第八条，维护 Shopify 公开 App 的开发者看第九条，从境外用邮政小包直发美国的卖家看第十条），建议优先打开：
+近期截止日与假日旺季相关（TikTok Shop 卖家先看第一条，Etsy 卖家看第二条，Amazon 卖家看第三到六条——含刚生效的安全类目责任险，用 Stripe 收订阅的 SaaS 看第七条，在 App Store 卖订阅的独立开发者看第八条，在 Google Play 卖订阅或内购的看第九条，维护 Shopify 公开 App 的开发者看第十条，从境外用邮政小包直发美国的卖家看第十一条），建议优先打开：
 
 - [★ TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归）](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) — **2026-11-04** 起更多违规扣分，BFCM 保护期只停处罚不停扣分，12-08 低分店的下一张违规单就触发禁上新
 - [★ Etsy 商品图与 AI 新规就绪体检（一张未修图 × AI 教程禁售 × 不符被判退款）](wiki/entries/s29-etsy-listing-image-ai-readiness.md) — 10-22 起多数 listing 须有一张**未修图**，AI 生成的图纸/食谱禁售；图不合规又遇「与描述不符」纠纷可能被判退款，旺季前先过全店
 - [★ Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款）](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) — **2026-12-18** 起 US 自发货退货须预付面单，7 天内不上传/不退款就被自动免退扣款
 - [★ Amazon 虚拟多件装就绪体检（Virtual Multipacks × 单件费率 × 不可恢复删除）](wiki/entries/s26-amazon-virtual-multipack-readiness.md) — **2026-11-10** 前审核 Amazon 代建的 `VMP_` 多件装，11-11 自动开售；删了不能恢复
 - [★ Amazon 捆绑商品原厂包装新规体检（01-11 起 × 授权信 × 不合规下架记违规）](wiki/entries/s34-amazon-bundle-manufacturer-packaging-readiness.md) — **2027-01-11** 起美国站多数单 ASIN 捆绑须原厂或品牌包装，否则停用并记账户健康违规；旺季补货前先分清哪些要授权信、哪些改虚拟捆绑、哪些清库
+- [★ Amazon 安全类目百万责任险就绪体检（11-02 起 × 不论销量 × 中国卖家须走 AIA）](wiki/entries/s36-amazon-liability-insurance-readiness.md) — **2026-11-02** 起增强安全类目 listing 不论月销是否到过 $10k 都须 $100 万责任险；中国大陆卖家新保单必须走 AIA，收到 45 天补证邮件前先对照 ASIN 与 COI
 - [★ Stripe Radar 续费筛查计费就绪体检（10-21 续费计费 × 01-22 试用结束 × Lite 还是 Standard）](wiki/entries/s30-stripe-radar-renewal-cost-readiness.md) — 10-21 起付费 Radar 连续费和被拒尝试都按次计费；受影响的美国账户 **2027-01-22** 免费试用结束后自动按 $0.05/次扣，先算账再决定限轮还是切 Lite
 - [★ Apple 订阅多席位就绪体检（10-22 默认开启 × 关错开关会停续费 × 冬季群组购买）](wiki/entries/s31-apple-multiseat-subscription-readiness.md) — 10-22 起你的 App 订阅可能已被**默认**挂上 Apple Business / School Manager 卖给机构；关错开关会让机构客户下次续费后取消，冬季群组购买前先审一遍
 - [★ Google Play 拒付成本就绪体检（8-03 后订单由开发者承担 × 24 小时 ReviewRefund × 只认第一次回应）](wiki/entries/s32-google-play-chargeback-review-readiness.md) — **2026-08-03** 之后的 Play 订单被拒付，货款和发卡行手续费改由开发者承担；用 ReviewRefund API 在 24 小时内交证据帮 Google 抗辩，且只认第一次回应，假日拒付到来前先接好
@@ -91,6 +92,7 @@
 - [★ Shopify 公开 App 过期离线令牌迁移体检（01-01 下架 × 01-15 商家警告 × 04-01 返回 403）](wiki/entries/s33-shopify-expiring-offline-token-readiness.md)
 - [★ Amazon 捆绑商品原厂包装新规体检（01-11 起 × 授权信 × 不合规下架记违规）](wiki/entries/s34-amazon-bundle-manufacturer-packaging-readiness.md)
 - [★ 美国邮政小包 Entry Type 13 就绪体检（01-20 起 × 301 关税与 FDA/CPSC 类商品 × 缺数据被扣或退回）](wiki/entries/s35-us-postal-entry-type13-readiness.md)
+- [★ Amazon 安全类目百万责任险就绪体检（11-02 起 × 不论销量 × 中国卖家须走 AIA）](wiki/entries/s36-amazon-liability-insurance-readiness.md)
 
 ### 其他导航
 
