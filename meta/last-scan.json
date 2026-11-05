@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-05T09:25:00+0800",
-  "entry_count": 41,
-  "notes": "2026-11-05-09: added s34-amazon-bundle-manufacturer-packaging-readiness (Amazon US single-ASIN bundles must be manufacturer/brand packaged from 2027-01-11; exceptions LOA, gifting/camera, Virtual Bundles; noncompliant deactivated + Account Health violation). Skipped: Built for Shopify Customer Account API requirement for returns/subscription apps 12-01 (BFS status only, narrow); eBay currency conversion fee increases 12-01 (fee news).",
+  "last_scan_at": "2026-11-05T15:30:00+0800",
+  "entry_count": 42,
+  "notes": "2026-11-05-15: added s35-us-postal-entry-type13-readiness (CBP: from 2027-01-20 international postal shipments subject to Section 201/232/301 duty or PGA jurisdiction need Entry Type 13 in ACE or formal entry; Etsy warned international sellers, packages may be held/returned). Skipped: Shopify network access testing preview (dev tooling, narrow); eBay privacy notice 11-26 AI review (no clear one-person wedge); eBay currency conversion fee increases (fee news).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
