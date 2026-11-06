@@ -47,3 +47,4 @@
 | Amazon 捆绑商品原厂包装新规体检（01-11 起 × 授权信 × 不合规下架记违规） | SaaS | 运营 | 是 | [s34-amazon-bundle-manufacturer-packaging-readiness](entries/s34-amazon-bundle-manufacturer-packaging-readiness.md) |
 | 美国邮政小包 Entry Type 13 就绪体检（01-20 起 × 301 关税与 FDA/CPSC 类商品 × 缺数据被扣或退回） | SaaS | 运营 | 是 | [s35-us-postal-entry-type13-readiness](entries/s35-us-postal-entry-type13-readiness.md) |
 | Amazon 安全类目百万责任险就绪体检（11-02 起 × 不论销量 × 中国卖家须走 AIA） | SaaS | 运营 | 是 | [s36-amazon-liability-insurance-readiness](entries/s36-amazon-liability-insurance-readiness.md) |
+| Shopify 公开 App IP 白名单就绪体检（11-12 批量失败 × 11-20 下架 × ASN/静态 IP） | SaaS | 技术 | 是 | [s37-shopify-ip-allowlist-readiness](entries/s37-shopify-ip-allowlist-readiness.md) |
