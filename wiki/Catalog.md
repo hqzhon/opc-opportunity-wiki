@@ -49,3 +49,4 @@
 | Amazon 安全类目百万责任险就绪体检（11-02 起 × 不论销量 × 中国卖家须走 AIA） | SaaS | 运营 | 是 | [s36-amazon-liability-insurance-readiness](entries/s36-amazon-liability-insurance-readiness.md) |
 | Shopify 公开 App IP 白名单就绪体检（11-12 批量失败 × 11-20 下架 × ASN/静态 IP） | SaaS | 技术 | 是 | [s37-shopify-ip-allowlist-readiness](entries/s37-shopify-ip-allowlist-readiness.md) |
 | TikTok Shop 美区电子品类责任险就绪体检（$10k 月 GMV × BD TikTok USA LLC × 持续维持） | SaaS | 运营 | 是 | [s38-tiktok-shop-liability-insurance-readiness](entries/s38-tiktok-shop-liability-insurance-readiness.md) |
+| TikTok Shop API 取消单计入 SFCR 就绪体检（11-02 起 × IM 取消卡 24h × ≤2.5%） | SaaS | 皆可 | 是 | [s39-tiktok-shop-api-sfcr-readiness](entries/s39-tiktok-shop-api-sfcr-readiness.md) |

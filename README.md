@@ -16,10 +16,11 @@
 
 ## 先看这些（优先 ★）
 
-近期截止日与假日旺季相关（TikTok Shop 卖家先看第一、二条——含电子品类责任险；Etsy 卖家看第三条；Amazon 卖家看第四到七条——含刚生效的安全类目责任险；用 Stripe 收订阅的 SaaS 看第八条；在 App Store 卖订阅的独立开发者看第九条；在 Google Play 卖订阅或内购的看第十条；维护 Shopify 公开 App 的开发者看第十一、十二条——尤其是紧急的 IP 白名单 11-12 / 11-20；从境外用邮政小包直发美国的卖家看第十三条），建议优先打开：
+近期截止日与假日旺季相关（TikTok Shop 卖家先看第一到三条——含电子品类责任险，以及 11-02 起 API 取消一律计入 SFCR；Etsy 卖家看第四条；Amazon 卖家看第五到八条——含刚生效的安全类目责任险；用 Stripe 收订阅的 SaaS 看第九条；在 App Store 卖订阅的独立开发者看第十条；在 Google Play 卖订阅或内购的看第十一条；维护 Shopify 公开 App 的开发者看第十二、十三条——尤其是紧急的 IP 白名单 11-12 / 11-20；从境外用邮政小包直发美国的卖家看第十四条），建议优先打开：
 
 - [★ TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归）](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) — **2026-11-04** 起更多违规扣分，BFCM 保护期只停处罚不停扣分，12-08 低分店的下一张违规单就触发禁上新
 - [★ TikTok Shop 美区电子品类责任险就绪体检（$10k 月 GMV × BD TikTok USA LLC × 持续维持）](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md) — **2026-10-30** 政策：电子产品月 GMV ≥ $10k 或被直接通知须投保并持续维持；COI 须写 BD TikTok USA LLC、免赔 ≤$10k、无 sunset；走 Finances → Insurance 上传，与 Amazon `s36` 触发器不同
+- [★ TikTok Shop API 取消单计入 SFCR 就绪体检（11-02 起 × IM 取消卡 24h × ≤2.5%）](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md) — **2026-11-02** 起经 API 发起的取消一律算卖家过错并计入 SFCR（硬门槛 ≤2.5%）；买家取消须走 Seller IM 取消卡且 24h 内确认，否则继续抬高履约分；与 `s28` AHR 里程碑分开查
 - [★ Etsy 商品图与 AI 新规就绪体检（一张未修图 × AI 教程禁售 × 不符被判退款）](wiki/entries/s29-etsy-listing-image-ai-readiness.md) — 10-22 起多数 listing 须有一张**未修图**，AI 生成的图纸/食谱禁售；图不合规又遇「与描述不符」纠纷可能被判退款，旺季前先过全店
 - [★ Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款）](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) — **2026-12-18** 起 US 自发货退货须预付面单，7 天内不上传/不退款就被自动免退扣款
 - [★ Amazon 虚拟多件装就绪体检（Virtual Multipacks × 单件费率 × 不可恢复删除）](wiki/entries/s26-amazon-virtual-multipack-readiness.md) — **2026-11-10** 前审核 Amazon 代建的 `VMP_` 多件装，11-11 自动开售；删了不能恢复
@@ -97,6 +98,7 @@
 - [★ Amazon 安全类目百万责任险就绪体检（11-02 起 × 不论销量 × 中国卖家须走 AIA）](wiki/entries/s36-amazon-liability-insurance-readiness.md)
 - [★ Shopify 公开 App IP 白名单就绪体检（11-12 批量失败 × 11-20 下架 × ASN/静态 IP）](wiki/entries/s37-shopify-ip-allowlist-readiness.md)
 - [★ TikTok Shop 美区电子品类责任险就绪体检（$10k 月 GMV × BD TikTok USA LLC × 持续维持）](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md)
+- [★ TikTok Shop API 取消单计入 SFCR 就绪体检（11-02 起 × IM 取消卡 24h × ≤2.5%）](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md)
 
 ### 其他导航
 
