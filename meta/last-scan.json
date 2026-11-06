@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-06T09:30:00+0800",
-  "entry_count": 44,
-  "notes": "2026-11-06-09: added s37-shopify-ip-allowlist-readiness (Shopify 2026-11-05 made IP allowlist REQUIRED for public apps; Nov 12 bulk ops fail without allowlist; Nov 20 delist + block new installs + flag in Settings>Apps; Jan 15 merchant warning; Apr 1 Admin API rejected. Distinct from s33 expiring offline tokens). Skipped: TikTok API SFCR Nov 2 already effective / Niceggie secondary; Amazon BFCM deal Nov 13 ops-only; Etsy AI-training ToS Dec 16 no US opt-out wedge; PayPal/Braintree AU tax terms narrow; Stripe pause already s25; Amazon VMP/insurance already s26/s36.",
+  "last_scan_at": "2026-11-06T15:30:00+0800",
+  "entry_count": 45,
+  "notes": "2026-11-06-15: added s38-tiktok-shop-liability-insurance-readiness (TikTok Shop US Commercial Liability Insurance Requirements updated 2026-10-30: electronics monthly GMV >= $10k OR direct notice; CGL/umbrella/excess; occurrence; $1M/$1M; deductible <=$10k on COI; additional insured BD TikTok USA LLC; no sunset; Insurance Center upload. Distinct from s36 Amazon enhanced-safety/AIA). Skipped: Shopify network_access (no hard deadline); owner_type metafield 2027-01 (thin); PayPal DE Ratepay CCD2 (LE only); Stripe portal recovery / Billing Evaluations (fold into s25/s2/s30); Plan Feature Targeting (optional); Amazon BFCM deal / FBA peak extensions ops-only; TTS SFCR/AHR already s28; Etsy AI already s29.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
