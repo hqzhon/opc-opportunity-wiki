@@ -50,3 +50,6 @@
 | Shopify 公开 App IP 白名单就绪体检（11-12 批量失败 × 11-20 下架 × ASN/静态 IP） | SaaS | 技术 | 是 | [s37-shopify-ip-allowlist-readiness](entries/s37-shopify-ip-allowlist-readiness.md) |
 | TikTok Shop 美区电子品类责任险就绪体检（$10k 月 GMV × BD TikTok USA LLC × 持续维持） | SaaS | 运营 | 是 | [s38-tiktok-shop-liability-insurance-readiness](entries/s38-tiktok-shop-liability-insurance-readiness.md) |
 | TikTok Shop API 取消单计入 SFCR 就绪体检（11-02 起 × IM 取消卡 24h × ≤2.5%） | SaaS | 皆可 | 是 | [s39-tiktok-shop-api-sfcr-readiness](entries/s39-tiktok-shop-api-sfcr-readiness.md) |
+| Apple 订阅取消挽留消息就绪体检（11-04 上线 × 取消流程文案/优惠 × 审核禁写价格） | SaaS | 皆可 | 是 | [s40-apple-retention-messages-readiness](entries/s40-apple-retention-messages-readiness.md) |
+| TikTok Shop 运费与重量结算加严就绪体检（11-12 起 × 虚高运费 × 改重降结算） | SaaS | 运营 | 是 | [s41-tiktok-shop-shipping-fee-weight-readiness](entries/s41-tiktok-shop-shipping-fee-weight-readiness.md) |
+| TikTok Shop 商品 Listing 新规就绪体检（11-06 更新 × 禁外链 QR × 禁夸张宣称） | SaaS | 运营 | 是 | [s42-tiktok-shop-listing-policy-readiness](entries/s42-tiktok-shop-listing-policy-readiness.md) |

@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-06T21:30:00+0800",
-  "entry_count": 46,
-  "notes": "2026-11-06-21: added s39-tiktok-shop-api-sfcr-readiness (Policy Pulse Updated 2026-11-05: from 2026-11-02 all API-initiated cancellations count as seller-fault toward SFCR ≤2.5%; buyer cancels via Seller IM Cancellation Card + 24h confirm. Distinct from s28 AHR BFCM; corrected prior skip that wrongly said SFCR already in s28). Skipped: TTS AHR withdrawal holds (fold s28); 24h response 85% tier gone (thin); BFCM SLA/return window/high-risk refund defaults (ops); Wig material 11-21 (too niche); Shopify store-credit notes / multi-group routing (thin); Stripe portal/pause (s25/s2); Amazon BFCM/FBA peak (ops); Etsy AI (s29).",
+  "last_scan_at": "2026-11-09T21:20:00+0800",
+  "entry_count": 49,
+  "notes": "2026-11-09-21: applied backlog from 09/15 runs (Mac offline then): s40-apple-retention-messages-readiness (Apple Retention Messages GA 2026-11-04); s41-tiktok-shop-shipping-fee-weight-readiness (11-12 PT shipping-fee/weight enforcement; folded in Fair Pricing Policy 11-04 shipping template caps); s42-tiktok-shop-listing-policy-readiness (Product Listing Policy Updated 2026-11-06; merged the separate Product Claims and Accuracy draft). Skipped: Shopify bulk-ops access toggle (thin, s37 context); store-credit notes (thin); dev store network access testing; TTS after-sales policy consolidation 11-05 (no concrete change); TTS BFCM SLA/return window/high-risk refund (ops); Amazon 2027 fees (ops); Shopify POS local PM; Stripe Payment Links invoice_settings; stablecoin payouts.",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

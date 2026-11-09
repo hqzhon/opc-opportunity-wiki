@@ -16,11 +16,13 @@
 
 ## 先看这些（优先 ★）
 
-近期截止日与假日旺季相关（TikTok Shop 卖家先看第一到三条——含电子品类责任险，以及 11-02 起 API 取消一律计入 SFCR；Etsy 卖家看第四条；Amazon 卖家看第五到八条——含刚生效的安全类目责任险；用 Stripe 收订阅的 SaaS 看第九条；在 App Store 卖订阅的独立开发者看第十条；在 Google Play 卖订阅或内购的看第十一条；维护 Shopify 公开 App 的开发者看第十二、十三条——尤其是紧急的 IP 白名单 11-12 / 11-20；从境外用邮政小包直发美国的卖家看第十四条），建议优先打开：
+近期截止日与假日旺季相关（TikTok Shop 卖家先看第一到五条——含电子品类责任险、11-02 起 API 取消一律计入 SFCR、**11-12** 起运费与重量结算加严，以及 11-06 更新的 Listing 新规；Etsy 卖家看第六条；Amazon 卖家看第七到十条——含刚生效的安全类目责任险；用 Stripe 收订阅的 SaaS 看第十一条；在 App Store 卖订阅的独立开发者看第十二、十三条——含 11-04 刚上线的取消挽留消息；在 Google Play 卖订阅或内购的看第十四条；维护 Shopify 公开 App 的开发者看第十五、十六条——尤其是紧急的 IP 白名单 11-12 / 11-20；从境外用邮政小包直发美国的卖家看第十七条），建议优先打开：
 
 - [★ TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归）](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) — **2026-11-04** 起更多违规扣分，BFCM 保护期只停处罚不停扣分，12-08 低分店的下一张违规单就触发禁上新
 - [★ TikTok Shop 美区电子品类责任险就绪体检（$10k 月 GMV × BD TikTok USA LLC × 持续维持）](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md) — **2026-10-30** 政策：电子产品月 GMV ≥ $10k 或被直接通知须投保并持续维持；COI 须写 BD TikTok USA LLC、免赔 ≤$10k、无 sunset；走 Finances → Insurance 上传，与 Amazon `s36` 触发器不同
 - [★ TikTok Shop API 取消单计入 SFCR 就绪体检（11-02 起 × IM 取消卡 24h × ≤2.5%）](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md) — **2026-11-02** 起经 API 发起的取消一律算卖家过错并计入 SFCR（硬门槛 ≤2.5%）；买家取消须走 Seller IM 取消卡且 24h 内确认，否则继续抬高履约分；与 `s28` AHR 里程碑分开查
+- [★ TikTok Shop 运费与重量结算加严就绪体检（11-12 起 × 虚高运费 × 改重降结算）](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md) — **2026-11-12 PT** 起对虚高运费、虚假或下单后改轻重量加严结算；覆盖 Standard / CBT / Express，预估运费不因事后改轻而下降，最终按承运商计费重；11-04 公平定价政策还给运费模板设了上限
+- [★ TikTok Shop 商品 Listing 新规就绪体检（11-06 更新 × 禁外链 QR × 禁夸张宣称）](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md) — 官方政策页 **2026-11-06** 更新：禁 QR/外链导流、全大写与花字、「Best Seller」主观词；电子/家电/美妆功效须标题图文一致，手机壳与车配适配写错可被下架；BFCM 前先清详情页
 - [★ Etsy 商品图与 AI 新规就绪体检（一张未修图 × AI 教程禁售 × 不符被判退款）](wiki/entries/s29-etsy-listing-image-ai-readiness.md) — 10-22 起多数 listing 须有一张**未修图**，AI 生成的图纸/食谱禁售；图不合规又遇「与描述不符」纠纷可能被判退款，旺季前先过全店
 - [★ Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款）](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) — **2026-12-18** 起 US 自发货退货须预付面单，7 天内不上传/不退款就被自动免退扣款
 - [★ Amazon 虚拟多件装就绪体检（Virtual Multipacks × 单件费率 × 不可恢复删除）](wiki/entries/s26-amazon-virtual-multipack-readiness.md) — **2026-11-10** 前审核 Amazon 代建的 `VMP_` 多件装，11-11 自动开售；删了不能恢复
@@ -28,6 +30,7 @@
 - [★ Amazon 安全类目百万责任险就绪体检（11-02 起 × 不论销量 × 中国卖家须走 AIA）](wiki/entries/s36-amazon-liability-insurance-readiness.md) — **2026-11-02** 起增强安全类目 listing 不论月销是否到过 $10k 都须 $100 万责任险；中国大陆卖家新保单必须走 AIA，收到 45 天补证邮件前先对照 ASIN 与 COI
 - [★ Stripe Radar 续费筛查计费就绪体检（10-21 续费计费 × 01-22 试用结束 × Lite 还是 Standard）](wiki/entries/s30-stripe-radar-renewal-cost-readiness.md) — 10-21 起付费 Radar 连续费和被拒尝试都按次计费；受影响的美国账户 **2027-01-22** 免费试用结束后自动按 $0.05/次扣，先算账再决定限轮还是切 Lite
 - [★ Apple 订阅多席位就绪体检（10-22 默认开启 × 关错开关会停续费 × 冬季群组购买）](wiki/entries/s31-apple-multiseat-subscription-readiness.md) — 10-22 起你的 App 订阅可能已被**默认**挂上 Apple Business / School Manager 卖给机构；关错开关会让机构客户下次续费后取消，冬季群组购买前先审一遍
+- [★ Apple 订阅取消挽留消息就绪体检（11-04 上线 × 取消流程文案/优惠 × 审核禁写价格）](wiki/entries/s40-apple-retention-messages-readiness.md) — **2026-11-04** 起所有开发者可在 App Store Connect 给系统取消流程配挽留文案、配图或优惠，不用写代码；标题正文写了价格或折扣会被拒审，假日取消高峰前先配好
 - [★ Google Play 拒付成本就绪体检（8-03 后订单由开发者承担 × 24 小时 ReviewRefund × 只认第一次回应）](wiki/entries/s32-google-play-chargeback-review-readiness.md) — **2026-08-03** 之后的 Play 订单被拒付，货款和发卡行手续费改由开发者承担；用 ReviewRefund API 在 24 小时内交证据帮 Google 抗辩，且只认第一次回应，假日拒付到来前先接好
 - [★ Shopify 公开 App 过期离线令牌迁移体检（01-01 下架 × 01-15 商家警告 × 04-01 返回 403）](wiki/entries/s33-shopify-expiring-offline-token-readiness.md) — **2027-01-01** 前公开 App 不改用会过期的离线令牌就被下架、禁止新安装；**04-01** 起旧令牌请求直接 403，假日季不敢动线上，越早迁越稳
 - [★ Shopify 公开 App IP 白名单就绪体检（11-12 批量失败 × 11-20 下架 × ASN/静态 IP）](wiki/entries/s37-shopify-ip-allowlist-readiness.md) — **2026-11-05** 起公开 App IP 白名单改为强制；**11-12** 未配则批量操作失败，**11-20** 下架并禁止新安装；静态 IP 填 CIDR、serverless 填 ASN+国家，与 `s33` 同属安全中枢但另一套控制
@@ -99,6 +102,9 @@
 - [★ Shopify 公开 App IP 白名单就绪体检（11-12 批量失败 × 11-20 下架 × ASN/静态 IP）](wiki/entries/s37-shopify-ip-allowlist-readiness.md)
 - [★ TikTok Shop 美区电子品类责任险就绪体检（$10k 月 GMV × BD TikTok USA LLC × 持续维持）](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md)
 - [★ TikTok Shop API 取消单计入 SFCR 就绪体检（11-02 起 × IM 取消卡 24h × ≤2.5%）](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md)
+- [★ Apple 订阅取消挽留消息就绪体检（11-04 上线 × 取消流程文案/优惠 × 审核禁写价格）](wiki/entries/s40-apple-retention-messages-readiness.md)
+- [★ TikTok Shop 运费与重量结算加严就绪体检（11-12 起 × 虚高运费 × 改重降结算）](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md)
+- [★ TikTok Shop 商品 Listing 新规就绪体检（11-06 更新 × 禁外链 QR × 禁夸张宣称）](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)
 
 ### 其他导航
 
