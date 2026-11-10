@@ -16,7 +16,7 @@
 
 ## 先看这些（优先 ★）
 
-近期截止日与假日旺季相关（TikTok Shop 卖家先看第一到五条——含电子品类责任险、11-02 起 API 取消一律计入 SFCR、**11-12** 起运费与重量结算加严，以及 11-06 更新的 Listing 新规；Etsy 卖家看第六条；Amazon 卖家看第七到十条——含刚生效的安全类目责任险；用 Stripe 收订阅的 SaaS 看第十一条；在 App Store 卖订阅的独立开发者看第十二、十三条——含 11-04 刚上线的取消挽留消息；在 Google Play 卖订阅或内购的看第十四条；维护 Shopify 公开 App 的开发者看第十五、十六条——尤其是紧急的 IP 白名单 11-12 / 11-20；从境外用邮政小包直发美国的卖家看第十七条），建议优先打开：
+近期截止日与假日旺季相关（TikTok Shop 卖家先看第一到五条——含电子品类责任险、11-02 起 API 取消一律计入 SFCR、**11-12** 起运费与重量结算加严，以及 11-06 更新的 Listing 新规；Etsy 卖家看第六条；Amazon 卖家看第七到十条——含刚生效的安全类目责任险；用 Stripe 收订阅的 SaaS 看第十一条；在 App Store 卖订阅的独立开发者看第十二、十三条——含 11-04 刚上线的取消挽留消息；在 Google Play 卖订阅或内购的看第十四条；维护 Shopify 公开 App 的开发者看第十五、十六条——尤其是紧急的 IP 白名单 11-12 / 11-20；从境外用邮政小包直发美国的卖家看第十七条；投 Google Shopping / 免费商品列表的独立站卖家看第十八条——商品图 **2027-01-31** 起须 ≥500×500），建议优先打开：
 
 - [★ TikTok Shop 账户健康分 BFCM 就绪体检（11-04 新扣分 × 保护期只停处罚 × 12-08 回归）](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) — **2026-11-04** 起更多违规扣分，BFCM 保护期只停处罚不停扣分，12-08 低分店的下一张违规单就触发禁上新
 - [★ TikTok Shop 美区电子品类责任险就绪体检（$10k 月 GMV × BD TikTok USA LLC × 持续维持）](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md) — **2026-10-30** 政策：电子产品月 GMV ≥ $10k 或被直接通知须投保并持续维持；COI 须写 BD TikTok USA LLC、免赔 ≤$10k、无 sunset；走 Finances → Insurance 上传，与 Amazon `s36` 触发器不同
@@ -35,6 +35,7 @@
 - [★ Shopify 公开 App 过期离线令牌迁移体检（01-01 下架 × 01-15 商家警告 × 04-01 返回 403）](wiki/entries/s33-shopify-expiring-offline-token-readiness.md) — **2027-01-01** 前公开 App 不改用会过期的离线令牌就被下架、禁止新安装；**04-01** 起旧令牌请求直接 403，假日季不敢动线上，越早迁越稳
 - [★ Shopify 公开 App IP 白名单就绪体检（11-12 批量失败 × 11-20 下架 × ASN/静态 IP）](wiki/entries/s37-shopify-ip-allowlist-readiness.md) — **2026-11-05** 起公开 App IP 白名单改为强制；**11-12** 未配则批量操作失败，**11-20** 下架并禁止新安装；静态 IP 填 CIDR、serverless 填 ASN+国家，与 `s33` 同属安全中枢但另一套控制
 - [★ 美国邮政小包 Entry Type 13 就绪体检（01-20 起 × 301 关税与 FDA/CPSC 类商品 × 缺数据被扣或退回）](wiki/entries/s35-us-postal-entry-type13-readiness.md) — **2027-01-20** 起，带 301 等关税或归 FDA / CPSC 管辖的商品（蜡烛、护肤、童装玩具、含木/皮/贝壳材料等）走邮政发美国须经 Entry Type 13 电子申报，缺资料的包裹可能被扣或退回；Etsy 已提醒国际卖家，先逐 SKU 定「继续邮政还是改快递」
+- [★ Google Merchant Center 商品图 500px 新规就绪体检（01-31 起 × AI 图须留元数据 × 促销标题禁写日期）](wiki/entries/s43-google-merchant-image-500px-readiness.md) — **2027-01-31** 起 Google 商品主图与附加图须 ≥500×500，不达标停展；AI 生成图须保留 IPTC 元数据，主图禁促销角标；**11-09** 起促销标题不许写日期，BFCM 正在提交的促销先改
 - [★ EU 低货值包裹三件套商品标识符就绪体检](wiki/entries/s16-eu-product-identifiers.md) — **11-01 已生效**：€150 以下发欧盟须齐三件套，缺项可能买不了面单，现在查漏
 - [★ EU €2 处理费 + €3 关税结账回收就绪体检](wiki/entries/s17-eu-uhf-duty-recovery.md) — 11-01 已生效的 UHF + 关税，结账侧是否已回收、文案是否覆盖「UHF 不退」
 - [★ Managed Markets 保价一口价运费就绪体检](wiki/entries/s18-mm-flat-rate-shipping.md) — 假日前锁国际运费成本：一口价该不该开、担保面单有没有买对
@@ -105,6 +106,7 @@
 - [★ Apple 订阅取消挽留消息就绪体检（11-04 上线 × 取消流程文案/优惠 × 审核禁写价格）](wiki/entries/s40-apple-retention-messages-readiness.md)
 - [★ TikTok Shop 运费与重量结算加严就绪体检（11-12 起 × 虚高运费 × 改重降结算）](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md)
 - [★ TikTok Shop 商品 Listing 新规就绪体检（11-06 更新 × 禁外链 QR × 禁夸张宣称）](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)
+- [★ Google Merchant Center 商品图 500px 新规就绪体检（01-31 起 × AI 图须留元数据 × 促销标题禁写日期）](wiki/entries/s43-google-merchant-image-500px-readiness.md)
 
 ### 其他导航
 

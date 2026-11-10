@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-09T21:20:00+0800",
-  "entry_count": 49,
-  "notes": "2026-11-09-21: applied backlog from 09/15 runs (Mac offline then): s40-apple-retention-messages-readiness (Apple Retention Messages GA 2026-11-04); s41-tiktok-shop-shipping-fee-weight-readiness (11-12 PT shipping-fee/weight enforcement; folded in Fair Pricing Policy 11-04 shipping template caps); s42-tiktok-shop-listing-policy-readiness (Product Listing Policy Updated 2026-11-06; merged the separate Product Claims and Accuracy draft). Skipped: Shopify bulk-ops access toggle (thin, s37 context); store-credit notes (thin); dev store network access testing; TTS after-sales policy consolidation 11-05 (no concrete change); TTS BFCM SLA/return window/high-risk refund (ops); Amazon 2027 fees (ops); Shopify POS local PM; Stripe Payment Links invoice_settings; stablecoin payouts.",
+  "last_scan_at": "2026-11-10T09:35:00+0800",
+  "entry_count": 50,
+  "notes": "2026-11-10-09: added s43-google-merchant-image-500px-readiness (GMC image_link >=500x500 from 2027-01-31; AI image IPTC metadata; promo title no dates 2026-11-09). Skipped: Apple age-rating descriptors 11-16/2027-01-12 (checkbox, thin); Amazon holiday return window permanent (ops); Stripe Endive breaking changes (opt-in version pin); GMC video_link optional attr (thin); Shopify bulk-ops access (s37 context).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
