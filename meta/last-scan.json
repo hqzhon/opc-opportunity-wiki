@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-10T09:35:00+0800",
-  "entry_count": 50,
-  "notes": "2026-11-10-09: added s43-google-merchant-image-500px-readiness (GMC image_link >=500x500 from 2027-01-31; AI image IPTC metadata; promo title no dates 2026-11-09). Skipped: Apple age-rating descriptors 11-16/2027-01-12 (checkbox, thin); Amazon holiday return window permanent (ops); Stripe Endive breaking changes (opt-in version pin); GMC video_link optional attr (thin); Shopify bulk-ops access (s37 context).",
+  "last_scan_at": "2026-11-10T15:40:00+0800",
+  "entry_count": 51,
+  "notes": "2026-11-10-15: added s44-walmart-item-return-rate-readiness (Walmart item-level return rate enforcement from Jan 2027, announced 2026-11-06). Skipped: Walmart+ badge return-exemption rule (ops, thin); eBay Nov updates (tools only); Paddle paid trials (feature, no deadline); Shopify bulk-ops scope (s37 context).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

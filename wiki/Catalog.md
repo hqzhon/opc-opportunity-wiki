@@ -54,3 +54,4 @@
 | TikTok Shop 运费与重量结算加严就绪体检（11-12 起 × 虚高运费 × 改重降结算） | SaaS | 运营 | 是 | [s41-tiktok-shop-shipping-fee-weight-readiness](entries/s41-tiktok-shop-shipping-fee-weight-readiness.md) |
 | TikTok Shop 商品 Listing 新规就绪体检（11-06 更新 × 禁外链 QR × 禁夸张宣称） | SaaS | 运营 | 是 | [s42-tiktok-shop-listing-policy-readiness](entries/s42-tiktok-shop-listing-policy-readiness.md) |
 | Google Merchant Center 商品图 500px 新规就绪体检（01-31 起 × AI 图须留元数据 × 促销标题禁写日期） | SaaS | 皆可 | 是 | [s43-google-merchant-image-500px-readiness](entries/s43-google-merchant-image-500px-readiness.md) |
+| Walmart 单品退货率下架就绪体检（2027-01 起 × 账户达标也会单品下架 × 60 天卖家责任退货） | SaaS | 运营 | 是 | [s44-walmart-item-return-rate-readiness](entries/s44-walmart-item-return-rate-readiness.md) |
