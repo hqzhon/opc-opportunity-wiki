@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-12T15:30:00+0800",
-  "entry_count": 53,
-  "notes": "2026-11-12-15: added s46-etsy-gpsr-economic-operator-readiness (Etsy Open API GPSR fields announced 2026-10-29; from 2027-02-01 EU/NI trader listings in applicable categories need manufacturer + EU responsible person or are rejected). Skipped: Shopify Tax free discount lifetime threshold from 2027-01-01 (no action needed); eBay DE Top-Service thresholds 2027-02-22 (DE-only, thin).",
+  "last_scan_at": "2026-11-12T21:30:00+0800",
+  "entry_count": 54,
+  "notes": "2026-11-12-21: added s47-shopify-custom-app-ip-allowlist-readiness (Shopify changelog 2026-11-11: custom apps installed outside owning org need IP allowlist for new installs from 2026-11-20 and existing installs from 2027-01-01; one missing allowlist affects partner's ability to install any app externally). Updated s37 note that custom apps now covered. Skipped: Shopify Tax managed mode API validation (narrow, dev-only); eBay DE Top-Service 2027-02-22 (DE-only).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

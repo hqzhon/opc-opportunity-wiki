@@ -20,7 +20,7 @@ Shopify 10-27 还只是**建议**开 IP 白名单；**2026-11-05** 起改成公�
 - **2027-01-15**：商家后台看到警告
 - **2027-04-01**：该 App 的 Admin API 请求被拒（与过期离线令牌同一终态）
 
-不受影响：自定义 App；商家在 Dev Dashboard 或后台自建的 App。配置路径：Dev Dashboard → Settings → IP allowlist → Manage；静态出口填 IP/CIDR，serverless/动态出口填 Networks/ASN + 建议勾选国家；用最近 30 天流量跑 Test，再打开 Enforcement，并在白名单外发一次请求确认拿到 403。
+不受本条公开 App 时间表约束：商家在 Dev Dashboard 或后台自建的 App；自定义 App 另有时间表（2026-11-11 新公告：装在外部店铺上的须在 11-20 新装 / 2027-01-01 存量前配好，见 [s47](s47-shopify-custom-app-ip-allowlist-readiness.md)）。配置路径：Dev Dashboard → Settings → IP allowlist → Manage；静态出口填 IP/CIDR，serverless/动态出口填 Networks/ASN + 建议勾选国家；用最近 30 天流量跑 Test，再打开 Enforcement，并在白名单外发一次请求确认拿到 403。
 
 规则上限：最多 100 个 IP/CIDR（IPv4 `/16` 或更窄，IPv6 `/32` 或更窄）；最多 10 个 ASN + 最多 10 个国家；只要公网地址，NAT 后填网关地址。**不能**靠白名单保住的调用：Shopify Flow「Send HTTP request」用的令牌、Oxygen 店面里打 Admin API（Shopify 确认不了源 IP → 一律拒）。开发店 preview、嵌入式页面上的 Direct API **永远不会**因白名单被拒。
 
@@ -28,7 +28,7 @@ Shopify 10-27 还只是**建议**开 IP 白名单；**2026-11-05** 起改成公�
 
 ## 目标客户
 
-在 Shopify App Store 有公开 App、由 1–3 人维护的开发者或小工作室：尤其是走 serverless / 动态 IP（Vercel、Cloudflare Workers、Lambda 等）、还没摸过 Dev Dashboard IP allowlist 的；以及依赖批量操作、Flow Send HTTP、或从 Oxygen 店面打 Admin API 的工具型 App。自定义 App 和商家自建 App 不受强制，不是首要客户。
+在 Shopify App Store 有公开 App、由 1–3 人维护的开发者或小工作室：尤其是走 serverless / 动态 IP（Vercel、Cloudflare Workers、Lambda 等）、还没摸过 Dev Dashboard IP allowlist 的；以及依赖批量操作、Flow Send HTTP、或从 Oxygen 店面打 Admin API 的工具型 App。商家自建 App 不受强制；装在外部店铺的自定义 App 见 `s47`。
 
 ## 一人怎么起步
 
