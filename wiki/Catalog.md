@@ -56,3 +56,4 @@
 | Google Merchant Center 商品图 500px 新规就绪体检（01-31 起 × AI 图须留元数据 × 促销标题禁写日期） | SaaS | 皆可 | 是 | [s43-google-merchant-image-500px-readiness](entries/s43-google-merchant-image-500px-readiness.md) |
 | Walmart 单品退货率下架就绪体检（2027-01 起 × 账户达标也会单品下架 × 60 天卖家责任退货） | SaaS | 运营 | 是 | [s44-walmart-item-return-rate-readiness](entries/s44-walmart-item-return-rate-readiness.md) |
 | Amazon 2027 FBA 费用调整利润体检（01-15 配送费上调 × 02-01 库龄仓储费 × 低库存费改规则） | SaaS | 运营 | 是 | [s45-amazon-fba-2027-fee-readiness](entries/s45-amazon-fba-2027-fee-readiness.md) |
+| Etsy EU GPSR 制造商与欧盟负责人就绪体检（2027-02-01 起 × 缺字段 Listing 被拒 × 经济运营方记录） | SaaS | 皆可 | 是 | [s46-etsy-gpsr-economic-operator-readiness](entries/s46-etsy-gpsr-economic-operator-readiness.md) |

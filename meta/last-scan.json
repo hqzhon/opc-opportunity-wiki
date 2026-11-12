@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-12T09:30:00+0800",
-  "entry_count": 52,
-  "notes": "2026-11-12-09: added s45-amazon-fba-2027-fee-readiness (Amazon US FBA fees +$0.19 avg from 2027-01-15; age-based storage, low-inventory fee change from 2027-02-01; announced 2026-11-05). Skipped: Shopify customer data erasure 10->5 days (thin); Storefront MCP policies tool deprecation (s13 context); IP allowlist for custom apps (s37 context); Amazon extended holiday returns (no new action).",
+  "last_scan_at": "2026-11-12T15:30:00+0800",
+  "entry_count": 53,
+  "notes": "2026-11-12-15: added s46-etsy-gpsr-economic-operator-readiness (Etsy Open API GPSR fields announced 2026-10-29; from 2027-02-01 EU/NI trader listings in applicable categories need manufacturer + EU responsible person or are rejected). Skipped: Shopify Tax free discount lifetime threshold from 2027-01-01 (no action needed); eBay DE Top-Service thresholds 2027-02-22 (DE-only, thin).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
