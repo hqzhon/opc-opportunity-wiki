@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：51 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：52 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-51_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-52_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -60,6 +60,7 @@
 | **2027-01-01** | Shopify 公开 App 须改用会过期的离线令牌 | [s33](wiki/entries/s33-shopify-expiring-offline-token-readiness.md) |
 | **2027-01** | Walmart 单品卖家责任退货率高会被单独下架 | [s44](wiki/entries/s44-walmart-item-return-rate-readiness.md) |
 | **2027-01-11** | Amazon 单 ASIN 捆绑须原厂包装 | [s34](wiki/entries/s34-amazon-bundle-manufacturer-packaging-readiness.md) |
+| **2027-01-15 / 02-01** | Amazon FBA 配送费上调、仓储费改按库龄计 | [s45](wiki/entries/s45-amazon-fba-2027-fee-readiness.md) |
 | **2027-01-20** | 美国邮政小包 Entry Type 13 电子申报 | [s35](wiki/entries/s35-us-postal-entry-type13-readiness.md) |
 | **2027-01-22** | Stripe Radar 续费筛查免费试用结束、按次计费 | [s30](wiki/entries/s30-stripe-radar-renewal-cost-readiness.md) |
 | **2027-01-31** | Google 商品图须 ≥500×500，AI 图须保留元数据 | [s43](wiki/entries/s43-google-merchant-image-500px-readiness.md) |
@@ -68,7 +69,7 @@
 
 ## 全部条目
 
-共 51 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 52 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -123,6 +124,7 @@
 - [★ Amazon FBM 预付退货面单就绪体检（12-18 起 × 7 天时钟 × 自动免退退款）](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md)
 - [★ Amazon 捆绑商品原厂包装新规体检（01-11 起 × 授权信 × 不合规下架记违规）](wiki/entries/s34-amazon-bundle-manufacturer-packaging-readiness.md)
 - [★ Amazon 安全类目百万责任险就绪体检（11-02 起 × 不论销量 × 中国卖家须走 AIA）](wiki/entries/s36-amazon-liability-insurance-readiness.md)
+- [★ Amazon 2027 FBA 费用调整利润体检（01-15 配送费上调 × 02-01 库龄仓储费 × 低库存费改规则）](wiki/entries/s45-amazon-fba-2027-fee-readiness.md)
 
 #### TikTok Shop 卖家
 
@@ -169,7 +171,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 51 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 52 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 
