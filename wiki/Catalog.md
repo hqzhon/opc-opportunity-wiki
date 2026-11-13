@@ -58,3 +58,4 @@
 | Amazon 2027 FBA 费用调整利润体检（01-15 配送费上调 × 02-01 库龄仓储费 × 低库存费改规则） | SaaS | 运营 | 是 | [s45-amazon-fba-2027-fee-readiness](entries/s45-amazon-fba-2027-fee-readiness.md) |
 | Etsy EU GPSR 制造商与欧盟负责人就绪体检（2027-02-01 起 × 缺字段 Listing 被拒 × 经济运营方记录） | SaaS | 皆可 | 是 | [s46-etsy-gpsr-economic-operator-readiness](entries/s46-etsy-gpsr-economic-operator-readiness.md) |
 | Shopify 自定义 App IP 白名单就绪体检（11-20 新装须配 × 2027-01-01 存量须配 × 漏一个连坐全部） | SaaS | 技术 | 是 | [s47-shopify-custom-app-ip-allowlist-readiness](entries/s47-shopify-custom-app-ip-allowlist-readiness.md) |
+| TikTok Shop 假日退货窗就绪体检（11-11 至 12-31 订单可退到 2027-02-10 × 覆盖卖家设置 × API 二维码有效期） | SaaS | 皆可 | | [s48-tiktok-shop-bfcm-holiday-returns-readiness](entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md) |

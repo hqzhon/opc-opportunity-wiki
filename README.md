@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：54 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：55 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-54_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-55_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -53,6 +53,7 @@
 <!-- 新的临期条目按日期插入下表；截止已过的移出 -->
 | 截止 | 发生什么 | 条目 |
 | --- | --- | --- |
+| **11-11 起 / 2027-02-10** | TikTok Shop BFCM 订单退货窗延到 2-10，API 退货二维码有效期须跟着改 | [s48](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md) |
 | **11-12 / 11-20** | Shopify 公开 App IP 白名单强制：先批量失败，再下架 | [s37](wiki/entries/s37-shopify-ip-allowlist-readiness.md) |
 | **11-20 / 2027-01-01** | Shopify 自定义 App 装到客户店须配 IP 白名单，漏一个影响全部外部安装 | [s47](wiki/entries/s47-shopify-custom-app-ip-allowlist-readiness.md) |
 | **12-08** | TikTok Shop BFCM 保护期结束，低分店触发禁上新 | [s28](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) |
@@ -70,7 +71,7 @@
 
 ## 全部条目
 
-共 54 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 55 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -135,6 +136,7 @@
 - [★ TikTok Shop API 取消单计入 SFCR 就绪体检（11-02 起 × IM 取消卡 24h × ≤2.5%）](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md)
 - [★ TikTok Shop 运费与重量结算加严就绪体检（11-12 起 × 虚高运费 × 改重降结算）](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md)
 - [★ TikTok Shop 商品 Listing 新规就绪体检（11-06 更新 × 禁外链 QR × 禁夸张宣称）](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)
+- [TikTok Shop 假日退货窗就绪体检（11-11 至 12-31 订单可退到 2027-02-10 × 覆盖卖家设置 × API 二维码有效期）](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md)
 
 #### Etsy / Walmart / Google Merchant
 
@@ -174,7 +176,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 54 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 55 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 

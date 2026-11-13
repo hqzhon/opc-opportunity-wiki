@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-12T21:30:00+0800",
-  "entry_count": 54,
-  "notes": "2026-11-12-21: added s47-shopify-custom-app-ip-allowlist-readiness (Shopify changelog 2026-11-11: custom apps installed outside owning org need IP allowlist for new installs from 2026-11-20 and existing installs from 2027-01-01; one missing allowlist affects partner's ability to install any app externally). Updated s37 note that custom apps now covered. Skipped: Shopify Tax managed mode API validation (narrow, dev-only); eBay DE Top-Service 2027-02-22 (DE-only).",
+  "last_scan_at": "2026-11-13T09:30:00+0800",
+  "entry_count": 55,
+  "notes": "2026-11-13-09: added s48-tiktok-shop-bfcm-holiday-returns-readiness (TikTok Shop Policy Pulse Oct 2026: items sold 11-11 to 12-31 returnable until 2027-02-10, overrides seller window, API integrations must set return QR validity to 2027-02-10; default-on high-risk refund controls). Skipped: Shopify Storefront MCP search_shop_policies_and_faqs -> UCP ask_business by 2027-01-15 (agent-dev only); Shopify Tax lifetime free threshold 2027-01-01 (no action required); Google Play eligibility-discount disclosure 2027-01-27 (narrow); eBay currency conversion +0.25pt (fee only).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
