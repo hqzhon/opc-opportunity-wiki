@@ -59,3 +59,4 @@
 | Etsy EU GPSR 制造商与欧盟负责人就绪体检（2027-02-01 起 × 缺字段 Listing 被拒 × 经济运营方记录） | SaaS | 皆可 | 是 | [s46-etsy-gpsr-economic-operator-readiness](entries/s46-etsy-gpsr-economic-operator-readiness.md) |
 | Shopify 自定义 App IP 白名单就绪体检（11-20 新装须配 × 2027-01-01 存量须配 × 漏一个连坐全部） | SaaS | 技术 | 是 | [s47-shopify-custom-app-ip-allowlist-readiness](entries/s47-shopify-custom-app-ip-allowlist-readiness.md) |
 | TikTok Shop 假日退货窗就绪体检（11-11 至 12-31 订单可退到 2027-02-10 × 覆盖卖家设置 × API 二维码有效期） | SaaS | 皆可 | | [s48-tiktok-shop-bfcm-holiday-returns-readiness](entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md) |
+| Shopify 按市场配运费迁移体检（自动迁移进行中 × 多费率改取最高 × 2027-07-01 不可退出） | SaaS | 皆可 | | [s49-shopify-market-driven-shipping-readiness](entries/s49-shopify-market-driven-shipping-readiness.md) |

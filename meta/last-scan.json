@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-13T09:30:00+0800",
-  "entry_count": 55,
-  "notes": "2026-11-13-09: added s48-tiktok-shop-bfcm-holiday-returns-readiness (TikTok Shop Policy Pulse Oct 2026: items sold 11-11 to 12-31 returnable until 2027-02-10, overrides seller window, API integrations must set return QR validity to 2027-02-10; default-on high-risk refund controls). Skipped: Shopify Storefront MCP search_shop_policies_and_faqs -> UCP ask_business by 2027-01-15 (agent-dev only); Shopify Tax lifetime free threshold 2027-01-01 (no action required); Google Play eligibility-discount disclosure 2027-01-27 (narrow); eBay currency conversion +0.25pt (fee only).",
+  "last_scan_at": "2026-11-13T15:30:00+0800",
+  "entry_count": 56,
+  "notes": "2026-11-13-15: added s49-shopify-market-driven-shipping-readiness (Shopify auto-migrating stores from shipping profiles to shipping options by market Oct 2026-Jul 2027, no opt-out from 2027-07-01; multiple matching rates now charge highest not sum; split shipping forced on; merchant delivery profile API writes silently no-op). Skipped: EU Digital Fairness Act proposal (too far out); Amazon EU FBA fuel surcharge 2% from 11-19 (fee only); Amazon Japan price-parity drop (narrow); Shop app opened to non-Shopify Payments stores (no action).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }
