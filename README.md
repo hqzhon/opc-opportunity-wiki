@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：58 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：59 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-58_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-59_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -60,6 +60,7 @@
 | **12-08** | TikTok Shop BFCM 保护期结束，低分店触发禁上新 | [s28](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) |
 | **12-18** | Amazon FBM 退货须预付面单，7 天不处理自动退款 | [s27](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) |
 | **2027-01-01** | Shopify 公开 App 须改用会过期的离线令牌 | [s33](wiki/entries/s33-shopify-expiring-offline-token-readiness.md) |
+| **2027-01-01** | Shopify Tax 免费计算额度改按终身销售额，不再每年重置，过 10 万后对已开通征收的订单收费 | [s52](wiki/entries/s52-shopify-tax-lifetime-discount-readiness.md) |
 | **2027-01** | Walmart 单品卖家责任退货率高会被单独下架 | [s44](wiki/entries/s44-walmart-item-return-rate-readiness.md) |
 | **2027-01-11** | Amazon 单 ASIN 捆绑须原厂包装 | [s34](wiki/entries/s34-amazon-bundle-manufacturer-packaging-readiness.md) |
 | **2027-01-15 / 02-01** | Amazon FBA 配送费上调、仓储费改按库龄计 | [s45](wiki/entries/s45-amazon-fba-2027-fee-readiness.md) |
@@ -74,7 +75,7 @@
 
 ## 全部条目
 
-共 58 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 59 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -121,6 +122,7 @@
 - [★ Shopify 公开 App IP 白名单就绪体检（11-12 批量失败 × 11-20 下架 × ASN/静态 IP）](wiki/entries/s37-shopify-ip-allowlist-readiness.md)
 - [★ Shopify 自定义 App IP 白名单就绪体检（11-20 新装须配 × 2027-01-01 存量须配 × 漏一个连坐全部）](wiki/entries/s47-shopify-custom-app-ip-allowlist-readiness.md)
 - [Shopify 按市场配运费迁移体检（自动迁移进行中 × 多费率改取最高 × 2027-07-01 不可退出）](wiki/entries/s49-shopify-market-driven-shipping-readiness.md)
+- [Shopify Tax 免费额度改按终身销售额就绪体检（2027-01-01 起不再每年重置 × 10 万门槛 × 超线按单计费）](wiki/entries/s52-shopify-tax-lifetime-discount-readiness.md)
 
 #### Amazon 卖家
 
@@ -182,7 +184,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 58 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 59 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 
