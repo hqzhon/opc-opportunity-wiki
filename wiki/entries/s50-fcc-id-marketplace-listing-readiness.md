@@ -48,4 +48,4 @@
 - [Amazon 帮助：Radio Frequency Devices（须 FCC 授权的设备与禁售情形）](https://www.amazon.com/gp/help/customer/display.html?nodeId=G3B6R6AW2HCNJFE3)
 - [Digital Selling Point：eBay US FCC ID now required for listings of radio-emitting devices（二手报道）](https://abdulrahimmughal.com/blog/ebay-us-fcc-id-now-required-for-listings-of-radio-emitting-devices)
 - [FCC 设备授权检索（FCC ID Search）](https://www.fcc.gov/oet/ea/fccid)
-- 相关但独立：[s36 Amazon 安全类目百万责任险](s36-amazon-liability-insurance-readiness.md)、[s38 TikTok Shop 美区电子品类责任险](s38-tiktok-shop-liability-insurance-readiness.md)
+- 相关但独立：[s36 Amazon 安全类目百万责任险](s36-amazon-liability-insurance-readiness.md)、[s38 TikTok Shop 美区电子品类责任险](s38-tiktok-shop-liability-insurance-readiness.md)、[s51 Amazon 锂电消费电子 TIC 送检就绪体检](s51-amazon-lithium-battery-tic-readiness.md)

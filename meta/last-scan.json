@@ -4,8 +4,8 @@
     "跨境电商/独立站",
     "SaaS/订阅"
   ],
-  "last_scan_at": "2026-11-13T21:30:00+0800",
-  "entry_count": 57,
-  "notes": "2026-11-13-21: added s50-fcc-id-marketplace-listing-readiness (FCC 26-50 effective 2026-10-13; online marketplaces must display FCC ID at point of sale from 2027-03-01/06-01 for new devices by high-volume sellers; eBay already requiring FCC ID on some listings; Amazon RF attribute enforcement). Skipped: eBay balance mandatory Nov 4 / privacy Nov 26 (no service angle); Etsy retracted messaging advice (narrow); Google Play US external links download reporting 2027-02-01 (await detail).",
+  "last_scan_at": "2026-11-16T09:15:00+0800",
+  "entry_count": 58,
+  "notes": "2026-11-16-09: added s51-amazon-lithium-battery-tic-readiness (Amazon US/CA official forums: rechargeable lithium-battery smart home and consumer electronics must be verified via authorized TIC since 2026-09-30; sellers can no longer submit docs directly; all notifications complete 2026-11-16; non-compliant listings may be deactivated). Skipped: Shopify Nov 14 security recap/MFA (thin); Shopify erasure 10to5 days (narrow, already in effect); GMC conventional payment (no dated official change); Play US external-link download reporting 2027-02-01 (still awaiting clean official fee/reporting quotes); TTS AIGC labeling updated 11-09 (no hard deadline, overlaps s42); eBay privacy Nov 26 (no service angle); Stripe Radar all-methods (no deadline); Quebec Bill 29 warranty attribute (no exact Shopping display date).",
   "seeded_at": "2026-10-26T06:59:24+0800"
 }

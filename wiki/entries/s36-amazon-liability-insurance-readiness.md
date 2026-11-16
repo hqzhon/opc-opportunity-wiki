@@ -45,3 +45,4 @@ Amazon.com 上有玩具、婴童、保健品/OTC、化妆品、含锂电池消�
 - [PPC Land: Amazon forces $1M cover on small safety-category sellers from November 2](https://ppc.land/amazon-forces-1m-cover-on-small-safety-category-sellers-from-november-2/)
 - [SellerEssentials: Amazon’s New Liability Insurance Rules (Nov 2, 2026)（含约 11 组增强安全类目整理）](https://selleressentials.com/amazon-liability-insurance-requirements-2026/)
 - [Marketplace Officer: Amazon Seller News November 2026（11-02 保险节点）](https://www.marketplaceofficer.com/blog/amazon-seller-news)
+- 相关但独立：[s51 Amazon 锂电消费电子 TIC 送检就绪体检](s51-amazon-lithium-battery-tic-readiness.md)
