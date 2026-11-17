@@ -67,3 +67,5 @@
 | Shopify Shop 刊登资格更新体检（11-10 起非 Shopify Payments 店也可出现在 Shop × 全店资格已更新 × 未达标会被拿下） | SaaS | 运营 | | [s54-shopify-shop-eligibility-readiness](entries/s54-shopify-shop-eligibility-readiness.md) |
 | TikTok Shop 珠宝配饰合规就绪体检（英国站 12-21 生成待办 × 2027-01-28 可能下架 × 英/欧均须交标签与 REACH 文件） | SaaS | 运营 | | [s55-tiktok-shop-jewelry-compliance-readiness](entries/s55-tiktok-shop-jewelry-compliance-readiness.md) |
 | Amazon Ads 健康背书与比较宣称举证就绪体检（11-15 政策页更新 × 证据须在 24 个月内 × 包装已印可免再举证） | SaaS | 运营 | | [s56-amazon-ads-claims-substantiation-readiness](entries/s56-amazon-ads-claims-substantiation-readiness.md) |
+| Google Play 资格折扣订阅披露就绪体检（2027-01-27 起 × 学生价等须写明资格、核验与资格结束后的价格） | SaaS | 皆可 | | [s57-google-play-eligibility-discount-disclosure-readiness](entries/s57-google-play-eligibility-discount-disclosure-readiness.md) |
+| Amazon 巴西站 FBA 遗失索赔窗口就绪体检（11-27 起 90 天从建单起算 × 8-24 前 PCP 在途遗失须在 11-26 前申报） | SaaS | 运营 | | [s58-amazon-brazil-fba-claim-window-readiness](entries/s58-amazon-brazil-fba-claim-window-readiness.md) |
