@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：61 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：63 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-61_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-63_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -59,6 +59,7 @@
 | **11-20 / 2027-01-01** | Shopify 自定义 App 装到客户店须配 IP 白名单，漏一个影响全部外部安装 | [s47](wiki/entries/s47-shopify-custom-app-ip-allowlist-readiness.md) |
 | **12-08** | TikTok Shop BFCM 保护期结束，低分店触发禁上新 | [s28](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) |
 | **12-18** | Amazon FBM 退货须预付面单，7 天不处理自动退款 | [s27](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) |
+| **12-21 / 2027-01-28** | TikTok Shop 英国站珠宝配饰须补齐标签与 REACH 文件，逾期存量可能被下架 | [s55](wiki/entries/s55-tiktok-shop-jewelry-compliance-readiness.md) |
 | **2027-01-01** | Shopify 公开 App 须改用会过期的离线令牌 | [s33](wiki/entries/s33-shopify-expiring-offline-token-readiness.md) |
 | **2027-01-01** | Shopify Tax 免费计算额度改按终身销售额，不再每年重置，过 10 万后对已开通征收的订单收费 | [s52](wiki/entries/s52-shopify-tax-lifetime-discount-readiness.md) |
 | **2027-01** | Walmart 单品卖家责任退货率高会被单独下架 | [s44](wiki/entries/s44-walmart-item-return-rate-readiness.md) |
@@ -72,11 +73,11 @@
 | **2027-06-01** | FCC 新规：美国站无线电子产品须在卖点展示 FCC ID，eBay 已开始拦缺 ID 的 Listing | [s50](wiki/entries/s50-fcc-id-marketplace-listing-readiness.md) |
 | **2027-07-01** | Shopify 运费从档案迁到按市场配置，多条费率改收最高一条，旧 API 写入静默失效 | [s49](wiki/entries/s49-shopify-market-driven-shipping-readiness.md) |
 
-已生效、仍值得逐店检查：TikTok Shop 电子品类责任险 [s38](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md)、API 取消计入 SFCR [s39](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md)、运费与重量结算 [s41](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md)、Listing 新规 [s42](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)；Amazon 安全类目责任险 [s36](wiki/entries/s36-amazon-liability-insurance-readiness.md)；Apple 取消挽留消息 [s40](wiki/entries/s40-apple-retention-messages-readiness.md)、多席位 [s31](wiki/entries/s31-apple-multiseat-subscription-readiness.md)；Google Play 拒付 [s32](wiki/entries/s32-google-play-chargeback-review-readiness.md)；Etsy 商品图 [s29](wiki/entries/s29-etsy-listing-image-ai-readiness.md)；EU 低货值包裹 [s16](wiki/entries/s16-eu-product-identifiers.md) / [s17](wiki/entries/s17-eu-uhf-duty-recovery.md)。
+已生效、仍值得逐店检查：TikTok Shop 电子品类责任险 [s38](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md)、API 取消计入 SFCR [s39](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md)、运费与重量结算 [s41](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md)、Listing 新规 [s42](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)；Amazon 安全类目责任险 [s36](wiki/entries/s36-amazon-liability-insurance-readiness.md)、广告宣称举证 [s56](wiki/entries/s56-amazon-ads-claims-substantiation-readiness.md)；Apple 取消挽留消息 [s40](wiki/entries/s40-apple-retention-messages-readiness.md)、多席位 [s31](wiki/entries/s31-apple-multiseat-subscription-readiness.md)；Google Play 拒付 [s32](wiki/entries/s32-google-play-chargeback-review-readiness.md)；Etsy 商品图 [s29](wiki/entries/s29-etsy-listing-image-ai-readiness.md)；EU 低货值包裹 [s16](wiki/entries/s16-eu-product-identifiers.md) / [s17](wiki/entries/s17-eu-uhf-duty-recovery.md)。
 
 ## 全部条目
 
-共 61 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 63 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -137,6 +138,7 @@
 - [★ Amazon 安全类目百万责任险就绪体检（11-02 起 × 不论销量 × 中国卖家须走 AIA）](wiki/entries/s36-amazon-liability-insurance-readiness.md)
 - [★ Amazon 2027 FBA 费用调整利润体检（01-15 配送费上调 × 02-01 库龄仓储费 × 低库存费改规则）](wiki/entries/s45-amazon-fba-2027-fee-readiness.md)
 - [Amazon 锂电消费电子 TIC 送检就绪体检（9-30 已生效 × 11-16 通知发完 × 须经授权实验室）](wiki/entries/s51-amazon-lithium-battery-tic-readiness.md)
+- [Amazon Ads 健康背书与比较宣称举证就绪体检（11-15 政策页更新 × 证据须在 24 个月内 × 包装已印可免再举证）](wiki/entries/s56-amazon-ads-claims-substantiation-readiness.md)
 
 #### TikTok Shop 卖家
 
@@ -146,6 +148,7 @@
 - [★ TikTok Shop 运费与重量结算加严就绪体检（11-12 起 × 虚高运费 × 改重降结算）](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md)
 - [★ TikTok Shop 商品 Listing 新规就绪体检（11-06 更新 × 禁外链 QR × 禁夸张宣称）](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)
 - [TikTok Shop 假日退货窗就绪体检（11-11 至 12-31 订单可退到 2027-02-10 × 覆盖卖家设置 × API 二维码有效期）](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md)
+- [TikTok Shop 珠宝配饰合规就绪体检（英国站 12-21 生成待办 × 2027-01-28 可能下架 × 英/欧均须交标签与 REACH 文件）](wiki/entries/s55-tiktok-shop-jewelry-compliance-readiness.md)
 
 #### Etsy / Walmart / Google Merchant
 
@@ -187,7 +190,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 61 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 63 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 

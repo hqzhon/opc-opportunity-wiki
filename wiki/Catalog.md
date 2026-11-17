@@ -65,3 +65,5 @@
 | Shopify Tax 免费额度改按终身销售额就绪体检（2027-01-01 起不再每年重置 × 10 万门槛 × 超线按单计费） | SaaS | 运营 | | [s52-shopify-tax-lifetime-discount-readiness](entries/s52-shopify-tax-lifetime-discount-readiness.md) |
 | Google Play 美区外链下载上报与服务费就绪体检（2027-02-01 须上报成功下载并缴费 × 游戏 $3.65 / 应用 $2.85 × 外链后 24 小时） | SaaS | 技术 | | [s53-google-play-external-link-fee-readiness](entries/s53-google-play-external-link-fee-readiness.md) |
 | Shopify Shop 刊登资格更新体检（11-10 起非 Shopify Payments 店也可出现在 Shop × 全店资格已更新 × 未达标会被拿下） | SaaS | 运营 | | [s54-shopify-shop-eligibility-readiness](entries/s54-shopify-shop-eligibility-readiness.md) |
+| TikTok Shop 珠宝配饰合规就绪体检（英国站 12-21 生成待办 × 2027-01-28 可能下架 × 英/欧均须交标签与 REACH 文件） | SaaS | 运营 | | [s55-tiktok-shop-jewelry-compliance-readiness](entries/s55-tiktok-shop-jewelry-compliance-readiness.md) |
+| Amazon Ads 健康背书与比较宣称举证就绪体检（11-15 政策页更新 × 证据须在 24 个月内 × 包装已印可免再举证） | SaaS | 运营 | | [s56-amazon-ads-claims-substantiation-readiness](entries/s56-amazon-ads-claims-substantiation-readiness.md) |
