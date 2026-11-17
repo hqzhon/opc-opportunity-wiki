@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：65 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：66 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-65_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-66_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -57,6 +57,7 @@
 | **11-12 / 11-20** | Shopify 公开 App IP 白名单强制：先批量失败，再下架 | [s37](wiki/entries/s37-shopify-ip-allowlist-readiness.md) |
 | **11-16 起** | Amazon 充电锂电智能硬件须经授权 TIC 送检，通知已发完，不合规 Listing 可能被下架 | [s51](wiki/entries/s51-amazon-lithium-battery-tic-readiness.md) |
 | **11-20 / 2027-01-01** | Shopify 自定义 App 装到客户店须配 IP 白名单，漏一个影响全部外部安装 | [s47](wiki/entries/s47-shopify-custom-app-ip-allowlist-readiness.md) |
+| **11-23** | Amazon 加拿大站：从境外履约且无加拿大退货地址时，CAD 25 及以下退货将自动免退退款；可自建免退规则 | [s59](wiki/entries/s59-amazon-canada-returnless-cross-border-readiness.md) |
 | **11-26 / 11-27** | Amazon 巴西站 FBA 遗失索赔改从建单起算 90 天，8-24 前 PCP 在途遗失须在 11-26 前申报 | [s58](wiki/entries/s58-amazon-brazil-fba-claim-window-readiness.md) |
 | **12-08** | TikTok Shop BFCM 保护期结束，低分店触发禁上新 | [s28](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) |
 | **12-18** | Amazon FBM 退货须预付面单，7 天不处理自动退款 | [s27](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) |
@@ -79,7 +80,7 @@
 
 ## 全部条目
 
-共 65 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 66 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -142,6 +143,7 @@
 - [Amazon 锂电消费电子 TIC 送检就绪体检（9-30 已生效 × 11-16 通知发完 × 须经授权实验室）](wiki/entries/s51-amazon-lithium-battery-tic-readiness.md)
 - [Amazon Ads 健康背书与比较宣称举证就绪体检（11-15 政策页更新 × 证据须在 24 个月内 × 包装已印可免再举证）](wiki/entries/s56-amazon-ads-claims-substantiation-readiness.md)
 - [Amazon 巴西站 FBA 遗失索赔窗口就绪体检（11-27 起 90 天从建单起算 × 8-24 前 PCP 在途遗失须在 11-26 前申报）](wiki/entries/s58-amazon-brazil-fba-claim-window-readiness.md)
+- [Amazon 加拿大站跨境退货与免退规则就绪体检（11-23 起 × 无加拿大退货地址则 CAD 25 及以下自动免退 × 可自建规则）](wiki/entries/s59-amazon-canada-returnless-cross-border-readiness.md)
 
 #### TikTok Shop 卖家
 
@@ -194,7 +196,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 65 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 66 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 

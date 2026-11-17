@@ -69,3 +69,4 @@
 | Amazon Ads 健康背书与比较宣称举证就绪体检（11-15 政策页更新 × 证据须在 24 个月内 × 包装已印可免再举证） | SaaS | 运营 | | [s56-amazon-ads-claims-substantiation-readiness](entries/s56-amazon-ads-claims-substantiation-readiness.md) |
 | Google Play 资格折扣订阅披露就绪体检（2027-01-27 起 × 学生价等须写明资格、核验与资格结束后的价格） | SaaS | 皆可 | | [s57-google-play-eligibility-discount-disclosure-readiness](entries/s57-google-play-eligibility-discount-disclosure-readiness.md) |
 | Amazon 巴西站 FBA 遗失索赔窗口就绪体检（11-27 起 90 天从建单起算 × 8-24 前 PCP 在途遗失须在 11-26 前申报） | SaaS | 运营 | | [s58-amazon-brazil-fba-claim-window-readiness](entries/s58-amazon-brazil-fba-claim-window-readiness.md) |
+| Amazon 加拿大站跨境退货与免退规则就绪体检（11-23 起 × 无加拿大退货地址则 CAD 25 及以下自动免退 × 可自建规则） | SaaS | 运营 | | [s59-amazon-canada-returnless-cross-border-readiness](entries/s59-amazon-canada-returnless-cross-border-readiness.md) |
