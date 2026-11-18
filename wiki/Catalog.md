@@ -70,3 +70,5 @@
 | Google Play 资格折扣订阅披露就绪体检（2027-01-27 起 × 学生价等须写明资格、核验与资格结束后的价格） | SaaS | 皆可 | | [s57-google-play-eligibility-discount-disclosure-readiness](entries/s57-google-play-eligibility-discount-disclosure-readiness.md) |
 | Amazon 巴西站 FBA 遗失索赔窗口就绪体检（11-27 起 90 天从建单起算 × 8-24 前 PCP 在途遗失须在 11-26 前申报） | SaaS | 运营 | | [s58-amazon-brazil-fba-claim-window-readiness](entries/s58-amazon-brazil-fba-claim-window-readiness.md) |
 | Amazon 加拿大站跨境退货与免退规则就绪体检（11-23 起 × 无加拿大退货地址则 CAD 25 及以下自动免退 × 可自建规则） | SaaS | 运营 | | [s59-amazon-canada-returnless-cross-border-readiness](entries/s59-amazon-canada-returnless-cross-border-readiness.md) |
+| Google Play 进出日本打款授权就绪体检（12-01 前完成 PSA 授权否则全球冻结打款 × 卖进或卖出日本都可能要做） | SaaS | 皆可 | | [s60-google-play-japan-payout-authorization-readiness](entries/s60-google-play-japan-payout-authorization-readiness.md) |
+| Google Play 交易者身份声明就绪体检（2027-02-01 前须在 Console 声明 × 未完成可能被拦截更新或全球下架 × 3-01 起向用户展示） | SaaS | 皆可 | | [s61-google-play-trader-status-declaration-readiness](entries/s61-google-play-trader-status-declaration-readiness.md) |
