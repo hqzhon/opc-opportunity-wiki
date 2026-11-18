@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：69 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：70 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-69_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-70_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -73,6 +73,7 @@
 | **2027-01-22** | Stripe Radar 续费筛查免费试用结束、按次计费 | [s30](wiki/entries/s30-stripe-radar-renewal-cost-readiness.md) |
 | **2027-01-27** | Google Play 学生价等持续资格折扣须披露资格、核验与资格结束后的价格和权益 | [s57](wiki/entries/s57-google-play-eligibility-discount-disclosure-readiness.md) |
 | **2027-01-31** | Google 商品图须 ≥500×500，AI 图须保留元数据 | [s43](wiki/entries/s43-google-merchant-image-500px-readiness.md) |
+| **2027-01-31** | Apple 中国区上架的现有应用须完成并核验 AIGC 与安全评估合规声明，否则可能在中国区不可售；无相关功能也须选 No | [s63](wiki/entries/s63-apple-china-aigc-security-assessment-readiness.md) |
 | **2027-02-01** | Etsy 卖进 EU/NI 的 Listing 须填制造商与欧盟负责人，否则被拒 | [s46](wiki/entries/s46-etsy-gpsr-economic-operator-readiness.md) |
 | **2027-02-01** | Google Play 美区外链项目须上报成功下载并缴纳固定安装费 | [s53](wiki/entries/s53-google-play-external-link-fee-readiness.md) |
 | **2027-02-01** | Google Play 须在 Console 声明交易者身份，逾期可能被拦截更新或全球下架 | [s61](wiki/entries/s61-google-play-trader-status-declaration-readiness.md) |
@@ -83,7 +84,7 @@
 
 ## 全部条目
 
-共 69 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 70 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -185,6 +186,7 @@
 - [Google Play 进出日本打款授权就绪体检（12-01 前完成 PSA 授权否则全球冻结打款 × 卖进或卖出日本都可能要做）](wiki/entries/s60-google-play-japan-payout-authorization-readiness.md)
 - [Google Play 交易者身份声明就绪体检（2027-02-01 前须在 Console 声明 × 未完成可能被拦截更新或全球下架 × 3-01 起向用户展示）](wiki/entries/s61-google-play-trader-status-declaration-readiness.md)
 - [Apple 年龄分级新内容描述就绪体检（2027-01-12 前须完成 Shared Location 与 Dating and Relationships 声明 × 约会类至少 18+）](wiki/entries/s62-apple-age-rating-descriptors-readiness.md)
+- [Apple 中国大陆 AIGC 与安全评估合规就绪体检（2027-01-31 前现有应用须完成并核验声明否则中国区不可售 × 无相关功能也须选 No）](wiki/entries/s63-apple-china-aigc-security-assessment-readiness.md)
 
 ### 其他导航
 
@@ -202,7 +204,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 69 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 70 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 
