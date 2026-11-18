@@ -72,3 +72,4 @@
 | Amazon 加拿大站跨境退货与免退规则就绪体检（11-23 起 × 无加拿大退货地址则 CAD 25 及以下自动免退 × 可自建规则） | SaaS | 运营 | | [s59-amazon-canada-returnless-cross-border-readiness](entries/s59-amazon-canada-returnless-cross-border-readiness.md) |
 | Google Play 进出日本打款授权就绪体检（12-01 前完成 PSA 授权否则全球冻结打款 × 卖进或卖出日本都可能要做） | SaaS | 皆可 | | [s60-google-play-japan-payout-authorization-readiness](entries/s60-google-play-japan-payout-authorization-readiness.md) |
 | Google Play 交易者身份声明就绪体检（2027-02-01 前须在 Console 声明 × 未完成可能被拦截更新或全球下架 × 3-01 起向用户展示） | SaaS | 皆可 | | [s61-google-play-trader-status-declaration-readiness](entries/s61-google-play-trader-status-declaration-readiness.md) |
+| Apple 年龄分级新内容描述就绪体检（2027-01-12 前须完成 Shared Location 与 Dating and Relationships 声明 × 约会类至少 18+） | SaaS | 皆可 | | [s62-apple-age-rating-descriptors-readiness](entries/s62-apple-age-rating-descriptors-readiness.md) |
