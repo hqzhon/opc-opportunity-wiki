@@ -74,3 +74,4 @@
 | Google Play 交易者身份声明就绪体检（2027-02-01 前须在 Console 声明 × 未完成可能被拦截更新或全球下架 × 3-01 起向用户展示） | SaaS | 皆可 | | [s61-google-play-trader-status-declaration-readiness](entries/s61-google-play-trader-status-declaration-readiness.md) |
 | Apple 年龄分级新内容描述就绪体检（2027-01-12 前须完成 Shared Location 与 Dating and Relationships 声明 × 约会类至少 18+） | SaaS | 皆可 | | [s62-apple-age-rating-descriptors-readiness](entries/s62-apple-age-rating-descriptors-readiness.md) |
 | Apple 中国大陆 AIGC 与安全评估合规就绪体检（2027-01-31 前现有应用须完成并核验声明否则中国区不可售 × 无相关功能也须选 No） | SaaS | 皆可 | | [s63-apple-china-aigc-security-assessment-readiness](entries/s63-apple-china-aigc-security-assessment-readiness.md) |
+| Lemon Squeezy 关停迁移就绪体检（12-02 工具上线 × 2027-03-31 停止处理交易含续费 × 官方不延期） | SaaS | 皆可 | | [s64-lemon-squeezy-migration-readiness](entries/s64-lemon-squeezy-migration-readiness.md) |

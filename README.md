@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：70 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：71 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-70_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-71_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -60,6 +60,7 @@
 | **11-23** | Amazon 加拿大站：从境外履约且无加拿大退货地址时，CAD 25 及以下退货将自动免退退款；可自建免退规则 | [s59](wiki/entries/s59-amazon-canada-returnless-cross-border-readiness.md) |
 | **11-26 / 11-27** | Amazon 巴西站 FBA 遗失索赔改从建单起算 90 天，8-24 前 PCP 在途遗失须在 11-26 前申报 | [s58](wiki/entries/s58-amazon-brazil-fba-claim-window-readiness.md) |
 | **12-01** | Google Play 卖进或卖出日本须完成收款授权，否则全球打款可能被冻结 | [s60](wiki/entries/s60-google-play-japan-payout-authorization-readiness.md) |
+| **12-02 / 2027-03-31** | Lemon Squeezy 关停：12-02 迁移工具上线，3-31 停止处理交易（含续费），官方不延期 | [s64](wiki/entries/s64-lemon-squeezy-migration-readiness.md) |
 | **12-08** | TikTok Shop BFCM 保护期结束，低分店触发禁上新 | [s28](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) |
 | **12-18** | Amazon FBM 退货须预付面单，7 天不处理自动退款 | [s27](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) |
 | **12-21 / 2027-01-28** | TikTok Shop 英国站珠宝配饰须补齐标签与 REACH 文件，逾期存量可能被下架 | [s55](wiki/entries/s55-tiktok-shop-jewelry-compliance-readiness.md) |
@@ -84,7 +85,7 @@
 
 ## 全部条目
 
-共 70 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 71 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -187,6 +188,7 @@
 - [Google Play 交易者身份声明就绪体检（2027-02-01 前须在 Console 声明 × 未完成可能被拦截更新或全球下架 × 3-01 起向用户展示）](wiki/entries/s61-google-play-trader-status-declaration-readiness.md)
 - [Apple 年龄分级新内容描述就绪体检（2027-01-12 前须完成 Shared Location 与 Dating and Relationships 声明 × 约会类至少 18+）](wiki/entries/s62-apple-age-rating-descriptors-readiness.md)
 - [Apple 中国大陆 AIGC 与安全评估合规就绪体检（2027-01-31 前现有应用须完成并核验声明否则中国区不可售 × 无相关功能也须选 No）](wiki/entries/s63-apple-china-aigc-security-assessment-readiness.md)
+- [Lemon Squeezy 关停迁移就绪体检（12-02 工具上线 × 2027-03-31 停止处理交易含续费 × 官方不延期）](wiki/entries/s64-lemon-squeezy-migration-readiness.md)
 
 ### 其他导航
 
@@ -204,7 +206,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 70 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 71 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 
