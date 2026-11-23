@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：74 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：76 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-74_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-76_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -53,10 +53,10 @@
 <!-- 新的临期条目按日期插入下表；截止已过的移出 -->
 | 截止 | 发生什么 | 条目 |
 | --- | --- | --- |
+| **11-06 起 / 2027-01-31** | TikTok Shop 英国站：11-06 至 12-31 合格订单可退到 1-31，除外类目以商品页为准；不要套用美区 2-10 | [s69](wiki/entries/s69-tiktok-shop-uk-holiday-returns-readiness.md) |
 | **11-11 起 / 2027-02-10** | TikTok Shop BFCM 订单退货窗延到 2-10，API 退货二维码有效期须跟着改 | [s48](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md) |
 | **11-16 起** | Amazon 充电锂电智能硬件须经授权 TIC 送检，通知已发完，不合规 Listing 可能被下架 | [s51](wiki/entries/s51-amazon-lithium-battery-tic-readiness.md) |
 | **11-20 / 2027-01-01** | Shopify 自定义 App 装到客户店须配 IP 白名单，漏一个影响全部外部安装 | [s47](wiki/entries/s47-shopify-custom-app-ip-allowlist-readiness.md) |
-| **11-23** | Amazon 加拿大站：从境外履约且无加拿大退货地址时，CAD 25 及以下退货将自动免退退款；可自建免退规则 | [s59](wiki/entries/s59-amazon-canada-returnless-cross-border-readiness.md) |
 | **11-26 / 11-27** | Amazon 巴西站 FBA 遗失索赔改从建单起算 90 天，8-24 前 PCP 在途遗失须在 11-26 前申报 | [s58](wiki/entries/s58-amazon-brazil-fba-claim-window-readiness.md) |
 | **12-01** | Google Play 卖进或卖出日本须完成收款授权，否则全球打款可能被冻结 | [s60](wiki/entries/s60-google-play-japan-payout-authorization-readiness.md) |
 | **12-01** | Shopify 退货 / 订阅 App 的买家自助登录须改用 Customer Account API，否则可能失去 Built for Shopify | [s65](wiki/entries/s65-shopify-bfs-customer-account-api-readiness.md) |
@@ -71,6 +71,7 @@
 | **2027-01-11** | Amazon 单 ASIN 捆绑须原厂包装 | [s34](wiki/entries/s34-amazon-bundle-manufacturer-packaging-readiness.md) |
 | **2027-01-12** | Apple 年龄分级问卷须完成 Shared Location 与 Dating and Relationships 声明，约会类最低 18+ | [s62](wiki/entries/s62-apple-age-rating-descriptors-readiness.md) |
 | **2027-01-15 / 02-01** | Amazon FBA 配送费上调、仓储费改按库龄计 | [s45](wiki/entries/s45-amazon-fba-2027-fee-readiness.md) |
+| **2027-01-17** | 美国邮政商业件平均涨 5.9%，并加收 11% 燃油附加；USPS Ship / APV 短付按欠付额加收 20% 再计价费 | [s68](wiki/entries/s68-usps-2027-price-repricing-readiness.md) |
 | **2027-01-20** | 美国邮政小包 Entry Type 13 电子申报 | [s35](wiki/entries/s35-us-postal-entry-type13-readiness.md) |
 | **2027-01-22** | Stripe Radar 续费筛查免费试用结束、按次计费 | [s30](wiki/entries/s30-stripe-radar-renewal-cost-readiness.md) |
 | **2027-01-27** | Google Play 学生价等持续资格折扣须披露资格、核验与资格结束后的价格和权益 | [s57](wiki/entries/s57-google-play-eligibility-discount-disclosure-readiness.md) |
@@ -83,11 +84,11 @@
 | **2027-06-01** | FCC 新规：美国站无线电子产品须在卖点展示 FCC ID，eBay 已开始拦缺 ID 的 Listing | [s50](wiki/entries/s50-fcc-id-marketplace-listing-readiness.md) |
 | **2027-07-01** | Shopify 运费从档案迁到按市场配置，多条费率改收最高一条，旧 API 写入静默失效 | [s49](wiki/entries/s49-shopify-market-driven-shipping-readiness.md) |
 
-已生效、仍值得逐店检查：TikTok Shop 电子品类责任险 [s38](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md)、API 取消计入 SFCR [s39](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md)、运费与重量结算 [s41](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md)、Listing 新规 [s42](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)；Amazon 安全类目责任险 [s36](wiki/entries/s36-amazon-liability-insurance-readiness.md)、广告宣称举证 [s56](wiki/entries/s56-amazon-ads-claims-substantiation-readiness.md)；Apple 取消挽留消息 [s40](wiki/entries/s40-apple-retention-messages-readiness.md)、多席位 [s31](wiki/entries/s31-apple-multiseat-subscription-readiness.md)；Google Play 拒付 [s32](wiki/entries/s32-google-play-chargeback-review-readiness.md)；Etsy 商品图 [s29](wiki/entries/s29-etsy-listing-image-ai-readiness.md)；EU 低货值包裹 [s16](wiki/entries/s16-eu-product-identifiers.md) / [s17](wiki/entries/s17-eu-uhf-duty-recovery.md)；Shopify 公开 App IP 白名单 [s37](wiki/entries/s37-shopify-ip-allowlist-readiness.md)。
+已生效、仍值得逐店检查：TikTok Shop 电子品类责任险 [s38](wiki/entries/s38-tiktok-shop-liability-insurance-readiness.md)、API 取消计入 SFCR [s39](wiki/entries/s39-tiktok-shop-api-sfcr-readiness.md)、运费与重量结算 [s41](wiki/entries/s41-tiktok-shop-shipping-fee-weight-readiness.md)、Listing 新规 [s42](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)；Amazon 安全类目责任险 [s36](wiki/entries/s36-amazon-liability-insurance-readiness.md)、广告宣称举证 [s56](wiki/entries/s56-amazon-ads-claims-substantiation-readiness.md)、加拿大跨境退货与免退 [s59](wiki/entries/s59-amazon-canada-returnless-cross-border-readiness.md)；Apple 取消挽留消息 [s40](wiki/entries/s40-apple-retention-messages-readiness.md)、多席位 [s31](wiki/entries/s31-apple-multiseat-subscription-readiness.md)；Google Play 拒付 [s32](wiki/entries/s32-google-play-chargeback-review-readiness.md)；Etsy 商品图 [s29](wiki/entries/s29-etsy-listing-image-ai-readiness.md)；EU 低货值包裹 [s16](wiki/entries/s16-eu-product-identifiers.md) / [s17](wiki/entries/s17-eu-uhf-duty-recovery.md)；Shopify 公开 App IP 白名单 [s37](wiki/entries/s37-shopify-ip-allowlist-readiness.md)。
 
 ## 全部条目
 
-共 74 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 76 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -164,6 +165,7 @@
 - [★ TikTok Shop 商品 Listing 新规就绪体检（11-06 更新 × 禁外链 QR × 禁夸张宣称）](wiki/entries/s42-tiktok-shop-listing-policy-readiness.md)
 - [TikTok Shop 假日退货窗就绪体检（11-11 至 12-31 订单可退到 2027-02-10 × 覆盖卖家设置 × API 二维码有效期）](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md)
 - [TikTok Shop 珠宝配饰合规就绪体检（英国站 12-21 生成待办 × 2027-01-28 可能下架 × 英/欧均须交标签与 REACH 文件）](wiki/entries/s55-tiktok-shop-jewelry-compliance-readiness.md)
+- [TikTok Shop 英国站假日退货窗就绪体检（11-06 至 12-31 订单可退到 2027-01-31 × 与美区 2-10 不同 × 除外类目看商品页）](wiki/entries/s69-tiktok-shop-uk-holiday-returns-readiness.md)
 
 #### Etsy / Walmart / Google Merchant
 
@@ -179,6 +181,7 @@
 - [★ UK VAT 履约仓路由就绪体检（>£135 GB）](wiki/entries/s19-uk-vat-fulfillment-routing.md)
 - [★ 美国邮政小包 Entry Type 13 就绪体检（01-20 起 × 301 关税与 FDA/CPSC 类商品 × 缺数据被扣或退回）](wiki/entries/s35-us-postal-entry-type13-readiness.md)
 - [美国站无线电子产品 FCC ID 就绪体检（10-13 已生效 × 缺 FCC ID 的 Listing 被拦 × 2027-06-01 卖点处须展示）](wiki/entries/s50-fcc-id-marketplace-listing-readiness.md)
+- [美国邮政 2027 运费与短付再计价就绪体检（01-17 起 × 平均涨 5.9% × 燃油附加 11% × 短付加收 20%）](wiki/entries/s68-usps-2027-price-repricing-readiness.md)
 
 #### 订阅收款（Stripe / App Store / Google Play）
 
@@ -211,7 +214,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 74 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 76 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 

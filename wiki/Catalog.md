@@ -78,3 +78,5 @@
 | Shopify 退货与订阅 App 买家登录就绪体检（12-01 起须用 Customer Account API × 否则可能失去 Built for Shopify） | SaaS | 技术 | | [s65-shopify-bfs-customer-account-api-readiness](entries/s65-shopify-bfs-customer-account-api-readiness.md) |
 | Shopify 店面前端网络访问声明就绪体检（12-01 拒发版与提交 × 2027-01-01 下架 × 须声明 allowed_sources） | SaaS | 技术 | | [s66-shopify-network-access-declaration-readiness](entries/s66-shopify-network-access-declaration-readiness.md) |
 | Shopify 店面 Script Tag 停用迁移体检（10-01 已禁新建 × 2027-03-01 停止注入 × 须改为 App embed 或像素） | SaaS | 技术 | | [s67-shopify-script-tag-deprecation-readiness](entries/s67-shopify-script-tag-deprecation-readiness.md) |
+| 美国邮政 2027 运费与短付再计价就绪体检（01-17 起 × 平均涨 5.9% × 燃油附加 11% × 短付加收 20%） | SaaS | 运营 | | [s68-usps-2027-price-repricing-readiness](entries/s68-usps-2027-price-repricing-readiness.md) |
+| TikTok Shop 英国站假日退货窗就绪体检（11-06 至 12-31 订单可退到 2027-01-31 × 与美区 2-10 不同 × 除外类目看商品页） | SaaS | 皆可 | | [s69-tiktok-shop-uk-holiday-returns-readiness](entries/s69-tiktok-shop-uk-holiday-returns-readiness.md) |

@@ -5,7 +5,7 @@
 | 市场 | SaaS / 订阅 |
 | 适配 | 皆可 |
 | 优先 | |
-| 更新 | 2026-11-13 |
+| 更新 | 2026-11-23 |
 
 ## 一句话
 
@@ -23,6 +23,8 @@ TikTok Shop 官方 Seller University「Policy Pulse（October 2026）」（2026-
 对小卖家的实际影响：11–12 月的销售额要到 2 月中才算「落袋」，1 月是退货高峰，结算和备货预算如果还按 30 天窗口算，会在年后吃亏；用 ERP 或自研脚本对接 API 的卖家多一个技术坑。
 
 与 `s28`（账户健康分 BFCM 保护期）、`s39`（API 取消计入 SFCR）、`s41`（运费与重量结算）不同：本条只管 **BFCM 订单的售后窗口、退货准备金与 API 退货二维码**。
+
+英国站不是同一套日期：官方顾客退货政策写明，**2026-11-06 至 12-31** 的合格订单可退到 **2027-01-31**，电子、二手、珠宝和拍卖等除外类目以商品页显示的退货窗为准。不要把本条的 2-10 套到英国站，详见 [s69](s69-tiktok-shop-uk-holiday-returns-readiness.md)。
 
 ## 目标客户
 
@@ -48,4 +50,4 @@ US TikTok Shop 本土与跨境小卖家（尤其服装、饰品、3C 配件这�
 
 - [TikTok Shop Seller University: Policy Pulse（October 2026），含 BFCM Holiday Return Window Extension 与 New Controls for High-Risk Return and Refund Requests（2026-11-05 更新）](https://seller-us.tiktok.com/university/essay?knowledge_id=3634802985453313&lang=en)
 - 同页 May 2026「Simplified Returns and Refunds Review」：4 个工作日审核窗、第 10 天可审、第 30 天自动通过
-- 相关但独立：[s28 TikTok Shop 账户健康分 BFCM 就绪体检](s28-tiktok-shop-ahr-bfcm-readiness.md)、[s39 TikTok Shop API 取消单计入 SFCR 就绪体检](s39-tiktok-shop-api-sfcr-readiness.md)
+- 相关但独立：[s28 TikTok Shop 账户健康分 BFCM 就绪体检](s28-tiktok-shop-ahr-bfcm-readiness.md)、[s39 TikTok Shop API 取消单计入 SFCR 就绪体检](s39-tiktok-shop-api-sfcr-readiness.md)、[s69 TikTok Shop 英国站假日退货窗就绪体检](s69-tiktok-shop-uk-holiday-returns-readiness.md)
