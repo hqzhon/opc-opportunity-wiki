@@ -76,3 +76,5 @@
 | Apple 中国大陆 AIGC 与安全评估合规就绪体检（2027-01-31 前现有应用须完成并核验声明否则中国区不可售 × 无相关功能也须选 No） | SaaS | 皆可 | | [s63-apple-china-aigc-security-assessment-readiness](entries/s63-apple-china-aigc-security-assessment-readiness.md) |
 | Lemon Squeezy 关停迁移就绪体检（12-02 工具上线 × 2027-03-31 停止处理交易含续费 × 官方不延期） | SaaS | 皆可 | | [s64-lemon-squeezy-migration-readiness](entries/s64-lemon-squeezy-migration-readiness.md) |
 | Shopify 退货与订阅 App 买家登录就绪体检（12-01 起须用 Customer Account API × 否则可能失去 Built for Shopify） | SaaS | 技术 | | [s65-shopify-bfs-customer-account-api-readiness](entries/s65-shopify-bfs-customer-account-api-readiness.md) |
+| Shopify 店面前端网络访问声明就绪体检（12-01 拒发版与提交 × 2027-01-01 下架 × 须声明 allowed_sources） | SaaS | 技术 | | [s66-shopify-network-access-declaration-readiness](entries/s66-shopify-network-access-declaration-readiness.md) |
+| Shopify 店面 Script Tag 停用迁移体检（10-01 已禁新建 × 2027-03-01 停止注入 × 须改为 App embed 或像素） | SaaS | 技术 | | [s67-shopify-script-tag-deprecation-readiness](entries/s67-shopify-script-tag-deprecation-readiness.md) |

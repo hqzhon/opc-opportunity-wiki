@@ -5,7 +5,7 @@
 | 市场 | SaaS / 订阅 |
 | 适配 | 偏技术 |
 | 优先 | 是 |
-| 更新 | 2026-11-04 |
+| 更新 | 2026-11-23 |
 
 ## 一句话
 
@@ -19,7 +19,7 @@ Shopify 在 2026-10-27 的开发者 Changelog 里写明：所有调用 Admin API
 
 ## 目标客户
 
-在 Shopify App Store 有公开 App、由 1–3 人维护的开发者或小工作室：尤其是 2026 年 4 月前创建、没用官方 Remix / React Router 模板、自己写 OAuth 的 App，以及只靠 webhook 或后台任务运行的工具型 App（库存同步、导单、发票、标签打印等）。自定义 App 和商家自建 App 不受影响，不是客户。
+在 Shopify App Store 有公开 App、由 1–3 人维护的开发者或小工作室：尤其是 2026 年 4 月前创建、没用官方 Remix / React Router 模板、自己写 OAuth 的 App，以及只靠 webhook 或后台任务运行的工具型 App（库存同步、导单、发票、标签打印等）。2026-12-01 之前创建的自定义 App 和商家自建 App，仍可继续使用现有离线令牌，不是本条（公开 App 存量迁移）的客户。2026-12-01 起新创建的自定义 App 和商家自建 App，须按 2026-11-19 Changelog 使用会过期的离线令牌（`expiring=1`），这不影响本条的 2027-01-01 公开 App 下架日。
 
 ## 一人怎么起步
 
@@ -35,10 +35,11 @@ Shopify 在 2026-10-27 的开发者 Changelog 里写明：所有调用 Admin API
 
 ## 注意的坑
 
-直接迁移会永久作废旧令牌：必须先把返回的 access token、refresh token 和两个过期时间落库，再丢旧令牌；响应丢失只能在 7 天内用原令牌重试找回，且一旦刷新过就不能再找回。刷新令牌用一次就换新，多个进程并发刷新容易互相作废，要加锁。403 可能是缺权限而不是旧令牌，要匹配 Shopify 给出的那句报错再决定是否重新授权；刷新令牌失效会返回 401，只能让商家重新打开 App。只动客户授权的代码与开发店，生产迁移由开发者本人点头、分批执行。别承诺「保证不被下架」，以 Shopify 官方迁移指南和后台提示为准；客户端凭据找回、IP 白名单等是可选加固，不是这次截止日的硬要求。
+直接迁移会永久作废旧令牌：必须先把返回的 access token、refresh token 和两个过期时间落库，再丢旧令牌；响应丢失只能在 7 天内用原令牌重试找回，且一旦刷新过就不能再找回。刷新令牌用一次就换新，多个进程并发刷新容易互相作废，要加锁。403 可能是缺权限而不是旧令牌，要匹配 Shopify 给出的那句报错再决定是否重新授权；刷新令牌失效会返回 401，只能让商家重新打开 App。只动客户授权的代码与开发店，生产迁移由开发者本人点头、分批执行。别承诺「保证不被下架」，以 Shopify 官方迁移指南和后台提示为准；客户端凭据找回、IP 白名单等是可选加固，不是这次截止日的硬要求。不要把 2026-11-19 起「新自定义 / 商家自建 App 须用会过期令牌」的规则，当成旧自定义 App 也必须在 12-01 前完成存量迁移。
 
 ## 来源线索
 
 - [Shopify Changelog: Migrate to expiring offline access tokens before January 1, 2027](https://shopify.dev/changelog/posts/migrate-to-expiring-offline-access-tokens-before-january-2027)
 - [Shopify Changelog: Security update: Offline token dates, new security features（2026-10-27）](https://shopify.dev/changelog/blog/app-security-updates-october-2026)
 - [Shopify Dev Docs: Migrate to expiring offline access tokens（直接迁移、7 天找回、403/401 处理）](https://shopify.dev/docs/apps/build/authentication-authorization/migrate-to-expiring-offline-access-tokens)
+- [Shopify Changelog: Expiring offline access tokens required for new custom apps as of December 1, 2026（2026-11-19；仅针对 12-01 起新创建的自定义 / 商家自建 App）](https://shopify.dev/changelog/posts/expiring-offline-access-tokens-required-for-new-custom-apps-as-of-december-1-2026)
