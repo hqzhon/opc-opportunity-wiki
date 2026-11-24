@@ -81,3 +81,4 @@
 | 美国邮政 2027 运费与短付再计价就绪体检（01-17 起 × 平均涨 5.9% × 燃油附加 11% × 短付加收 20%） | SaaS | 运营 | | [s68-usps-2027-price-repricing-readiness](entries/s68-usps-2027-price-repricing-readiness.md) |
 | TikTok Shop 英国站假日退货窗就绪体检（11-06 至 12-31 订单可退到 2027-01-31 × 与美区 2-10 不同 × 除外类目看商品页） | SaaS | 皆可 | | [s69-tiktok-shop-uk-holiday-returns-readiness](entries/s69-tiktok-shop-uk-holiday-returns-readiness.md) |
 | Shopify 弃单恢复链接受保护顾客数据就绪体检（12-01 公开 App 须获准四字段 × 2027-01-01 自定义 App 须自助开通 × 未获准则 GraphQL 整查询失败） | SaaS | 技术 | | [s70-shopify-abandoned-checkout-url-pcd-readiness](entries/s70-shopify-abandoned-checkout-url-pcd-readiness.md) |
+| Amazon 美国站假日退货窗就绪体检（11-01 至 12-31 订单可退到 2027-01-31 × 苹果品牌到 1-15 × FBA/FBM 自动生效） | SaaS | 运营 | | [s71-amazon-us-holiday-returns-readiness](entries/s71-amazon-us-holiday-returns-readiness.md) |

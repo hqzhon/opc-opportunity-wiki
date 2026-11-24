@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：77 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：78 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-77_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-78_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -53,6 +53,7 @@
 <!-- 新的临期条目按日期插入下表；截止已过的移出 -->
 | 截止 | 发生什么 | 条目 |
 | --- | --- | --- |
+| **11-01 起 / 2027-01-31** | Amazon.com：11-01 至 12-31 合格订单可退到 1-31（苹果品牌到 1-15），FBA/FBM 自动生效；原有不可退条件不变 | [s71](wiki/entries/s71-amazon-us-holiday-returns-readiness.md) |
 | **11-06 起 / 2027-01-31** | TikTok Shop 英国站：11-06 至 12-31 合格订单可退到 1-31，除外类目以商品页为准；不要套用美区 2-10 | [s69](wiki/entries/s69-tiktok-shop-uk-holiday-returns-readiness.md) |
 | **11-11 起 / 2027-02-10** | TikTok Shop BFCM 订单退货窗延到 2-10，API 退货二维码有效期须跟着改 | [s48](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md) |
 | **11-16 起** | Amazon 充电锂电智能硬件须经授权 TIC 送检，通知已发完，不合规 Listing 可能被下架 | [s51](wiki/entries/s51-amazon-lithium-battery-tic-readiness.md) |
@@ -89,7 +90,7 @@
 
 ## 全部条目
 
-共 77 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 78 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -157,6 +158,7 @@
 - [Amazon Ads 健康背书与比较宣称举证就绪体检（11-15 政策页更新 × 证据须在 24 个月内 × 包装已印可免再举证）](wiki/entries/s56-amazon-ads-claims-substantiation-readiness.md)
 - [Amazon 巴西站 FBA 遗失索赔窗口就绪体检（11-27 起 90 天从建单起算 × 8-24 前 PCP 在途遗失须在 11-26 前申报）](wiki/entries/s58-amazon-brazil-fba-claim-window-readiness.md)
 - [Amazon 加拿大站跨境退货与免退规则就绪体检（11-23 起 × 无加拿大退货地址则 CAD 25 及以下自动免退 × 可自建规则）](wiki/entries/s59-amazon-canada-returnless-cross-border-readiness.md)
+- [Amazon 美国站假日退货窗就绪体检（11-01 至 12-31 订单可退到 2027-01-31 × 苹果品牌到 1-15 × FBA/FBM 自动生效）](wiki/entries/s71-amazon-us-holiday-returns-readiness.md)
 
 #### TikTok Shop 卖家
 
@@ -216,7 +218,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 77 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 78 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 
