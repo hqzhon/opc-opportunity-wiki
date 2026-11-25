@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：80 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：81 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-80_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-81_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -56,6 +56,7 @@
 | **10-01 起 / 2027-01-31** | Walmart Marketplace：10-01 至 12-31 合格订单可退到 1-31；无线电话、保护计划、大家电、Dyson、食品饮料等除外；卖家须遵守平台退货政策 | [s73](wiki/entries/s73-walmart-holiday-returns-readiness.md) |
 | **11-01 起 / 2027-01-31** | Amazon.com：11-01 至 12-31 合格订单可退到 1-31（苹果品牌到 1-15），FBA/FBM 自动生效；原有不可退条件不变 | [s71](wiki/entries/s71-amazon-us-holiday-returns-readiness.md) |
 | **11-01 起 / 2027-01-31** | Amazon 欧洲十站：多数站点 11-01 至 12-25 合格订单可退到 1-31 或收货后 30 天；西班牙买到 1-06、退到 2-06；德/法/意部分类目到 1-15；FBA/FBM 自动生效。不要套用美国站 12-31 | [s72](wiki/entries/s72-amazon-eu-uk-holiday-returns-readiness.md) |
+| **11-01 起 / 2027-01-31** | Amazon 加/墨/巴/日/澳/新：多数站点 11-01 至 12-31 合格订单可退到 1-31；加拿大苹果到 1-15，墨西哥手机与苹果到 1-14；日本站苹果不在客户都合窗；澳站 FBM 可自选对齐。不要套用美国站或欧洲站日期 | [s74](wiki/entries/s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md) |
 | **11-06 起 / 2027-01-31** | TikTok Shop 英国站：11-06 至 12-31 合格订单可退到 1-31，除外类目以商品页为准；不要套用美区 2-10 | [s69](wiki/entries/s69-tiktok-shop-uk-holiday-returns-readiness.md) |
 | **11-11 起 / 2027-02-10** | TikTok Shop BFCM 订单退货窗延到 2-10，API 退货二维码有效期须跟着改 | [s48](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md) |
 | **11-16 起** | Amazon 充电锂电智能硬件须经授权 TIC 送检，通知已发完，不合规 Listing 可能被下架 | [s51](wiki/entries/s51-amazon-lithium-battery-tic-readiness.md) |
@@ -92,7 +93,7 @@
 
 ## 全部条目
 
-共 80 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 81 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -162,6 +163,7 @@
 - [Amazon 加拿大站跨境退货与免退规则就绪体检（11-23 起 × 无加拿大退货地址则 CAD 25 及以下自动免退 × 可自建规则）](wiki/entries/s59-amazon-canada-returnless-cross-border-readiness.md)
 - [Amazon 美国站假日退货窗就绪体检（11-01 至 12-31 订单可退到 2027-01-31 × 苹果品牌到 1-15 × FBA/FBM 自动生效）](wiki/entries/s71-amazon-us-holiday-returns-readiness.md)
 - [Amazon 欧洲站与英国站假日退货窗就绪体检（多数站点 11-01 至 12-25 可退到 2027-01-31 × 西班牙到 2-06 × 德法意部分类目到 1-15）](wiki/entries/s72-amazon-eu-uk-holiday-returns-readiness.md)
+- [Amazon 加墨巴日澳新站假日退货窗就绪体检（多数买到 12-31 可退到 2027-01-31 × 加拿大苹果到 1-15 × 墨西哥手机与苹果到 1-14 × 日本苹果不在客户都合窗）](wiki/entries/s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md)
 
 #### TikTok Shop 卖家
 
@@ -222,7 +224,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 80 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 81 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 

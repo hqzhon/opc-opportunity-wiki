@@ -9,7 +9,7 @@
 
 ## 一句话
 
-帮在 Amazon **英国、西班牙、德国、意大利、法国、荷兰、波兰、瑞典、比利时、爱尔兰** 十个欧洲站点售卖的卖家，把 2026 假日退货延长落到账上和售后流程里：多数站点是 **2026-11-01 至 12-25** 购买的商品，可退到 **2027-01-31** 或收货后 30 天（以后到者为准）；**西班牙站**是 11-01 至 **2027-01-06** 购买、可退到 **2027-02-06** 或收货后 30 天；**德国、法国、意大利**还有一份按类目缩短到 **2027-01-15**（或收货后 14 天）的清单，三个站点的类目并不相同。Seller Central 官方公告写明，延长自动适用于这十个站点的 FBA 与 FBM，**卖家无需操作**，原有退货资格条件不变。不要把美国站 s71 的「买到 12-31、苹果品牌到 1-15」套过来。
+帮在 Amazon **英国、西班牙、德国、意大利、法国、荷兰、波兰、瑞典、比利时、爱尔兰** 十个欧洲站点售卖的卖家，把 2026 假日退货延长落到账上和售后流程里：多数站点是 **2026-11-01 至 12-25** 购买的商品，可退到 **2027-01-31** 或收货后 30 天（以后到者为准）；**西班牙站**是 11-01 至 **2027-01-06** 购买、可退到 **2027-02-06** 或收货后 30 天；**德国、法国、意大利**还有一份按类目缩短到 **2027-01-15**（或收货后 14 天）的清单，三个站点的类目并不相同。Seller Central 官方公告写明，延长自动适用于这十个站点的 FBA 与 FBM，**卖家无需操作**，原有退货资格条件不变。不要把美国站 s71 的「买到 12-31、苹果品牌到 1-15」套过来，也不要和加墨巴日澳新站 s74 混用（多数虽也买到 12-31，苹果 / 手机截止和 FBM 规则不同）。
 
 ## 为什么现在
 
@@ -51,11 +51,11 @@
 
 ## 变现路径
 
-一次性体检（示意 $79–$199 / 店，多站点或德法意类目较多可按站点加价）；1–2 月每周售后巡检（示意 $49–$99 / 月）。与 s71 美国站、s59 加拿大站不要重复收费，可以打成「分站点假日退货包」。TikTok 英国站应走 s69，不要用本条日期另收一笔。
+一次性体检（示意 $79–$199 / 店，多站点或德法意类目较多可按站点加价）；1–2 月每周售后巡检（示意 $49–$99 / 月）。与 s71 美国站、s74 加墨巴日澳新站、s59 加拿大站免退不要重复收费，可以打成「分站点假日退货包」。TikTok 英国站应走 s69，不要用本条日期另收一笔。
 
 ## 注意的坑
 
-以各站官方退货政策及 Seller Central 官方公告为准，政策会更新。不要保证「全部类目都到 1-31」：原有不可退和除外条件仍在；德 / 法 / 意部分类目是 1-15 或收货后 14 天，三个站点的类目清单不一样，不要合并成一张「欧洲 1-15 清单」。不要把美国站 s71 的 12-31 购买窗或「苹果品牌 1-15」套到这些站点。西班牙是 2-06，不是 1-31。晚到货可能比日历截止日更晚，准备金不要只按 1-31 一刀切。延长是自动生效的，体检的价值在分站点现金流、库存和售后 SOP，不是教卖家去打开某个开关。不要教卖家拒绝合法退货或用话术规避售后。不要把卖家论坛里的跟帖当成政策。只用卖家授权的只读权限，不索要账号密码。本条覆盖官方公告列出的十个欧洲站点，不要自行推广到日本、澳洲或其他未核对这些日期的站点。价格只是示意，需自行验证。
+以各站官方退货政策及 Seller Central 官方公告为准，政策会更新。不要保证「全部类目都到 1-31」：原有不可退和除外条件仍在；德 / 法 / 意部分类目是 1-15 或收货后 14 天，三个站点的类目清单不一样，不要合并成一张「欧洲 1-15 清单」。不要把美国站 s71 的 12-31 购买窗或「苹果品牌 1-15」套到这些站点。西班牙是 2-06，不是 1-31。晚到货可能比日历截止日更晚，准备金不要只按 1-31 一刀切。延长是自动生效的，体检的价值在分站点现金流、库存和售后 SOP，不是教卖家去打开某个开关。不要教卖家拒绝合法退货或用话术规避售后。不要把卖家论坛里的跟帖当成政策。只用卖家授权的只读权限，不索要账号密码。本条覆盖官方公告列出的十个欧洲站点；日本、澳洲、加拿大、墨西哥、巴西与新加坡见 [s74](s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md)，不要把 12-25 购买窗套过去。价格只是示意，需自行验证。
 
 ## 来源线索
 
@@ -67,4 +67,4 @@
 - [Amazon.it Return Policy：多数商品同上；意大利站 1-15 类目清单再次不同](https://www.amazon.it/-/en/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7)
 - [Amazon.es Return Policy：11-01 至 2027-01-06 购买的多数商品可退到 2027-02-06 或收货后 30 天](https://www.amazon.es/-/en/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7)
 - [Amazon.nl](https://www.amazon.nl/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7)、[Amazon.ie](https://www.amazon.ie/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7)、[Amazon.pl](https://www.amazon.pl/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7) Return Policy：与多数站点相同的 11-01 至 12-25 / 2027-01-31 或收货后 30 天
-- 相关但独立：[s71 Amazon 美国站假日退货窗就绪体检](s71-amazon-us-holiday-returns-readiness.md)、[s59 Amazon 加拿大站跨境退货与免退规则就绪体检](s59-amazon-canada-returnless-cross-border-readiness.md)、[s69 TikTok Shop 英国站假日退货窗就绪体检](s69-tiktok-shop-uk-holiday-returns-readiness.md)、[s48 TikTok Shop 美区假日退货窗就绪体检](s48-tiktok-shop-bfcm-holiday-returns-readiness.md)
+- 相关但独立：[s71 Amazon 美国站假日退货窗就绪体检](s71-amazon-us-holiday-returns-readiness.md)、[s74 Amazon 加墨巴日澳新站假日退货窗就绪体检](s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md)、[s59 Amazon 加拿大站跨境退货与免退规则就绪体检](s59-amazon-canada-returnless-cross-border-readiness.md)、[s69 TikTok Shop 英国站假日退货窗就绪体检](s69-tiktok-shop-uk-holiday-returns-readiness.md)、[s48 TikTok Shop 美区假日退货窗就绪体检](s48-tiktok-shop-bfcm-holiday-returns-readiness.md)

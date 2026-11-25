@@ -9,7 +9,7 @@
 
 ## 一句话
 
-帮 Amazon.com 卖家把 2026 假日退货延长落到账上和售后流程里：盘出 **2026-11-01 至 12-31** 卖出、可以一直退到 **2027-01-31** 的订单量与金额（**苹果品牌到 1-15**），按这个窗口重算 1 月退货准备金和现金流。官方写明延长会自动套到你在 Amazon.com 卖出的商品，**不论 FBA 还是 FBM，不用去后台打开开关**；原有不可退、Final Sale 等退货与退款条件不变。不要和欧洲站 / 英国站（s72，多数买到 12-25，西班牙退到 2-06）、加拿大站免退（s59）、TikTok 美区 2-10（s48）或英国站 1-31（s69）混用日期；FBM 还要叠上 12-18 起的预付面单规则（s27）。
+帮 Amazon.com 卖家把 2026 假日退货延长落到账上和售后流程里：盘出 **2026-11-01 至 12-31** 卖出、可以一直退到 **2027-01-31** 的订单量与金额（**苹果品牌到 1-15**），按这个窗口重算 1 月退货准备金和现金流。官方写明延长会自动套到你在 Amazon.com 卖出的商品，**不论 FBA 还是 FBM，不用去后台打开开关**；原有不可退、Final Sale 等退货与退款条件不变。不要和欧洲站 / 英国站（s72，多数买到 12-25，西班牙退到 2-06）、加墨巴日澳新站（s74，多数也买到 12-31，但墨西哥手机与苹果到 1-14、日本苹果不在客户都合窗）、加拿大站免退（s59）、TikTok 美区 2-10（s48）或英国站 1-31（s69）混用日期；FBM 还要叠上 12-18 起的预付面单规则（s27）。
 
 ## 为什么现在
 
@@ -23,11 +23,11 @@ Seller Central 卖家论坛上的官方公告与此一致，并补充了卖家�
 - 延长**自动适用于**你在 Amazon.com 出售的全部商品，不论 Fulfillment by Amazon（FBA）还是 Merchant（FBM）。**卖家无需操作**，现有退货与退款条件保持不变。
 - 官方还写明，年末假日延长退货窗「将每年适用」。不要把这句话理解成其他站点已经公布了同一组日期——本条只核对过 **Amazon.com**。欧洲站与英国站是另一组日期（多数站点购买窗到 12-25，西班牙到 1-06 / 2-06，德/法/意部分类目到 1-15），见 [s72](s72-amazon-eu-uk-holiday-returns-readiness.md)。
 
-窗口已从 11-01 开始。11–12 月美国站销售额要到 1 月底才算「落袋」，1 月是退货高峰；服装、饰品等高退后类目如果还按普通 30 天窗口预留现金，年后容易紧张。FBA 退货会在 1 月持续回仓，可与 [s23](s23-fba-customized-grading-readiness.md) 定制分级、[s24](s24-fba-partial-refund-readiness.md) 按原因部分退款一起看；FBM 卖家还要叠上 [s27](s27-amazon-fbm-prepaid-return-label-readiness.md) **12-18** 起的预付退货面单与 7 天时钟，假日单的退货会跨过这条新规。本条不管欧洲站与英国站的假日退货窗（见 [s72](s72-amazon-eu-uk-holiday-returns-readiness.md)），也不管加拿大站免退（见 [s59](s59-amazon-canada-returnless-cross-border-readiness.md)），也不管 TikTok Shop 的假日退货窗（美区见 [s48](s48-tiktok-shop-bfcm-holiday-returns-readiness.md)，英国站见 [s69](s69-tiktok-shop-uk-holiday-returns-readiness.md)）。
+窗口已从 11-01 开始。11–12 月美国站销售额要到 1 月底才算「落袋」，1 月是退货高峰；服装、饰品等高退后类目如果还按普通 30 天窗口预留现金，年后容易紧张。FBA 退货会在 1 月持续回仓，可与 [s23](s23-fba-customized-grading-readiness.md) 定制分级、[s24](s24-fba-partial-refund-readiness.md) 按原因部分退款一起看；FBM 卖家还要叠上 [s27](s27-amazon-fbm-prepaid-return-label-readiness.md) **12-18** 起的预付退货面单与 7 天时钟，假日单的退货会跨过这条新规。本条不管欧洲站与英国站的假日退货窗（见 [s72](s72-amazon-eu-uk-holiday-returns-readiness.md)），也不管加拿大、墨西哥、巴西、日本、澳洲与新加坡站的假日退货窗（见 [s74](s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md)），也不管加拿大站免退（见 [s59](s59-amazon-canada-returnless-cross-border-readiness.md)），也不管 TikTok Shop 的假日退货窗（美区见 [s48](s48-tiktok-shop-bfcm-holiday-returns-readiness.md)，英国站见 [s69](s69-tiktok-shop-uk-holiday-returns-readiness.md)）。
 
 ## 目标客户
 
-Amazon.com 美国站本土与跨境小卖家（FBA 与 FBM），尤其服装、饰品、家居等高退货类目；以及给这些卖家做代运营或记账的小团队。只做加拿大站或其他站点、不做美国站的卖家不要用本条日期。
+Amazon.com 美国站本土与跨境小卖家（FBA 与 FBM），尤其服装、饰品、家居等高退货类目；以及给这些卖家做代运营或记账的小团队。只做加拿大站或其他站点、不做美国站的卖家不要用本条日期；这些站点的假日退货窗见 [s74](s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md)。
 
 ## 一人怎么起步
 
@@ -39,14 +39,14 @@ Amazon.com 美国站本土与跨境小卖家（FBA 与 FBM），尤其服装、�
 
 ## 变现路径
 
-一次性体检（示意 $79–$199 / 店，含退货准备金测算与不可退 SKU 抽查）；1 月每周售后巡检（示意 $49–$99 / 月）。与 s27、s23 / s24 不要重复收费，可以打成「美国站假日退货包」；加拿大站应走 s59，不要用本条日期另收一笔「同一窗口」的费用。
+一次性体检（示意 $79–$199 / 店，含退货准备金测算与不可退 SKU 抽查）；1 月每周售后巡检（示意 $49–$99 / 月）。与 s27、s23 / s24 不要重复收费，可以打成「美国站假日退货包」；加拿大、墨西哥、巴西、日本、澳洲与新加坡站的假日退货窗应走 s74；加拿大站免退应走 s59，不要用本条日期另收。
 
 ## 注意的坑
 
-以 Amazon.com 官方退货政策及 Seller Central 官方公告为准，政策会更新。不要保证「全部类目都到 1-31」：不可退、Final Sale、Haul 低价商品、生鲜等原有限制仍在，苹果品牌是 **1-15** 不是 1-31。不要把 Amazon.com 的日期套到英国、德国、加拿大或其他站点；欧洲站与英国站请看 [s72](s72-amazon-eu-uk-holiday-returns-readiness.md)，不要假设购买窗也到 12-31。延长是自动生效的，体检的价值在现金流、库存和售后 SOP，不是教卖家去打开某个开关。不要教卖家拒绝合法退货或用话术规避售后。不要把卖家论坛里的跟帖当成政策。只用卖家授权的只读权限，不索要账号密码。价格只是示意，需自行验证。
+以 Amazon.com 官方退货政策及 Seller Central 官方公告为准，政策会更新。不要保证「全部类目都到 1-31」：不可退、Final Sale、Haul 低价商品、生鲜等原有限制仍在，苹果品牌是 **1-15** 不是 1-31。不要把 Amazon.com 的日期套到英国、德国、加拿大或其他站点；欧洲站与英国站请看 [s72](s72-amazon-eu-uk-holiday-returns-readiness.md)，不要假设购买窗也到 12-31。加拿大、墨西哥、巴西、日本、澳洲与新加坡站请看 [s74](s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md)：购买窗虽同样到 12-31，苹果 / 手机截止和 FBA/FBM 是否自动生效并不相同。延长是自动生效的，体检的价值在现金流、库存和售后 SOP，不是教卖家去打开某个开关。不要教卖家拒绝合法退货或用话术规避售后。不要把卖家论坛里的跟帖当成政策。只用卖家授权的只读权限，不索要账号密码。价格只是示意，需自行验证。
 
 ## 来源线索
 
 - [Amazon.com Return Policy：2026 Holiday Season Extended Return Window（11-01 至 12-31 购买的多数商品可退到 2027-01-31；苹果品牌可退到 2027-01-15）](https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7)
 - [Amazon Seller Central 卖家论坛官方公告：Extended return window for items bought in November and December 2026（自动适用于 Amazon.com 的 FBA 与 FBM，卖家无需操作，现有退货与退款条件不变）](https://sellercentral.amazon.com/seller-forums/discussions/t/fcc4e6f3-5e86-4b04-be84-82f9bcc2558a)
-- 相关但独立：[s72 Amazon 欧洲站与英国站假日退货窗就绪体检](s72-amazon-eu-uk-holiday-returns-readiness.md)、[s27 Amazon FBM 预付退货面单就绪体检](s27-amazon-fbm-prepaid-return-label-readiness.md)、[s23 FBA 退货定制分级就绪体检](s23-fba-customized-grading-readiness.md)、[s24 FBA 部分退款按原因就绪体检](s24-fba-partial-refund-readiness.md)、[s59 Amazon 加拿大站跨境退货与免退规则就绪体检](s59-amazon-canada-returnless-cross-border-readiness.md)、[s48 TikTok Shop 美区假日退货窗就绪体检](s48-tiktok-shop-bfcm-holiday-returns-readiness.md)、[s69 TikTok Shop 英国站假日退货窗就绪体检](s69-tiktok-shop-uk-holiday-returns-readiness.md)
+- 相关但独立：[s72 Amazon 欧洲站与英国站假日退货窗就绪体检](s72-amazon-eu-uk-holiday-returns-readiness.md)、[s74 Amazon 加墨巴日澳新站假日退货窗就绪体检](s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md)、[s27 Amazon FBM 预付退货面单就绪体检](s27-amazon-fbm-prepaid-return-label-readiness.md)、[s23 FBA 退货定制分级就绪体检](s23-fba-customized-grading-readiness.md)、[s24 FBA 部分退款按原因就绪体检](s24-fba-partial-refund-readiness.md)、[s59 Amazon 加拿大站跨境退货与免退规则就绪体检](s59-amazon-canada-returnless-cross-border-readiness.md)、[s48 TikTok Shop 美区假日退货窗就绪体检](s48-tiktok-shop-bfcm-holiday-returns-readiness.md)、[s69 TikTok Shop 英国站假日退货窗就绪体检](s69-tiktok-shop-uk-holiday-returns-readiness.md)
