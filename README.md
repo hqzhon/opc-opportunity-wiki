@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：81 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：82 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-81_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-82_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -69,6 +69,7 @@
 | **12-02 / 2027-03-31** | Lemon Squeezy 关停：12-02 迁移工具上线，3-31 停止处理交易（含续费），官方不延期 | [s64](wiki/entries/s64-lemon-squeezy-migration-readiness.md) |
 | **12-08** | TikTok Shop BFCM 保护期结束，低分店触发禁上新 | [s28](wiki/entries/s28-tiktok-shop-ahr-bfcm-readiness.md) |
 | **12-18** | Amazon FBM 退货须预付面单，7 天不处理自动退款 | [s27](wiki/entries/s27-amazon-fbm-prepaid-return-label-readiness.md) |
+| **12-21 / 2027-01-04** | UPS Daily / Retail / Ground Saver 平均净涨 5.9%，附加处理最低计费重改为 50 磅，区域附加与分区 ZIP 调整；FedEx 美国及进出口标准清单价平均涨 5.9%。不要和 USPS 1-17 的 s68 混用 | [s75](wiki/entries/s75-ups-fedex-2027-rate-readiness.md) |
 | **12-21 / 2027-01-28** | TikTok Shop 英国站珠宝配饰须补齐标签与 REACH 文件，逾期存量可能被下架 | [s55](wiki/entries/s55-tiktok-shop-jewelry-compliance-readiness.md) |
 | **2027-01-01** | Shopify 公开 App 须改用会过期的离线令牌 | [s33](wiki/entries/s33-shopify-expiring-offline-token-readiness.md) |
 | **2027-01-01** | Shopify Tax 免费计算额度改按终身销售额，不再每年重置，过 10 万后对已开通征收的订单收费 | [s52](wiki/entries/s52-shopify-tax-lifetime-discount-readiness.md) |
@@ -93,7 +94,7 @@
 
 ## 全部条目
 
-共 81 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 82 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -192,6 +193,7 @@
 - [★ 美国邮政小包 Entry Type 13 就绪体检（01-20 起 × 301 关税与 FDA/CPSC 类商品 × 缺数据被扣或退回）](wiki/entries/s35-us-postal-entry-type13-readiness.md)
 - [美国站无线电子产品 FCC ID 就绪体检（10-13 已生效 × 缺 FCC ID 的 Listing 被拦 × 2027-06-01 卖点处须展示）](wiki/entries/s50-fcc-id-marketplace-listing-readiness.md)
 - [美国邮政 2027 运费与短付再计价就绪体检（01-17 起 × 平均涨 5.9% × 燃油附加 11% × 短付加收 20%）](wiki/entries/s68-usps-2027-price-repricing-readiness.md)
+- [UPS / FedEx 2027 运费就绪体检（12-21 UPS 平均涨 5.9% × 01-04 FedEx 平均涨 5.9% × 附加处理最低计费重 40→50 磅）](wiki/entries/s75-ups-fedex-2027-rate-readiness.md)
 
 #### 订阅收款（Stripe / App Store / Google Play）
 
@@ -224,7 +226,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 81 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 82 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS, UPS, FedEx) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 

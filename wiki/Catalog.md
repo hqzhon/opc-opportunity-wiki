@@ -85,3 +85,4 @@
 | Amazon 欧洲站与英国站假日退货窗就绪体检（多数站点 11-01 至 12-25 可退到 2027-01-31 × 西班牙到 2-06 × 德法意部分类目到 1-15） | SaaS | 运营 | | [s72-amazon-eu-uk-holiday-returns-readiness](entries/s72-amazon-eu-uk-holiday-returns-readiness.md) |
 | Walmart Marketplace 假日退货窗就绪体检（10-01 至 12-31 订单可退到 2027-01-31 × 除外类目看政策 × 须遵守平台退货政策） | SaaS | 运营 | | [s73-walmart-holiday-returns-readiness](entries/s73-walmart-holiday-returns-readiness.md) |
 | Amazon 加墨巴日澳新站假日退货窗就绪体检（多数买到 12-31 可退到 2027-01-31 × 加拿大苹果到 1-15 × 墨西哥手机与苹果到 1-14 × 日本苹果不在客户都合窗） | SaaS | 运营 | | [s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness](entries/s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md) |
+| UPS / FedEx 2027 运费就绪体检（12-21 UPS 平均涨 5.9% × 01-04 FedEx 平均涨 5.9% × 附加处理最低计费重 40→50 磅） | SaaS | 运营 | | [s75-ups-fedex-2027-rate-readiness](entries/s75-ups-fedex-2027-rate-readiness.md) |

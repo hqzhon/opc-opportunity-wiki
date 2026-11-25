@@ -5,7 +5,7 @@
 | 市场 | SaaS / 订阅 |
 | 适配 | 运营 |
 | 优先 | |
-| 更新 | 2026-11-23 |
+| 更新 | 2026-11-25 |
 
 ## 一句话
 
@@ -27,7 +27,7 @@
 
 ## 目标客户
 
-从美国仓或美国 3PL 用 USPS 商业折扣发货的 Amazon FBM、Walmart、eBay 和 Shopify / 独立站卖家，以及帮他们打单、对账的小代操或货代。尤其已经经常收到 APV 改价、默认重量常年不校准、或清仓期用轻小件 Ground Advantage / Priority Mail 走量的店。全部走 UPS / FedEx / DHL、或只在柜台零售窗口付钱、不用商业清单的，不是首要客户。
+从美国仓或美国 3PL 用 USPS 商业折扣发货的 Amazon FBM、Walmart、eBay 和 Shopify / 独立站卖家，以及帮他们打单、对账的小代操或货代。尤其已经经常收到 APV 改价、默认重量常年不校准、或清仓期用轻小件 Ground Advantage / Priority Mail 走量的店。全部走 UPS / FedEx 的见 [s75](s75-ups-fedex-2027-rate-readiness.md)；只在柜台零售窗口付钱、不用商业清单的，不是首要客户。
 
 ## 一人怎么起步
 
@@ -51,3 +51,4 @@
 - [USPS 新闻稿：Recommends Shipping Price Adjustments for 2027（2026-11-12；说明 8% 运输相关加价转为燃油附加并再加 3% 至 11%，以及 7 月再评估、暂不加在国际产品上）](https://about.usps.com/newsroom/national-releases/2026/1112-usps-recommends-shipping-price-adjustments-for-2027.htm)
 - [Postal Explorer：January 2027 Price Change（生效 2027-01-17 的价表与变更日志）](https://pe.usps.com/PriceChange/)
 - 相关但独立：[s35 美国邮政小包 Entry Type 13 就绪体检](s35-us-postal-entry-type13-readiness.md)
+- 相关但独立：[s75 UPS / FedEx 2027 运费就绪体检](s75-ups-fedex-2027-rate-readiness.md)
