@@ -88,3 +88,4 @@
 | UPS / FedEx 2027 运费就绪体检（12-21 UPS 平均涨 5.9% × 01-04 FedEx 平均涨 5.9% × 附加处理最低计费重 40→50 磅） | SaaS | 运营 | | [s75-ups-fedex-2027-rate-readiness](entries/s75-ups-fedex-2027-rate-readiness.md) |
 | DHL Express 2027 美国运费就绪体检（01-01 美国账户平均涨 5.9% × 燃油附加改按周 USGC 即期 × 高风险附加改按票或按公斤取高） | SaaS | 运营 | | [s76-dhl-express-2027-us-rate-readiness](entries/s76-dhl-express-2027-us-rate-readiness.md) |
 | Amazon 英德法意西站 FBM 预付面单退货自动退款就绪体检（12-10 起 × 遗失或拒收自动退买家 × 非亚马逊承运商不获平台赔付） | SaaS | 运营 | | [s77-amazon-eu-uk-aprl-auto-refund-readiness](entries/s77-amazon-eu-uk-aprl-auto-refund-readiness.md) |
+| Amazon Ads 旧报表迁到统一报表就绪体检（01-18 起只读 × 01-31 关闭并删除未迁移数据 × 不要用 What's New 的 12-31） | SaaS | 运营 | | [s78-amazon-ads-unified-reporting-migration-readiness](entries/s78-amazon-ads-unified-reporting-migration-readiness.md) |

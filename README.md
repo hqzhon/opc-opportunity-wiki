@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：84 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：85 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-84_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-85_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -80,6 +80,7 @@
 | **2027-01-12** | Apple 年龄分级问卷须完成 Shared Location 与 Dating and Relationships 声明，约会类最低 18+ | [s62](wiki/entries/s62-apple-age-rating-descriptors-readiness.md) |
 | **2027-01-15 / 02-01** | Amazon FBA 配送费上调、仓储费改按库龄计 | [s45](wiki/entries/s45-amazon-fba-2027-fee-readiness.md) |
 | **2027-01-17** | 美国邮政商业件平均涨 5.9%，并加收 11% 燃油附加；USPS Ship / APV 短付按欠付额加收 20% 再计价费 | [s68](wiki/entries/s68-usps-2027-price-repricing-readiness.md) |
+| **2027-01-18 / 01-31** | Amazon Ads 旧 Sponsored Ads / DVA+ 报表页：1-18 起不能新建或编辑、改为只读并继续投递，1-31 关闭并永久删除未迁移的保存报表、定期报表和历史数据。不要用仍写着 12-31 的 What's New | [s78](wiki/entries/s78-amazon-ads-unified-reporting-migration-readiness.md) |
 | **2027-01-20** | 美国邮政小包 Entry Type 13 电子申报 | [s35](wiki/entries/s35-us-postal-entry-type13-readiness.md) |
 | **2027-01-22** | Stripe Radar 续费筛查免费试用结束、按次计费 | [s30](wiki/entries/s30-stripe-radar-renewal-cost-readiness.md) |
 | **2027-01-27** | Google Play 学生价等持续资格折扣须披露资格、核验与资格结束后的价格和权益 | [s57](wiki/entries/s57-google-play-eligibility-discount-disclosure-readiness.md) |
@@ -96,7 +97,7 @@
 
 ## 全部条目
 
-共 84 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 85 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -168,6 +169,7 @@
 - [Amazon 欧洲站与英国站假日退货窗就绪体检（多数站点 11-01 至 12-25 可退到 2027-01-31 × 西班牙到 2-06 × 德法意部分类目到 1-15）](wiki/entries/s72-amazon-eu-uk-holiday-returns-readiness.md)
 - [Amazon 加墨巴日澳新站假日退货窗就绪体检（多数买到 12-31 可退到 2027-01-31 × 加拿大苹果到 1-15 × 墨西哥手机与苹果到 1-14 × 日本苹果不在客户都合窗）](wiki/entries/s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md)
 - [Amazon 英德法意西站 FBM 预付面单退货自动退款就绪体检（12-10 起 × 遗失或拒收自动退买家 × 非亚马逊承运商不获平台赔付）](wiki/entries/s77-amazon-eu-uk-aprl-auto-refund-readiness.md)
+- [Amazon Ads 旧报表迁到统一报表就绪体检（01-18 起只读 × 01-31 关闭并删除未迁移数据 × 不要用 What's New 的 12-31）](wiki/entries/s78-amazon-ads-unified-reporting-migration-readiness.md)
 
 #### TikTok Shop 卖家
 
@@ -230,7 +232,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 84 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS, UPS, FedEx, DHL Express) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 85 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS, UPS, FedEx, DHL Express) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 
