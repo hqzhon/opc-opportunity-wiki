@@ -9,7 +9,7 @@
 
 ## 一句话
 
-帮用 UPS 或 FedEx 从美国发出包裹的 FBM 和独立站卖家，在 **2026-12-21**（UPS）和 **2027-01-04**（FedEx）前把三件事算清楚：头部 SKU 在官方公布的平均净涨 **5.9%** 清单价之后单件成本会变成多少；现有包装会不会踩中附加处理（Additional Handling）最低计费重从 **40 磅改到 50 磅**；常用目的地 ZIP 会不会因为区域附加费或分区调整而换档。先出一份「费率影响 / 附加费与分区 / 包装计费重」分数卡，再决定要不要改运费模板、包装或分流承运商。不要和美国邮政 [s68](s68-usps-2027-price-repricing-readiness.md) 的 1-17 涨价、11% 燃油附加和 20% 短付再计价费混用。
+帮用 UPS 或 FedEx 从美国发出包裹的 FBM 和独立站卖家，在 **2026-12-21**（UPS）和 **2027-01-04**（FedEx）前把三件事算清楚：头部 SKU 在官方公布的平均净涨 **5.9%** 清单价之后单件成本会变成多少；现有包装会不会踩中附加处理（Additional Handling）最低计费重从 **40 磅改到 50 磅**；常用目的地 ZIP 会不会因为区域附加费或分区调整而换档。先出一份「费率影响 / 附加费与分区 / 包装计费重」分数卡，再决定要不要改运费模板、包装或分流承运商。不要和美国邮政 [s68](s68-usps-2027-price-repricing-readiness.md) 的 1-17 涨价、11% 燃油附加和 20% 短付再计价费混用，也不要和 DHL Express 美国账户 1-01 的 [s76](s76-dhl-express-2027-us-rate-readiness.md) 混用。
 
 ## 为什么现在
 
@@ -36,7 +36,7 @@
 
 ## 目标客户
 
-从美国仓或美国 3PL 用 UPS 或 FedEx 账号发货的 Amazon FBM、Walmart、eBay 和 Shopify / 独立站卖家，以及帮他们报价、对账或改运费模板的小代操。尤其走 Daily Rates 或 Retail Rates、轻小件但箱子偏大、常触发附加处理或住宅/区域附加，以及同时用两家承运商、会被 12-21 和 1-04 连续调价打到的店。全部走 USPS 商业折扣的，先看 [s68](s68-usps-2027-price-repricing-readiness.md)；只走 FBA、自己不买面单的，不是首要客户（FBA 费用见 [s45](s45-amazon-fba-2027-fee-readiness.md)）。
+从美国仓或美国 3PL 用 UPS 或 FedEx 账号发货的 Amazon FBM、Walmart、eBay 和 Shopify / 独立站卖家，以及帮他们报价、对账或改运费模板的小代操。尤其走 Daily Rates 或 Retail Rates、轻小件但箱子偏大、常触发附加处理或住宅/区域附加，以及同时用两家承运商、会被 12-21 和 1-04 连续调价打到的店。全部走 USPS 商业折扣的，先看 [s68](s68-usps-2027-price-repricing-readiness.md)；走 DHL Express 美国账户的，先看 [s76](s76-dhl-express-2027-us-rate-readiness.md)；只走 FBA、自己不买面单的，不是首要客户（FBA 费用见 [s45](s45-amazon-fba-2027-fee-readiness.md)）。
 
 ## 一人怎么起步
 
@@ -52,7 +52,7 @@
 
 ## 注意的坑
 
-5.9% 是官方对 Daily / Retail / Ground Saver（UPS）或标准清单价（FedEx）的**平均净涨幅**，不是每票、每个 SKU、更不是含附加费和燃油后的账单总涨幅；官方脚注已写明实际影响因发货结构和协议而异。不要把 5.9% 套到 UPS Small Business Rates 上（官方是 4.5%，另加 5% 燃油附加）。不要把 UPS 的 12-21、FedEx 的 1-04 和 USPS 的 1-17 写成同一个截止日，也不要把 s68 的 11% 燃油附加或 20% 再计价费写进本条。Ground Saver 缺尺寸费官方只写了 1-18 起收，没有在费率页写出金额，不要编造。Mail Innovations 公开页没有平均涨幅。纸质运单 / 贸易文件附加费主要打到仍用手写单据的交运方式，走电子面单的店不要当成普遍加价。Shopify Shipping、平台购买配送或协议折扣的实际百分比会不同，必须以客户账单和官方预览价表为准。不要把本条写成「保证 12-21 后运费只涨 5.9%」或教卖家低报重量、漏填尺寸。价格只是示意，需自行验证。
+5.9% 是官方对 Daily / Retail / Ground Saver（UPS）或标准清单价（FedEx）的**平均净涨幅**，不是每票、每个 SKU、更不是含附加费和燃油后的账单总涨幅；官方脚注已写明实际影响因发货结构和协议而异。不要把 5.9% 套到 UPS Small Business Rates 上（官方是 4.5%，另加 5% 燃油附加）。不要把 UPS 的 12-21、FedEx 的 1-04、DHL Express 的 1-01 和 USPS 的 1-17 写成同一个截止日，也不要把 s68 的 11% 燃油附加或 20% 再计价费、或 s76 的燃油附加新算法写进本条。Ground Saver 缺尺寸费官方只写了 1-18 起收，没有在费率页写出金额，不要编造。Mail Innovations 公开页没有平均涨幅。纸质运单 / 贸易文件附加费主要打到仍用手写单据的交运方式，走电子面单的店不要当成普遍加价。Shopify Shipping、平台购买配送或协议折扣的实际百分比会不同，必须以客户账单和官方预览价表为准。不要把本条写成「保证 12-21 后运费只涨 5.9%」或教卖家低报重量、漏填尺寸。价格只是示意，需自行验证。
 
 ## 来源线索
 
@@ -63,3 +63,4 @@
 - [FedEx：2027 标准清单价（官方 PDF）](https://www.fedex.com/content/dam/fedex/us-united-states/services/FedEx_Standard_List_Rates_2027.pdf)
 - [FedEx：2027 附加费与费用变更对照（官方 PDF）](https://www.fedex.com/content/dam/fedex/us-united-states/services/surcharge_and_fee_changes_2027.pdf)
 - 相关但独立：[s68 美国邮政 2027 运费与短付再计价就绪体检](s68-usps-2027-price-repricing-readiness.md)
+- 相关但独立：[s76 DHL Express 2027 美国运费就绪体检](s76-dhl-express-2027-us-rate-readiness.md)

@@ -27,7 +27,7 @@ Amazon Services 团队给 US 卖家的通知写明：**2026-12-18** 起，US 自
 - **旧流程里的隐患**：「买面单 → 发消息给买家」这种 VA 常用做法直接失效；24 小时手动授权时限并未取消，不能把 7 天当成统一响应期。
 - **低价 vs 高价 SKU**：低价品退货邮费可能接近货值，主动免退退款更划算；高价品一旦漏掉 7 天，就是丢货又丢钱。
 
-与 `s23`（FBA 定制分级）、`s24`（FBA 按原因部分退款）不同：本条专盯 **自发货（FBM）退货面单合规与免退阈值**，Amazon 不替卖家处理这些退货。
+与 `s23`（FBA 定制分级）、`s24`（FBA 按原因部分退款）不同：本条专盯 **自发货（FBM）退货面单合规与免退阈值**，Amazon 不替卖家处理这些退货。英德法意西站 **12-10** 起对 APRL 退货的在途遗失或交付拒收会自动退买家，索赔规则也不同，见 [s77](s77-amazon-eu-uk-aprl-auto-refund-readiness.md)，不要和本条美国站 **12-18** 的预付面单义务混用。
 
 ## 目标客户
 
@@ -47,7 +47,7 @@ US 站自发货占比高的卖家：自有仓发货的品牌、跨境自发货�
 
 ## 注意的坑
 
-邮件与帮助页说法不一，以客户 Seller Central 内的通知与实测为准，不要替客户承诺 SAFE-T 能追回自动退款。「预付」不等于卖家一定承担邮费：谁付按退货原因（是否卖家责任）判定，测算时别把所有面单都算成新增成本。重货大件豁免是「暂时」的，无定义无截止日，只能监控不能依赖。任何免退退款阈值和审批额度要客户书面确认。
+邮件与帮助页说法不一，以客户 Seller Central 内的通知与实测为准，不要替客户承诺 SAFE-T 能追回自动退款。「预付」不等于卖家一定承担邮费：谁付按退货原因（是否卖家责任）判定，测算时别把所有面单都算成新增成本。重货大件豁免是「暂时」的，无定义无截止日，只能监控不能依赖。任何免退退款阈值和审批额度要客户书面确认。英德法意西站 12-10 的 APRL 自动退款见 [s77](s77-amazon-eu-uk-aprl-auto-refund-readiness.md)，不要和本条混用。
 
 ## 来源线索
 
@@ -56,3 +56,4 @@ US 站自发货占比高的卖家：自有仓发货的品牌、跨境自发货�
 - [Seller Essentials: Amazon's December 18 Return Label Change — What FBM Sellers Need to Know](https://selleressentials.com/amazon-fbm-prepaid-return-labels/)
 - [AMZ Scaler: Amazon FBM Prepaid Return Label Rule — Dec 18 Deadline](https://amzscaler.com/amazon-fbm-prepaid-return-labels/)
 - [Sell on Amazon: How to manage seller-fulfilled customer returns](https://sell.amazon.com/es/blog/manage-customer-returns)
+- 相关但独立：[s77 Amazon 英德法意西站 FBM 预付面单退货自动退款就绪体检](s77-amazon-eu-uk-aprl-auto-refund-readiness.md)
