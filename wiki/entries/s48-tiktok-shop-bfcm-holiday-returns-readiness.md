@@ -26,6 +26,9 @@ TikTok Shop 官方 Seller University「Policy Pulse（October 2026）」（2026-
 
 英国站不是同一套日期：官方顾客退货政策写明，**2026-11-06 至 12-31** 的合格订单可退到 **2027-01-31**，电子、二手、珠宝和拍卖等除外类目以商品页显示的退货窗为准。不要把本条的 2-10 套到英国站，详见 [s69](s69-tiktok-shop-uk-holiday-returns-readiness.md)。
 
+欧盟八个本土站又是第三套日期：德 / 西 / 法 / 爱 / 意是 **11-11 至 12-31**，比 / 荷 / 波是 **11-19 至 12-31**，合格订单可退到 **2027-01-31**，不是本条的 2-10。详见 [s79](s79-tiktok-shop-eu-holiday-returns-readiness.md)。
+
+
 ## 目标客户
 
 US TikTok Shop 本土与跨境小卖家（尤其服装、饰品、3C 配件这类高退货类目）；用自研脚本或小众 ERP 对接 TikTok Shop API 的卖家；以及给这些卖家做代运营、财务记账的小团队。
@@ -50,4 +53,4 @@ US TikTok Shop 本土与跨境小卖家（尤其服装、饰品、3C 配件这�
 
 - [TikTok Shop Seller University: Policy Pulse（October 2026），含 BFCM Holiday Return Window Extension 与 New Controls for High-Risk Return and Refund Requests（2026-11-05 更新）](https://seller-us.tiktok.com/university/essay?knowledge_id=3634802985453313&lang=en)
 - 同页 May 2026「Simplified Returns and Refunds Review」：4 个工作日审核窗、第 10 天可审、第 30 天自动通过
-- 相关但独立：[s28 TikTok Shop 账户健康分 BFCM 就绪体检](s28-tiktok-shop-ahr-bfcm-readiness.md)、[s39 TikTok Shop API 取消单计入 SFCR 就绪体检](s39-tiktok-shop-api-sfcr-readiness.md)、[s69 TikTok Shop 英国站假日退货窗就绪体检](s69-tiktok-shop-uk-holiday-returns-readiness.md)
+- 相关但独立：[s28 TikTok Shop 账户健康分 BFCM 就绪体检](s28-tiktok-shop-ahr-bfcm-readiness.md)、[s39 TikTok Shop API 取消单计入 SFCR 就绪体检](s39-tiktok-shop-api-sfcr-readiness.md)、[s69 TikTok Shop 英国站假日退货窗就绪体检](s69-tiktok-shop-uk-holiday-returns-readiness.md)、[s79 TikTok Shop 欧盟站假日退货窗就绪体检](s79-tiktok-shop-eu-holiday-returns-readiness.md)

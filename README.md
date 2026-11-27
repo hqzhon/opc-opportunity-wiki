@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：85 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：87 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-85_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-87_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -59,6 +59,7 @@
 | **11-01 起 / 2027-01-31** | Amazon 加/墨/巴/日/澳/新：多数站点 11-01 至 12-31 合格订单可退到 1-31；加拿大苹果到 1-15，墨西哥手机与苹果到 1-14；日本站苹果不在客户都合窗；澳站 FBM 可自选对齐。不要套用美国站或欧洲站日期 | [s74](wiki/entries/s74-amazon-ca-mx-br-jp-au-sg-holiday-returns-readiness.md) |
 | **11-06 起 / 2027-01-31** | TikTok Shop 英国站：11-06 至 12-31 合格订单可退到 1-31，除外类目以商品页为准；不要套用美区 2-10 | [s69](wiki/entries/s69-tiktok-shop-uk-holiday-returns-readiness.md) |
 | **11-11 起 / 2027-02-10** | TikTok Shop BFCM 订单退货窗延到 2-10，API 退货二维码有效期须跟着改 | [s48](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md) |
+| **11-11 起 / 11-19 起 / 2027-01-31** | TikTok Shop 欧盟八站：德/西/法/爱/意 11-11 至 12-31、比/荷/波 11-19 至 12-31 的合格订单可退到 1-31；二手、珠宝、电子和拍卖仍为 14 天；不要套用英区 11-06 或美区 2-10 | [s79](wiki/entries/s79-tiktok-shop-eu-holiday-returns-readiness.md) |
 | **11-16 起** | Amazon 充电锂电智能硬件须经授权 TIC 送检，通知已发完，不合规 Listing 可能被下架 | [s51](wiki/entries/s51-amazon-lithium-battery-tic-readiness.md) |
 | **11-20 / 2027-01-01** | Shopify 自定义 App 装到客户店须配 IP 白名单，漏一个影响全部外部安装 | [s47](wiki/entries/s47-shopify-custom-app-ip-allowlist-readiness.md) |
 | **11-26 / 11-27** | Amazon 巴西站 FBA 遗失索赔改从建单起算 90 天，8-24 前 PCP 在途遗失须在 11-26 前申报 | [s58](wiki/entries/s58-amazon-brazil-fba-claim-window-readiness.md) |
@@ -97,7 +98,7 @@
 
 ## 全部条目
 
-共 85 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 87 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -181,6 +182,7 @@
 - [TikTok Shop 假日退货窗就绪体检（11-11 至 12-31 订单可退到 2027-02-10 × 覆盖卖家设置 × API 二维码有效期）](wiki/entries/s48-tiktok-shop-bfcm-holiday-returns-readiness.md)
 - [TikTok Shop 珠宝配饰合规就绪体检（英国站 12-21 生成待办 × 2027-01-28 可能下架 × 英/欧均须交标签与 REACH 文件）](wiki/entries/s55-tiktok-shop-jewelry-compliance-readiness.md)
 - [TikTok Shop 英国站假日退货窗就绪体检（11-06 至 12-31 订单可退到 2027-01-31 × 与美区 2-10 不同 × 除外类目看商品页）](wiki/entries/s69-tiktok-shop-uk-holiday-returns-readiness.md)
+- [TikTok Shop 欧盟站假日退货窗就绪体检（德法意西爱 11-11、比荷波 11-19 至 12-31 可退到 2027-01-31 × 与英区 11-06 / 美区 2-10 不同 × 除外类目看商品页）](wiki/entries/s79-tiktok-shop-eu-holiday-returns-readiness.md)
 
 #### Etsy / Walmart / Google Merchant
 
@@ -189,6 +191,7 @@
 - [★ Walmart 单品退货率下架就绪体检（2027-01 起 × 账户达标也会单品下架 × 60 天卖家责任退货）](wiki/entries/s44-walmart-item-return-rate-readiness.md)
 - [Walmart Marketplace 假日退货窗就绪体检（10-01 至 12-31 订单可退到 2027-01-31 × 除外类目看政策 × 须遵守平台退货政策）](wiki/entries/s73-walmart-holiday-returns-readiness.md)
 - [★ Etsy EU GPSR 制造商与欧盟负责人就绪体检（2027-02-01 起 × 缺字段 Listing 被拒 × 经济运营方记录）](wiki/entries/s46-etsy-gpsr-economic-operator-readiness.md)
+- [Google Merchant Center 促销价 30 天窗就绪体检（sale_price 持续期不宜超过 30 天 × 过长可能失去划线价与促销标 × 与 s43 图规、促销标题分开）](wiki/entries/s80-google-merchant-sale-price-30-day-readiness.md)
 
 #### 跨境物流、税务与合规（EU / UK / US）
 
@@ -232,7 +235,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 85 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS, UPS, FedEx, DHL Express) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 87 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS, UPS, FedEx, DHL Express) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 

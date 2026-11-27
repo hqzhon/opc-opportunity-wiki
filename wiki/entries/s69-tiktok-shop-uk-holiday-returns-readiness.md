@@ -19,11 +19,14 @@ TikTok Shop 英国站官方《Cancellation and Returns Policy》在假日更新�
 - **除外类目**（官方举例：electronics、pre-owned、jewellery、以及所有 auction 订单）不享受这次延长，以商品页显示的退货窗为准。不要根据第三方综述写成「一律还是 14 天」——以店铺里实际展示为准。
 - 这与美区 [s48](s48-tiktok-shop-bfcm-holiday-returns-readiness.md) **不是同一套日期**：美区是 11-11 至 12-31 的合格订单可退到 **2027-02-10**，而且有 API 退货二维码有效期要求。把 2-10 套到英国站，会高估准备金、也可能把除外类目算错。
 
+欧盟八个本土站也不是英国站这套日期：德 / 西 / 法 / 爱 / 意从 **11-11** 起、比 / 荷 / 波从 **11-19** 起，合格订单可退到 **2027-01-31**。不要把本条的 11-06 套过去，详见 [s79](s79-tiktok-shop-eu-holiday-returns-readiness.md)。
+
+
 窗口已经开始，11–12 月的英国站销售额要到 1 月底才算「落袋」，1 月是退货高峰。服装、饰品等高等退后类目如果还按普通 14 天或 30 天窗口预留现金，年后容易紧张。本条不管英国站珠宝 REACH 文件（见 [s55](s55-tiktok-shop-jewelry-compliance-readiness.md)），也不管美区账户健康分保护期（见 [s28](s28-tiktok-shop-ahr-bfcm-readiness.md)）。
 
 ## 目标客户
 
-TikTok Shop 英国站本土与跨境小卖家（含 Sell to UK），尤其服装、配饰、家居等高退货类目；以及给这些卖家做代运营或记账的小团队。只做美区、不做英国站的卖家应看 s48，不要用本条日期。
+TikTok Shop 英国站本土与跨境小卖家（含 Sell to UK），尤其服装、配饰、家居等高退货类目；以及给这些卖家做代运营或记账的小团队。只做美区、不做英国站的卖家应看 s48；只做欧盟八站的应看 s79，不要用本条日期。
 
 ## 一人怎么起步
 
@@ -44,4 +47,4 @@ TikTok Shop 英国站本土与跨境小卖家（含 Sell to UK），尤其服装
 ## 来源线索
 
 - [TikTok Shop UK Cancellation and Returns Policy：Extended Holiday Returns (2026 Season)（11-06 至 12-31 合格订单可退到 2027-01-31；除外类目以商品页为准）](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/TTS_Returns_policy_UK.html)
-- 相关但独立：[s48 TikTok Shop 美区假日退货窗就绪体检](s48-tiktok-shop-bfcm-holiday-returns-readiness.md)、[s55 TikTok Shop 珠宝配饰合规就绪体检](s55-tiktok-shop-jewelry-compliance-readiness.md)
+- 相关但独立：[s48 TikTok Shop 美区假日退货窗就绪体检](s48-tiktok-shop-bfcm-holiday-returns-readiness.md)、[s55 TikTok Shop 珠宝配饰合规就绪体检](s55-tiktok-shop-jewelry-compliance-readiness.md)、[s79 TikTok Shop 欧盟站假日退货窗就绪体检](s79-tiktok-shop-eu-holiday-returns-readiness.md)

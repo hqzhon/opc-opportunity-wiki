@@ -20,7 +20,7 @@
 
 窗口：假日季促销是当下的痛点，01-31 是硬截止；一月本就是换季重拍与清 feed 的时间，正好成单。
 
-与 `s20`（渠道商品数据映射）、`s16`（EU 商品标识符）、`s29`（Etsy 图规）、`s42`（TikTok Shop listing）不同：本条只管 **Google 商品图规格、AI 图元数据与促销标题**，可打包销售但条目分开。
+与 `s20`（渠道商品数据映射）、`s16`（EU 商品标识符）、`s29`（Etsy 图规）、`s42`（TikTok Shop listing）不同：本条只管 **Google 商品图规格、AI 图元数据与促销标题**，可打包销售但条目分开。促销价 sale_price 持续期、划线价与促销标见 [s80](s80-google-merchant-sale-price-30-day-readiness.md)。
 
 ## 目标客户
 
@@ -48,4 +48,4 @@ Shopify / WooCommerce 独立站、投 Performance Max 或靠 Google 免费列表
 - [Google Merchant Center Help: Editorial requirements（促销标题禁写兑换日期）](https://support.google.com/merchants/answer/2877578?hl=en)
 - [PPC News Feed: No More Dates in Titles in Merchant Center Promotions（2026-11-09）](https://ppcnewsfeed.com/ppc-news/2026-11/no-more-dates-titles-merchant-center-promotions/)
 - [MerchantLion: Google Merchant Center 2026 Changes（小图自 2026-04-14 警告、部分自动放大部分被拒）](https://merchantlion.com/guides/google-merchant-center-2026-changes)
-- 相关但独立：[s20 渠道商品数据映射就绪体检](s20-channel-mapping-readiness.md)、[s11 Google AI Mode / Gemini 直购结账就绪体检](s11-google-direct-checkout.md)、[s29 Etsy 商品图与 AI 新规就绪体检](s29-etsy-listing-image-ai-readiness.md)、[s42 TikTok Shop 商品 Listing 新规就绪体检](s42-tiktok-shop-listing-policy-readiness.md)
+- 相关但独立：[s20 渠道商品数据映射就绪体检](s20-channel-mapping-readiness.md)、[s11 Google AI Mode / Gemini 直购结账就绪体检](s11-google-direct-checkout.md)、[s29 Etsy 商品图与 AI 新规就绪体检](s29-etsy-listing-image-ai-readiness.md)、[s42 TikTok Shop 商品 Listing 新规就绪体检](s42-tiktok-shop-listing-policy-readiness.md)、[s80 Google Merchant Center 促销价 30 天窗就绪体检](s80-google-merchant-sale-price-30-day-readiness.md)
