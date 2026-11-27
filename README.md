@@ -6,10 +6,10 @@
 
 **平台每改一次规则，就有一批卖家需要有人帮他们查一遍——这就是一个人能接的单。**
 
-跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：88 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
+跨境电商 / 独立站 × SaaS / 订阅的一人公司机会库：89 篇，**每日更新**，每篇都写清给谁、为什么现在、两周怎么起步、怎么收钱。
 
 [![每日更新](https://img.shields.io/badge/更新-每日-brightgreen)](wiki/digests/)
-[![条目](https://img.shields.io/badge/条目-88_篇-blue)](#全部条目)
+[![条目](https://img.shields.io/badge/条目-89_篇-blue)](#全部条目)
 [![Last commit](https://img.shields.io/github/last-commit/hqzhon/opc-opportunity-wiki)](https://github.com/hqzhon/opc-opportunity-wiki/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
@@ -98,7 +98,7 @@
 
 ## 全部条目
 
-共 88 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
+共 89 篇，按市场分组、组内按平台细分，一篇不漏。★ 为 [Catalog](wiki/Catalog.md) 中的优先验证方向。
 
 <!-- 新条目：加到对应市场与平台小节末尾，并更新上方篇数与徽章 -->
 ### 跨境电商 / 独立站
@@ -184,6 +184,7 @@
 - [TikTok Shop 珠宝配饰合规就绪体检（英国站 12-21 生成待办 × 2027-01-28 可能下架 × 英/欧均须交标签与 REACH 文件）](wiki/entries/s55-tiktok-shop-jewelry-compliance-readiness.md)
 - [TikTok Shop 英国站假日退货窗就绪体检（11-06 至 12-31 订单可退到 2027-01-31 × 与美区 2-10 不同 × 除外类目看商品页）](wiki/entries/s69-tiktok-shop-uk-holiday-returns-readiness.md)
 - [TikTok Shop 欧盟站假日退货窗就绪体检（德法意西爱 11-11、比荷波 11-19 至 12-31 可退到 2027-01-31 × 与英区 11-06 / 美区 2-10 不同 × 除外类目看商品页）](wiki/entries/s79-tiktok-shop-eu-holiday-returns-readiness.md)
+- [TikTok Shop 美国站 Virtual Bundles 开放就绪体检（11-26 页更新：全体卖家可用 × Product Bundle 转换会删 SKU 并作废促销 × 跨仓/拆包裹仍要白名单）](wiki/entries/s82-tiktok-shop-us-virtual-bundles-readiness.md)
 
 #### Etsy / Walmart / Google Merchant
 
@@ -236,7 +237,7 @@
 
 ## English
 
-**One-Person Company Opportunity Wiki**: 88 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS, UPS, FedEx, DHL Express) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
+**One-Person Company Opportunity Wiki**: 89 Chinese-language playbooks for solopreneurs and indie hackers in cross-border e-commerce and SaaS/subscriptions, updated daily. Most entries turn a fresh platform policy change (Amazon, TikTok Shop, Shopify, eBay, Stripe, Lemon Squeezy, App Store, Google Play, Walmart, Etsy, Google Merchant Center, USPS, UPS, FedEx, DHL Express) into a sellable "readiness audit" service: who is affected, why now, how one person can start in two weeks, how to charge, and the pitfalls, with links to official sources. Start with the [evergreen picks](#常青精选新手从这里开始) or the [deadline table](#临期窗口). ⭐ Star to follow along.
 
 ## 参与贡献
 
