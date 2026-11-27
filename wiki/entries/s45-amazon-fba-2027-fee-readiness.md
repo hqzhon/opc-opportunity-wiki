@@ -19,7 +19,7 @@
 - Amazon 自己给了 Profit Analytics 里的 **Fee Change Comparison** 面板和 Revenue Calculator，但中小卖家没人把它和自己的售价、广告费、库龄报表合起来算——这正是一个人能卖的「表格 + 判断」服务。
 - 窗口很明确：1 月中前要定新价，2 月 1 日前要决定哪些老库存移除或清仓，而现在正是假日季备货与定价的时候。
 
-与 `s23` / `s24`（FBA 退货分级与部分退款）、`s26`（虚拟多件装）、`s34`（捆绑原厂包装）不同：本条只管 **2027 FBA 费用结构变化对每个 SKU 利润的影响**，可与 `s26` 一起卖「多件装/单件费率」优化。
+与 `s23` / `s24`（FBA 退货分级与部分退款）、`s26`（虚拟多件装）、`s34`（捆绑原厂包装）不同：本条只管 **2027 FBA 费用结构变化对每个 SKU 利润的影响**，可与 `s26` 一起卖「多件装/单件费率」优化。AWD / MCF / MCD 的 2027 费率，以及 3.5% 燃油附加扩到 AWD 运输费和 MCD，见 [s81](s81-amazon-awd-mcd-2027-fee-readiness.md)，不要和本条的 FBA 配送费、FBA 库龄仓储混在同一张表里。
 
 ## 目标客户
 
@@ -47,4 +47,4 @@ Amazon US FBA 中小卖家（年销售几十万到几百万美元、没有专职
 - [SimplFulfillment: Amazon FBA Fees for 2026 and 2027（分档与库龄费率汇总）](https://www.simplfulfillment.com/blog/amazon-fba-fees)
 - [Chain Store Age: Amazon to increase, streamline shipping and logistics fees in 2027](https://chainstoreage.com/amazon-increase-streamline-shipping-and-logistics-fees-2027)
 - [Odla: Amazon FBA fee changes 2027: US seller guide](https://odla.com/insights/amazon-fba-fee-changes-2027/)
-- 相关但独立：[s26 Amazon 虚拟多件装就绪体检](s26-amazon-virtual-multipack-readiness.md)、[s34 Amazon 捆绑商品原厂包装新规体检](s34-amazon-bundle-manufacturer-packaging-readiness.md)、[s24 FBA 部分退款按原因就绪体检](s24-fba-partial-refund-readiness.md)
+- 相关但独立：[s26 Amazon 虚拟多件装就绪体检](s26-amazon-virtual-multipack-readiness.md)、[s34 Amazon 捆绑商品原厂包装新规体检](s34-amazon-bundle-manufacturer-packaging-readiness.md)、[s24 FBA 部分退款按原因就绪体检](s24-fba-partial-refund-readiness.md)、[s81 Amazon AWD / MCF / MCD 2027 费用与燃油附加就绪体检](s81-amazon-awd-mcd-2027-fee-readiness.md)

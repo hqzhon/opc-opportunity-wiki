@@ -91,3 +91,4 @@
 | Amazon Ads 旧报表迁到统一报表就绪体检（01-18 起只读 × 01-31 关闭并删除未迁移数据 × 不要用 What's New 的 12-31） | SaaS | 运营 | | [s78-amazon-ads-unified-reporting-migration-readiness](entries/s78-amazon-ads-unified-reporting-migration-readiness.md) |
 | TikTok Shop 欧盟站假日退货窗就绪体检（德法意西爱 11-11、比荷波 11-19 至 12-31 可退到 2027-01-31 × 与英区 11-06 / 美区 2-10 不同 × 除外类目看商品页） | SaaS | 运营 | | [s79-tiktok-shop-eu-holiday-returns-readiness](entries/s79-tiktok-shop-eu-holiday-returns-readiness.md) |
 | Google Merchant Center 促销价 30 天窗就绪体检（sale_price 持续期不宜超过 30 天 × 过长可能失去划线价与促销标 × 与 s43 图规、促销标题分开） | SaaS | 皆可 | | [s80-google-merchant-sale-price-30-day-readiness](entries/s80-google-merchant-sale-price-30-day-readiness.md) |
+| Amazon AWD / MCF / MCD 2027 费用与燃油附加就绪体检（02-01 燃油附加扩到 AWD 运输和 MCD × 处理/运输新费率 × 03-01 库龄仓储 × MCF 1-15 平均涨 3.5%） | SaaS | 运营 | | [s81-amazon-awd-mcd-2027-fee-readiness](entries/s81-amazon-awd-mcd-2027-fee-readiness.md) |
